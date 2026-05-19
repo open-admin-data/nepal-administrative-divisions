@@ -1,0 +1,49 @@
+{
+  "id": "NP0327",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "काठमाडौँ",
+    "en": "Kathmandu",
+    "slug": "kathmandu-np0327"
+  },
+  "code": {
+    "id": "NP0327",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 11
+  },
+  "zip_codes": [
+    "44600"
+  ],
+  "geo": {
+    "lat": "27.694",
+    "lon": "85.285"
+  },
+  "metadata": {},
+  "source": {}
+}

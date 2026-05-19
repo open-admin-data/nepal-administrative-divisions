@@ -1,0 +1,49 @@
+{
+  "id": "NP0664",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "कालिकोट",
+    "en": "Kalikot",
+    "slug": "kalikot-np0664"
+  },
+  "code": {
+    "id": "NP0664",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP06",
+    "level": 1,
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "21300"
+  ],
+  "geo": {
+    "lat": "29.216",
+    "lon": "81.689"
+  },
+  "metadata": {},
+  "source": {}
+}

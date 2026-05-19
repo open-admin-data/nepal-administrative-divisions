@@ -1,0 +1,30 @@
+{
+  "id": "NP01",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "कोशी",
+    "en": "Koshi",
+    "slug": "koshi-np01"
+  },
+  "code": {
+    "id": "NP01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "local_unit": 139
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.23",
+    "lon": "87.177"
+  },
+  "metadata": {},
+  "source": {}
+}

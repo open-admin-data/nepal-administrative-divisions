@@ -1,0 +1,49 @@
+{
+  "id": "NP0774",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "बैतडी",
+    "en": "Baitadi",
+    "slug": "baitadi-np0774"
+  },
+  "code": {
+    "id": "NP0774",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "10200"
+  ],
+  "geo": {
+    "lat": "29.508",
+    "lon": "80.558"
+  },
+  "metadata": {},
+  "source": {}
+}

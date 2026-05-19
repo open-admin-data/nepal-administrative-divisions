@@ -1,0 +1,426 @@
+# Sudur Paschim — Nepal Administrative Divisions
+
+> 9 districts, 93 local units
+> Code: NP07
+> Coordinates: 29.321, 80.919
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### अछाम (Achham)
+
+Code: NP0769, Coordinates: 29.068, 81.294
+Local Units: 11
+
+#### बान्नीगढी जयगढ (Bannigadhi Jayagadh)
+
+Code: NP0769403, Postal: 10700, Coordinates: 29.193, 81.3
+
+#### चौरपाटी (Chaurpati)
+
+Code: NP0769401, Postal: 10700, Coordinates: 29.202, 81.127
+
+#### ढकारी (Dhakari)
+
+Code: NP0769405, Postal: 10700, Coordinates: 28.976, 81.224
+
+#### कमलबजार (Kamal bazar)
+
+Code: NP0769303, Postal: 10700, Coordinates: 29.065, 81.331
+
+#### खप्तड छेडेदह (Khaptad)
+
+Code: NP0769597, Postal: 10700, Coordinates: 29.341, 81.158
+
+#### मंगलसेन (Mangalsen)
+
+Code: NP0769302, Postal: 10700, Coordinates: 29.095, 81.204
+
+#### मेल्लेख (Mellekh)
+
+Code: NP0769402, Postal: 10700, Coordinates: 29.267, 81.319
+
+#### पंचदेवल बिनायक (Panchdebal Binayak)
+
+Code: NP0769304, Postal: 10700, Coordinates: 29.099, 81.444
+
+#### रामारोशन (Ramaroshan)
+
+Code: NP0769404, Postal: 10700, Coordinates: 29.202, 81.414
+
+#### साफेबगर (Sanphebagar)
+
+Code: NP0769301, Postal: 10700, Coordinates: 29.259, 81.18
+
+#### तुर्माखाँद (Turmakhand)
+
+Code: NP0769406, Postal: 10700, Coordinates: 28.886, 81.488
+
+### बैतडी (Baitadi)
+
+Code: NP0774, Coordinates: 29.508, 80.558
+Local Units: 10
+
+#### दशरथचन्द (Dasharathchand)
+
+Code: NP0774301, Postal: 10200, Coordinates: 29.544, 80.417
+
+#### डिलासैनी (Dilasaini)
+
+Code: NP0774401, Postal: 10200, Coordinates: 29.66, 80.605
+
+#### दोगडाकेदार (Dogada Kedar)
+
+Code: NP0774402, Postal: 10200, Coordinates: 29.592, 80.524
+
+#### मेलौली (Melauli)
+
+Code: NP0774303, Postal: 10200, Coordinates: 29.42, 80.424
+
+#### पञ्चेश्वर (Pancheshwor)
+
+Code: NP0774404, Postal: 10200, Coordinates: 29.446, 80.303
+
+#### पाटन (Patan)
+
+Code: NP0774304, Postal: 10200, Coordinates: 29.45, 80.582
+
+#### पुचौंडी (Puchaundi)
+
+Code: NP0774302, Postal: 10200, Coordinates: 29.605, 80.699
+
+#### शिवनाथ (Shivanath)
+
+Code: NP0774405, Postal: 10200, Coordinates: 29.384, 80.349
+
+#### सिगास (Sigas)
+
+Code: NP0774406, Postal: 10200, Coordinates: 29.45, 80.777
+
+#### सुर्नया (Surnaya)
+
+Code: NP0774403, Postal: 10200, Coordinates: 29.529, 80.614
+
+### बझाङ (Bajhang)
+
+Code: NP0767, Coordinates: 29.723, 81.246
+Local Units: 13
+
+#### बित्थडचिर (Bitthadchir)
+
+Code: NP0767404, Postal: 10500, Coordinates: 29.504, 80.854
+
+#### बुंगल (Bungal)
+
+Code: NP0767301, Postal: 10500, Coordinates: 29.689, 80.947
+
+#### छबिस पाथिभरा (Chhabis Pathibhara)
+
+Code: NP0767407, Postal: 10500, Coordinates: 29.56, 81.06
+
+#### दुर्गाथली (Durgathali)
+
+Code: NP0767406, Postal: 10500, Coordinates: 29.536, 81.001
+
+#### जयपृथ्वी (Jayaprithbi)
+
+Code: NP0767302, Postal: 10500, Coordinates: 29.552, 81.16
+
+#### केदारस्युँ (Kedarsyun)
+
+Code: NP0767405, Postal: 10500, Coordinates: 29.512, 80.931
+
+#### खप्तड छेडेदह (Khaptad)
+
+Code: NP0767597, Postal: 10500, Coordinates: 29.428, 81.087
+
+#### खप्तडछान्ना (Khaptad Chhanna)
+
+Code: NP0767410, Postal: 10500, Coordinates: 29.458, 81.213
+
+#### मष्टा (Masta)
+
+Code: NP0767408, Postal: 10500, Coordinates: 29.543, 81.298
+
+#### सइपाल (Saipal)
+
+Code: NP0767401, Postal: 10500, Coordinates: 29.857, 81.298
+
+#### सुर्मा (Surma)
+
+Code: NP0767402, Postal: 10500, Coordinates: 29.694, 81.147
+
+#### तलकोट (Talkot)
+
+Code: NP0767403, Postal: 10500, Coordinates: 29.685, 81.279
+
+#### थलारा (Thalara)
+
+Code: NP0767409, Postal: 10500, Coordinates: 29.451, 80.997
+
+### बाजुरा (Bajura)
+
+Code: NP0768, Coordinates: 29.611, 81.577
+Local Units: 10
+
+#### बडीमालिका (Badimalika)
+
+Code: NP0768302, Postal: 10600, Coordinates: 29.44, 81.497
+
+#### बुढीगंगा (Budhiganga)
+
+Code: NP0768303, Postal: 10600, Coordinates: 29.361, 81.322
+
+#### बुढीनन्दा (Budhinanda)
+
+Code: NP0768301, Postal: 10600, Coordinates: 29.538, 81.617
+
+#### गौमुल (Gaumul)
+
+Code: NP0768402, Postal: 10600, Coordinates: 29.568, 81.482
+
+#### हिमाली (Himali)
+
+Code: NP0768401, Postal: 10600, Coordinates: 29.712, 81.618
+
+#### जगन्नाथ (Jagannath)
+
+Code: NP0768404, Postal: 10600, Coordinates: 29.399, 81.645
+
+#### खप्तड छेडेदह (Khaptad)
+
+Code: NP0768597, Postal: 10600, Coordinates: 29.392, 81.192
+
+#### खप्तड छेडेदह (Khaptad Chhededaha)
+
+Code: NP0768403, Postal: 10600, Coordinates: 29.398, 81.281
+
+#### स्वामीकार्तिक खापर (Swamikartik Khapar)
+
+Code: NP0768405, Postal: 10600, Coordinates: 29.424, 81.757
+
+#### त्रिवेणी (Tribeni)
+
+Code: NP0768304, Postal: 10600, Coordinates: 29.335, 81.429
+
+### डडेलधुरा (Dadeldhura)
+
+Code: NP0773, Coordinates: 29.209, 80.501
+Local Units: 7
+
+#### आलिताल (Aalital)
+
+Code: NP0773404, Postal: 10300, Coordinates: 29.115, 80.493
+
+#### अजयमेरु (Ajayameru)
+
+Code: NP0773402, Postal: 10300, Coordinates: 29.364, 80.512
+
+#### अमरगढी (Amargadhi)
+
+Code: NP0773302, Postal: 10300, Coordinates: 29.306, 80.608
+
+#### भागेश्वर (Bhageshwor)
+
+Code: NP0773401, Postal: 10300, Coordinates: 29.282, 80.411
+
+#### गन्यापधुरा (Ganyapdhura)
+
+Code: NP0773405, Postal: 10300, Coordinates: 29.248, 80.678
+
+#### नवदुर्गा (Nawadurga)
+
+Code: NP0773403, Postal: 10300, Coordinates: 29.363, 80.695
+
+#### परशुराम (Parashuram)
+
+Code: NP0773301, Postal: 10300, Coordinates: 29.13, 80.34
+
+### दार्चुला (Darchula)
+
+Code: NP0775, Coordinates: 29.926, 80.789
+Local Units: 9
+
+#### अपिहिमाल (Apihimal)
+
+Code: NP0775403, Postal: 10100, Coordinates: 29.867, 80.883
+
+#### व्याँस (Byas)
+
+Code: NP0775401, Postal: 10100, Coordinates: 30.058, 80.937
+
+#### दुहुँ (Duhun)
+
+Code: NP0775402, Postal: 10100, Coordinates: 29.891, 80.618
+
+#### लेकम (Lekam)
+
+Code: NP0775406, Postal: 10100, Coordinates: 29.657, 80.463
+
+#### महाकाली (Mahakali)
+
+Code: NP0775301, Postal: 10100, Coordinates: 29.808, 80.564
+
+#### मालिकार्जुन (Malikarjun)
+
+Code: NP0775404, Postal: 10100, Coordinates: 29.73, 80.428
+
+#### मार्मा (Marma)
+
+Code: NP0775407, Postal: 10100, Coordinates: 29.741, 80.846
+
+#### नौगाड (Naugad)
+
+Code: NP0775405, Postal: 10100, Coordinates: 29.798, 80.678
+
+#### शैल्यशिखर (Shailyashikhar)
+
+Code: NP0775302, Postal: 10100, Coordinates: 29.706, 80.574
+
+### डोटी (Doti)
+
+Code: NP0770, Coordinates: 29.188, 80.862
+Local Units: 10
+
+#### आदर्श (Aadarsha)
+
+Code: NP0770401, Postal: 10800, Coordinates: 29.35, 80.867
+
+#### बडीकेदार (Badi Kedar)
+
+Code: NP0770406, Postal: 10800, Coordinates: 29.029, 80.865
+
+#### बोगटान फुड्सिल (Bogatan Phudsil)
+
+Code: NP0770407, Postal: 10800, Coordinates: 29.05, 81.064
+
+#### दिपायल सिलगढी (Dipayal Silgadhi)
+
+Code: NP0770302, Postal: 10800, Coordinates: 29.258, 80.972
+
+#### जोरायल (Jorayal)
+
+Code: NP0770404, Postal: 10800, Coordinates: 29.101, 80.674
+
+#### केआईसिंह (K.I. Singh)
+
+Code: NP0770405, Postal: 10800, Coordinates: 29.179, 80.979
+
+#### खप्तड छेडेदह (Khaptad)
+
+Code: NP0770597, Postal: 10800, Coordinates: 29.359, 81.094
+
+#### पुर्विचौकी (Purbichouki)
+
+Code: NP0770403, Postal: 10800, Coordinates: 29.269, 81.059
+
+#### सायल (Sayal)
+
+Code: NP0770402, Postal: 10800, Coordinates: 29.368, 80.971
+
+#### शिखर (Shikhar)
+
+Code: NP0770301, Postal: 10800, Coordinates: 29.244, 80.822
+
+### कैलाली (Kailali)
+
+Code: NP0771, Coordinates: 28.731, 80.904
+Local Units: 13
+
+#### बर्दगोरिया (Bardagoriya)
+
+Code: NP0771405, Postal: 10900, Coordinates: 28.688, 81.042
+
+#### भजनी (Bhajani)
+
+Code: NP0771304, Postal: 10900, Coordinates: 28.52, 80.964
+
+#### चुरे (Chure)
+
+Code: NP0771401, Postal: 10900, Coordinates: 28.927, 80.745
+
+#### धनगढी (Dhangadhi)
+
+Code: NP0771201, Postal: 10900, Coordinates: 28.675, 80.652
+
+#### गौरीगंगा (Gauriganga)
+
+Code: NP0771302, Postal: 10900, Coordinates: 28.75, 80.808
+
+#### घोडाघोडी (Ghodaghodi)
+
+Code: NP0771303, Postal: 10900, Coordinates: 28.711, 80.945
+
+#### गोदावरी (Godawari)
+
+Code: NP0771301, Postal: 10900, Coordinates: 28.863, 80.582
+
+#### जानकी (Janaki)
+
+Code: NP0771406, Postal: 10900, Coordinates: 28.568, 81.143
+
+#### जोशीपुर (Joshipur)
+
+Code: NP0771404, Postal: 10900, Coordinates: 28.569, 81.03
+
+#### कैलारी (Kailari)
+
+Code: NP0771402, Postal: 10900, Coordinates: 28.598, 80.794
+
+#### लम्की चुहा (Lamki Chuha)
+
+Code: NP0771306, Postal: 10900, Coordinates: 28.658, 81.153
+
+#### मोहन्याल (Mohanyal)
+
+Code: NP0771403, Postal: 10900, Coordinates: 28.813, 81.111
+
+#### टिकापुर (Tikapur)
+
+Code: NP0771305, Postal: 10900, Coordinates: 28.474, 81.082
+
+### कञ्चनपुर (Kanchanpur)
+
+Code: NP0772, Coordinates: 28.845, 80.283
+Local Units: 10
+
+#### वेदकोट (Bedkot)
+
+Code: NP0772303, Postal: 10400, Coordinates: 28.984, 80.267
+
+#### बेलडाँडी (Beldandi)
+
+Code: NP0772401, Postal: 10400, Coordinates: 28.774, 80.267
+
+#### बेलौरी (Belouri)
+
+Code: NP0772306, Postal: 10400, Coordinates: 28.701, 80.358
+
+#### भीमदत्त (Bhimdatta)
+
+Code: NP0772302, Postal: 10400, Coordinates: 29.016, 80.171
+
+#### दोधारा चाँदनी (Dodhara Chandani)
+
+Code: NP0772301, Postal: 10400, Coordinates: 28.905, 80.082
+
+#### कृष्णपुर (Krishnapur)
+
+Code: NP0772305, Postal: 10400, Coordinates: 28.874, 80.449
+
+#### लालझाँडी (Laljhadi)
+
+Code: NP0772402, Postal: 10400, Coordinates: 28.757, 80.404
+
+#### पुनर्वास (Punarbas)
+
+Code: NP0772307, Postal: 10400, Coordinates: 28.639, 80.467
+
+#### शुक्लाफाँटा (Shuklaphanta)
+
+Code: NP0772304, Postal: 10400, Coordinates: 28.926, 80.372
+
+#### शुक्लाफाँटा (Shuklaphanta)
+
+Code: NP0772597, Postal: 10400, Coordinates: 28.893, 80.21
+

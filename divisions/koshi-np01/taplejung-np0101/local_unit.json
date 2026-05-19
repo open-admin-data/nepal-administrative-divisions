@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0101406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आठराई त्रिवेणी",
+      "en": "Aatharai Tribeni",
+      "slug": "aatharai-tribeni-np0101406"
+    },
+    "code": {
+      "id": "NP0101406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.32",
+      "lon": "87.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मैवाखोला",
+      "en": "Maiwakhola",
+      "slug": "maiwakhola-np0101405"
+    },
+    "code": {
+      "id": "NP0101405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.386",
+      "lon": "87.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेरिङदेन",
+      "en": "Meringden",
+      "slug": "meringden-np0101404"
+    },
+    "code": {
+      "id": "NP0101404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.481",
+      "lon": "87.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिक्वाखोला",
+      "en": "Mikwakhola",
+      "slug": "mikwakhola-np0101402"
+    },
+    "code": {
+      "id": "NP0101402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.557",
+      "lon": "87.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाथीभरा याङवरक",
+      "en": "Pathivara Yangwarak",
+      "slug": "pathivara-yangwarak-np0101407"
+    },
+    "code": {
+      "id": "NP0101407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.325",
+      "lon": "87.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फक्ताङ्लुङ्ग",
+      "en": "Phaktanlung",
+      "slug": "phaktanlung-np0101401"
+    },
+    "code": {
+      "id": "NP0101401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.679",
+      "lon": "87.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फुङलिङ",
+      "en": "Phungling",
+      "slug": "phungling-np0101301"
+    },
+    "code": {
+      "id": "NP0101301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.383",
+      "lon": "87.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिदिङवा",
+      "en": "Sidingba",
+      "slug": "sidingba-np0101408"
+    },
+    "code": {
+      "id": "NP0101408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.361",
+      "lon": "87.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिरीजङ्गा",
+      "en": "Sirijanga",
+      "slug": "sirijanga-np0101403"
+    },
+    "code": {
+      "id": "NP0101403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0101",
+      "level": 2,
+      "name": {
+        "local": "ताप्लेजुङ",
+        "en": "Taplejung",
+        "slug": "taplejung-np0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0101",
+        "level": 2,
+        "name": {
+          "local": "ताप्लेजुङ",
+          "en": "Taplejung",
+          "slug": "taplejung-np0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.497",
+      "lon": "87.966"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

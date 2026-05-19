@@ -1,0 +1,226 @@
+[
+  {
+    "id": "NP0438403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चामे",
+      "en": "Chame",
+      "slug": "chame-np0438403"
+    },
+    "code": {
+      "id": "NP0438403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0438",
+      "level": 2,
+      "name": {
+        "local": "मनाङ",
+        "en": "Manang",
+        "slug": "manang-np0438"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0438",
+        "level": 2,
+        "name": {
+          "local": "मनाङ",
+          "en": "Manang",
+          "slug": "manang-np0438"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.524",
+      "lon": "84.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0438402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नार्पा भूमी",
+      "en": "Narpa Bhumi",
+      "slug": "narpa-bhumi-np0438402"
+    },
+    "code": {
+      "id": "NP0438402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0438",
+      "level": 2,
+      "name": {
+        "local": "मनाङ",
+        "en": "Manang",
+        "slug": "manang-np0438"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0438",
+        "level": 2,
+        "name": {
+          "local": "मनाङ",
+          "en": "Manang",
+          "slug": "manang-np0438"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.734",
+      "lon": "84.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0438404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नासोँ",
+      "en": "Nason",
+      "slug": "nason-np0438404"
+    },
+    "code": {
+      "id": "NP0438404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0438",
+      "level": 2,
+      "name": {
+        "local": "मनाङ",
+        "en": "Manang",
+        "slug": "manang-np0438"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0438",
+        "level": 2,
+        "name": {
+          "local": "मनाङ",
+          "en": "Manang",
+          "slug": "manang-np0438"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.608",
+      "lon": "84.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0438401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मनाङ ङिस्याङ",
+      "en": "Ngisyang",
+      "slug": "ngisyang-np0438401"
+    },
+    "code": {
+      "id": "NP0438401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0438",
+      "level": 2,
+      "name": {
+        "local": "मनाङ",
+        "en": "Manang",
+        "slug": "manang-np0438"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0438",
+        "level": 2,
+        "name": {
+          "local": "मनाङ",
+          "en": "Manang",
+          "slug": "manang-np0438"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.669",
+      "lon": "83.991"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

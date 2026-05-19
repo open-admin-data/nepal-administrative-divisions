@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0233",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बारा",
+      "en": "Bara",
+      "slug": "bara-np0233"
+    },
+    "code": {
+      "id": "NP0233",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.107",
+      "lon": "85.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धनुषा",
+      "en": "Dhanusa",
+      "slug": "dhanusa-np0217"
+    },
+    "code": {
+      "id": "NP0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 18
+    },
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.851",
+      "lon": "86.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "महोत्तरी",
+      "en": "Mahottari",
+      "slug": "mahottari-np0218"
+    },
+    "code": {
+      "id": "NP0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 15
+    },
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.885",
+      "lon": "85.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0234"
+    },
+    "code": {
+      "id": "NP0234",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 16
+    },
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.223",
+      "lon": "84.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रौतहट",
+      "en": "Rautahat",
+      "slug": "rautahat-np0232"
+    },
+    "code": {
+      "id": "NP0232",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 18
+    },
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.989",
+      "lon": "85.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सप्तरी",
+      "en": "Saptari",
+      "slug": "saptari-np0215"
+    },
+    "code": {
+      "id": "NP0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 19
+    },
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.607",
+      "lon": "86.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सर्लाही",
+      "en": "Sarlahi",
+      "slug": "sarlahi-np0219"
+    },
+    "code": {
+      "id": "NP0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 20
+    },
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.968",
+      "lon": "85.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिराहा",
+      "en": "Siraha",
+      "slug": "siraha-np0216"
+    },
+    "code": {
+      "id": "NP0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.742",
+      "lon": "86.35"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

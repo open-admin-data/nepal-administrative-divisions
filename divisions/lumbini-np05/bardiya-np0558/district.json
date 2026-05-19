@@ -1,0 +1,49 @@
+{
+  "id": "NP0558",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "बर्दिया",
+    "en": "Bardiya",
+    "slug": "bardiya-np0558"
+  },
+  "code": {
+    "id": "NP0558",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "21800"
+  ],
+  "geo": {
+    "lat": "28.372",
+    "lon": "81.45"
+  },
+  "metadata": {},
+  "source": {}
+}

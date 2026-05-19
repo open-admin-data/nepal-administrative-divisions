@@ -1,0 +1,226 @@
+[
+  {
+    "id": "NP0326303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भक्तपुर",
+      "en": "Bhaktapur",
+      "slug": "bhaktapur-np0326303"
+    },
+    "code": {
+      "id": "NP0326303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0326",
+      "level": 2,
+      "name": {
+        "local": "भक्तपुर",
+        "en": "Bhaktapur",
+        "slug": "bhaktapur-np0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0326",
+        "level": 2,
+        "name": {
+          "local": "भक्तपुर",
+          "en": "Bhaktapur",
+          "slug": "bhaktapur-np0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.678",
+      "lon": "85.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0326302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चाँगुनारायण",
+      "en": "Changunarayan",
+      "slug": "changunarayan-np0326302"
+    },
+    "code": {
+      "id": "NP0326302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0326",
+      "level": 2,
+      "name": {
+        "local": "भक्तपुर",
+        "en": "Bhaktapur",
+        "slug": "bhaktapur-np0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0326",
+        "level": 2,
+        "name": {
+          "local": "भक्तपुर",
+          "en": "Bhaktapur",
+          "slug": "bhaktapur-np0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.692",
+      "lon": "85.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0326301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मध्यपुर थिमी",
+      "en": "Madhyapur Thimi",
+      "slug": "madhyapur-thimi-np0326301"
+    },
+    "code": {
+      "id": "NP0326301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0326",
+      "level": 2,
+      "name": {
+        "local": "भक्तपुर",
+        "en": "Bhaktapur",
+        "slug": "bhaktapur-np0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0326",
+        "level": 2,
+        "name": {
+          "local": "भक्तपुर",
+          "en": "Bhaktapur",
+          "slug": "bhaktapur-np0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.685",
+      "lon": "85.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0326304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सूर्यविनायक",
+      "en": "Suryabinayak",
+      "slug": "suryabinayak-np0326304"
+    },
+    "code": {
+      "id": "NP0326304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0326",
+      "level": 2,
+      "name": {
+        "local": "भक्तपुर",
+        "en": "Bhaktapur",
+        "slug": "bhaktapur-np0326"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0326",
+        "level": 2,
+        "name": {
+          "local": "भक्तपुर",
+          "en": "Bhaktapur",
+          "slug": "bhaktapur-np0326"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.647",
+      "lon": "85.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

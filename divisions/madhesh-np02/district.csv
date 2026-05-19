@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.local_unit,zip_codes,geo.lat,geo.lon
+NP0233,बारा,Bara,bara-np0233,NP0233,17,44400,27.107,85.069
+NP0217,धनुषा,Dhanusa,dhanusa-np0217,NP0217,18,45600,26.851,86.036
+NP0218,महोत्तरी,Mahottari,mahottari-np0218,NP0218,15,45700,26.885,85.797
+NP0234,पर्सा,Parsa,parsa-np0234,NP0234,16,44300,27.223,84.827
+NP0232,रौतहट,Rautahat,rautahat-np0232,NP0232,18,44500,26.989,85.283
+NP0215,सप्तरी,Saptari,saptari-np0215,NP0215,19,56400,26.607,86.749
+NP0219,सर्लाही,Sarlahi,sarlahi-np0219,NP0219,20,45800,26.968,85.564
+NP0216,सिराहा,Siraha,siraha-np0216,NP0216,17,56500,26.742,86.35

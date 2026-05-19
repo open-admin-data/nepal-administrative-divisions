@@ -1,0 +1,49 @@
+{
+  "id": "NP0550",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "अर्घाखाँची",
+    "en": "Arghakhanchi",
+    "slug": "arghakhanchi-np0550"
+  },
+  "code": {
+    "id": "NP0550",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 6
+  },
+  "zip_codes": [
+    "32700"
+  ],
+  "geo": {
+    "lat": "27.932",
+    "lon": "83.146"
+  },
+  "metadata": {},
+  "source": {}
+}

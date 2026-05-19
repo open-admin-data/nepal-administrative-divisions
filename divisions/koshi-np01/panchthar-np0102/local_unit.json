@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0102403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फालेलुङ",
+      "en": "Falelung",
+      "slug": "falelung-np0102403"
+    },
+    "code": {
+      "id": "NP0102403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.169",
+      "lon": "87.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फाल्गुनन्द",
+      "en": "Falgunanda",
+      "slug": "falgunanda-np0102405"
+    },
+    "code": {
+      "id": "NP0102405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.048",
+      "lon": "87.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हिलिहाङ्ग",
+      "en": "Hilihan",
+      "slug": "hilihan-np0102401"
+    },
+    "code": {
+      "id": "NP0102401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.221",
+      "lon": "87.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कुम्मायक",
+      "en": "Kummayak",
+      "slug": "kummayak-np0102404"
+    },
+    "code": {
+      "id": "NP0102404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.075",
+      "lon": "87.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिक्लाजुङ",
+      "en": "Miklajung",
+      "slug": "miklajung-np0102407"
+    },
+    "code": {
+      "id": "NP0102407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "26.938",
+      "lon": "87.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फिदिम",
+      "en": "Phidim",
+      "slug": "phidim-np0102301"
+    },
+    "code": {
+      "id": "NP0102301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.12",
+      "lon": "87.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तुम्बेवा",
+      "en": "Tumbewa",
+      "slug": "tumbewa-np0102406"
+    },
+    "code": {
+      "id": "NP0102406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "26.984",
+      "lon": "87.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "याङवरक",
+      "en": "Yangbarak",
+      "slug": "yangbarak-np0102402"
+    },
+    "code": {
+      "id": "NP0102402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0102",
+      "level": 2,
+      "name": {
+        "local": "पाँचथर",
+        "en": "Panchthar",
+        "slug": "panchthar-np0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0102",
+        "level": 2,
+        "name": {
+          "local": "पाँचथर",
+          "en": "Panchthar",
+          "slug": "panchthar-np0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.327",
+      "lon": "88.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

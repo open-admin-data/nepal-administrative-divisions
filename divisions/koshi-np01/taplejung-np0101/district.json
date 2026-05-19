@@ -1,0 +1,49 @@
+{
+  "id": "NP0101",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "ताप्लेजुङ",
+    "en": "Taplejung",
+    "slug": "taplejung-np0101"
+  },
+  "code": {
+    "id": "NP0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "57500"
+  ],
+  "geo": {
+    "lat": "27.61",
+    "lon": "87.822"
+  },
+  "metadata": {},
+  "source": {}
+}

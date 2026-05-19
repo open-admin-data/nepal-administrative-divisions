@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0437302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेँसीशहर",
+      "en": "Bensishahar",
+      "slug": "bensishahar-np0437302"
+    },
+    "code": {
+      "id": "NP0437302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.219",
+      "lon": "84.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दोर्दी",
+      "en": "Dordi",
+      "slug": "dordi-np0437403"
+    },
+    "code": {
+      "id": "NP0437403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.293",
+      "lon": "84.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुधपोखरी",
+      "en": "Dudhapokhari",
+      "slug": "dudhapokhari-np0437404"
+    },
+    "code": {
+      "id": "NP0437404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.223",
+      "lon": "84.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "क्ब्होलासोथार",
+      "en": "Kwhola Sothar",
+      "slug": "kwhola-sothar-np0437401"
+    },
+    "code": {
+      "id": "NP0437401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.311",
+      "lon": "84.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मध्यनेपाल",
+      "en": "Madhya Nepal",
+      "slug": "madhya-nepal-np0437301"
+    },
+    "code": {
+      "id": "NP0437301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.147",
+      "lon": "84.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मस्र्याङ्गदी",
+      "en": "Marshyangdi",
+      "slug": "marshyangdi-np0437402"
+    },
+    "code": {
+      "id": "NP0437402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.381",
+      "lon": "84.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रार्इनास",
+      "en": "Rainas",
+      "slug": "rainas-np0437304"
+    },
+    "code": {
+      "id": "NP0437304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.108",
+      "lon": "84.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुन्दरबजार",
+      "en": "Sundarbazar",
+      "slug": "sundarbazar-np0437303"
+    },
+    "code": {
+      "id": "NP0437303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0437",
+      "level": 2,
+      "name": {
+        "local": "लम्जुङ",
+        "en": "Lamjung",
+        "slug": "lamjung-np0437"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0437",
+        "level": 2,
+        "name": {
+          "local": "लम्जुङ",
+          "en": "Lamjung",
+          "slug": "lamjung-np0437"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.155",
+      "lon": "84.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

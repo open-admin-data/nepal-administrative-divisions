@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0320302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुधौली",
+      "en": "Dudhouli",
+      "slug": "dudhouli-np0320302"
+    },
+    "code": {
+      "id": "NP0320302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.025",
+      "lon": "86.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ध्याङलेख",
+      "en": "Ghyanglekha",
+      "slug": "ghyanglekha-np0320403"
+    },
+    "code": {
+      "id": "NP0320403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.345",
+      "lon": "85.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोलन्जोर",
+      "en": "Golanjor",
+      "slug": "golanjor-np0320405"
+    },
+    "code": {
+      "id": "NP0320405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.261",
+      "lon": "86.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरिहरपुरगढी",
+      "en": "Hariharpurgaghi",
+      "slug": "hariharpurgaghi-np0320401"
+    },
+    "code": {
+      "id": "NP0320401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.257",
+      "lon": "85.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कमलामाई",
+      "en": "Kamalamai",
+      "slug": "kamalamai-np0320301"
+    },
+    "code": {
+      "id": "NP0320301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.173",
+      "lon": "85.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मरिण",
+      "en": "Marin",
+      "slug": "marin-np0320402"
+    },
+    "code": {
+      "id": "NP0320402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.248",
+      "lon": "85.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फिक्कल",
+      "en": "Phikkal",
+      "slug": "phikkal-np0320407"
+    },
+    "code": {
+      "id": "NP0320407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.185",
+      "lon": "86.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनकोशी",
+      "en": "Sunkoshi",
+      "slug": "sunkoshi-np0320404"
+    },
+    "code": {
+      "id": "NP0320404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.38",
+      "lon": "85.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिनपाटन",
+      "en": "Tinpatan",
+      "slug": "tinpatan-np0320406"
+    },
+    "code": {
+      "id": "NP0320406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0320",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुली",
+        "en": "Sindhuli",
+        "slug": "sindhuli-np0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0320",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुली",
+          "en": "Sindhuli",
+          "slug": "sindhuli-np0320"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.132",
+      "lon": "86.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

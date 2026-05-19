@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0547302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बर्दघाट",
+      "en": "Bardaghat",
+      "slug": "bardaghat-np0547302"
+    },
+    "code": {
+      "id": "NP0547302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.57",
+      "lon": "83.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पल्हीनन्दन",
+      "en": "Palhinandan",
+      "slug": "palhinandan-np0547401"
+    },
+    "code": {
+      "id": "NP0547401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.464",
+      "lon": "83.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "प्रतापपुर",
+      "en": "Pratapapur",
+      "slug": "pratapapur-np0547403"
+    },
+    "code": {
+      "id": "NP0547403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.436",
+      "lon": "83.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामग्राम",
+      "en": "Ramgram",
+      "slug": "ramgram-np0547303"
+    },
+    "code": {
+      "id": "NP0547303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.527",
+      "lon": "83.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सरावल",
+      "en": "Sarawal",
+      "slug": "sarawal-np0547402"
+    },
+    "code": {
+      "id": "NP0547402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.509",
+      "lon": "83.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनवल",
+      "en": "Sunawal",
+      "slug": "sunawal-np0547301"
+    },
+    "code": {
+      "id": "NP0547301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.617",
+      "lon": "83.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुस्ता",
+      "en": "Susta",
+      "slug": "susta-np0547404"
+    },
+    "code": {
+      "id": "NP0547404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0547",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम नवलपरासी",
+        "en": "Nawalparasi West",
+        "slug": "nawalparasi-west-np0547"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0547",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम नवलपरासी",
+          "en": "Nawalparasi West",
+          "slug": "nawalparasi-west-np0547"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.428",
+      "lon": "83.843"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

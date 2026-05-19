@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0109402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भोटखोला",
+      "en": "Bhotkhola",
+      "slug": "bhotkhola-np0109402"
+    },
+    "code": {
+      "id": "NP0109402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.749",
+      "lon": "87.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चैनपुर",
+      "en": "Chainapur",
+      "slug": "chainapur-np0109303"
+    },
+    "code": {
+      "id": "NP0109303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.308",
+      "lon": "87.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चिचिला",
+      "en": "Chichila",
+      "slug": "chichila-np0109404"
+    },
+    "code": {
+      "id": "NP0109404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.483",
+      "lon": "87.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धर्मदेवी",
+      "en": "Dharmadevi",
+      "slug": "dharmadevi-np0109304"
+    },
+    "code": {
+      "id": "NP0109304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.202",
+      "lon": "87.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खाँदबारी",
+      "en": "Khandabari",
+      "slug": "khandabari-np0109301"
+    },
+    "code": {
+      "id": "NP0109301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.367",
+      "lon": "87.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मादी",
+      "en": "Madi",
+      "slug": "madi-np0109305"
+    },
+    "code": {
+      "id": "NP0109305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.252",
+      "lon": "87.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मकालु",
+      "en": "Makalu",
+      "slug": "makalu-np0109401"
+    },
+    "code": {
+      "id": "NP0109401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.729",
+      "lon": "87.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाँचखपन",
+      "en": "Panchakhapan",
+      "slug": "panchakhapan-np0109302"
+    },
+    "code": {
+      "id": "NP0109302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.352",
+      "lon": "87.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सभापोखरी",
+      "en": "Sabhapokhari",
+      "slug": "sabhapokhari-np0109405"
+    },
+    "code": {
+      "id": "NP0109405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.438",
+      "lon": "87.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिलीचोङ",
+      "en": "Silichong",
+      "slug": "silichong-np0109403"
+    },
+    "code": {
+      "id": "NP0109403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0109",
+      "level": 2,
+      "name": {
+        "local": "सङ्खुवासभा",
+        "en": "Sankhuwasabha",
+        "slug": "sankhuwasabha-np0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0109",
+        "level": 2,
+        "name": {
+          "local": "सङ्खुवासभा",
+          "en": "Sankhuwasabha",
+          "slug": "sankhuwasabha-np0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.582",
+      "lon": "87.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

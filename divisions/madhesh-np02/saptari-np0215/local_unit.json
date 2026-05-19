@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "NP0215402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अग्निसाइर कृष्ण सवरन",
+      "en": "Agnisair Krishna Sabaran",
+      "slug": "agnisair-krishna-sabaran-np0215402"
+    },
+    "code": {
+      "id": "NP0215402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.645",
+      "lon": "86.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बलान-बिहुल",
+      "en": "Balan-Bihul",
+      "slug": "balan-bihul-np0215404"
+    },
+    "code": {
+      "id": "NP0215404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.575",
+      "lon": "86.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विष्णुपुर",
+      "en": "Bishnupur",
+      "slug": "bishnupur-np0215407"
+    },
+    "code": {
+      "id": "NP0215407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.521",
+      "lon": "86.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बोदेबरसाईन",
+      "en": "Bode Barsain",
+      "slug": "bode-barsain-np0215306"
+    },
+    "code": {
+      "id": "NP0215306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.555",
+      "lon": "86.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छिन्नमस्ता",
+      "en": "Chhinnamasta",
+      "slug": "chhinnamasta-np0215408"
+    },
+    "code": {
+      "id": "NP0215408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.465",
+      "lon": "86.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "डाक्नेश्वरी",
+      "en": "Dakneshwori",
+      "slug": "dakneshwori-np0215307"
+    },
+    "code": {
+      "id": "NP0215307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.531",
+      "lon": "86.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हनुमाननगर कंकालिनी",
+      "en": "Hanumannagar Kankalini",
+      "slug": "hanumannagar-kankalini-np0215309"
+    },
+    "code": {
+      "id": "NP0215309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.512",
+      "lon": "86.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कञ्चनरूप",
+      "en": "Kanchanrup",
+      "slug": "kanchanrup-np0215305"
+    },
+    "code": {
+      "id": "NP0215305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.631",
+      "lon": "86.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खडक",
+      "en": "Khadak",
+      "slug": "khadak-np0215302"
+    },
+    "code": {
+      "id": "NP0215302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.631",
+      "lon": "86.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोशी टप्पु",
+      "en": "Koshi Tappu",
+      "slug": "koshi-tappu-np0215595"
+    },
+    "code": {
+      "id": "NP0215595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.64",
+      "lon": "86.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महादेवा",
+      "en": "Mahadewa",
+      "slug": "mahadewa-np0215405"
+    },
+    "code": {
+      "id": "NP0215405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.553",
+      "lon": "86.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राजविराज",
+      "en": "Rajbiraj",
+      "slug": "rajbiraj-np0215308"
+    },
+    "code": {
+      "id": "NP0215308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.535",
+      "lon": "86.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राजगढ",
+      "en": "Rajgadh",
+      "slug": "rajgadh-np0215406"
+    },
+    "code": {
+      "id": "NP0215406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.507",
+      "lon": "86.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रुपनी",
+      "en": "Rupani",
+      "slug": "rupani-np0215401"
+    },
+    "code": {
+      "id": "NP0215401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.635",
+      "lon": "86.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सप्तकोशी",
+      "en": "Saptakoshi",
+      "slug": "saptakoshi-np0215304"
+    },
+    "code": {
+      "id": "NP0215304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.717",
+      "lon": "86.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शम्भुनाथ",
+      "en": "Shambhunath",
+      "slug": "shambhunath-np0215303"
+    },
+    "code": {
+      "id": "NP0215303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.627",
+      "lon": "86.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुरुङ्‍गा",
+      "en": "Surunga",
+      "slug": "surunga-np0215301"
+    },
+    "code": {
+      "id": "NP0215301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.693",
+      "lon": "86.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिलाठी कोईलाडी",
+      "en": "Tilathi Koiladi",
+      "slug": "tilathi-koiladi-np0215409"
+    },
+    "code": {
+      "id": "NP0215409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.491",
+      "lon": "86.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिरहुत",
+      "en": "Tirahut",
+      "slug": "tirahut-np0215403"
+    },
+    "code": {
+      "id": "NP0215403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0215",
+      "level": 2,
+      "name": {
+        "local": "सप्तरी",
+        "en": "Saptari",
+        "slug": "saptari-np0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0215",
+        "level": 2,
+        "name": {
+          "local": "सप्तरी",
+          "en": "Saptari",
+          "slug": "saptari-np0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.592",
+      "lon": "86.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

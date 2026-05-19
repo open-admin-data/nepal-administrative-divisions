@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0549303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बाणगंगा",
+      "en": "Banganga",
+      "slug": "banganga-np0549303"
+    },
+    "code": {
+      "id": "NP0549303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.683",
+      "lon": "83.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विजयनगर",
+      "en": "Bijayanagar",
+      "slug": "bijayanagar-np0549401"
+    },
+    "code": {
+      "id": "NP0549401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.662",
+      "lon": "82.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुद्धभूमी",
+      "en": "Buddhabhumi",
+      "slug": "buddhabhumi-np0549302"
+    },
+    "code": {
+      "id": "NP0549302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.684",
+      "lon": "83.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कपिलवस्तु",
+      "en": "Kapilbastu",
+      "slug": "kapilbastu-np0549306"
+    },
+    "code": {
+      "id": "NP0549306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.567",
+      "lon": "83.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कृष्णनगर",
+      "en": "Krishnanagar",
+      "slug": "krishnanagar-np0549304"
+    },
+    "code": {
+      "id": "NP0549304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.534",
+      "lon": "82.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महाराजगंज",
+      "en": "Maharajganj",
+      "slug": "maharajganj-np0549305"
+    },
+    "code": {
+      "id": "NP0549305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.536",
+      "lon": "82.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मायादेवी",
+      "en": "Mayadevi",
+      "slug": "mayadevi-np0549403"
+    },
+    "code": {
+      "id": "NP0549403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.527",
+      "lon": "83.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवराज",
+      "en": "Shivaraj",
+      "slug": "shivaraj-np0549301"
+    },
+    "code": {
+      "id": "NP0549301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.682",
+      "lon": "82.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शुद्धोधन",
+      "en": "Shuddhodhan",
+      "slug": "shuddhodhan-np0549404"
+    },
+    "code": {
+      "id": "NP0549404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.508",
+      "lon": "83.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "यसोधरा",
+      "en": "Yasodhara",
+      "slug": "yasodhara-np0549402"
+    },
+    "code": {
+      "id": "NP0549402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0549",
+      "level": 2,
+      "name": {
+        "local": "कपिलवस्तु",
+        "en": "Kapilbastu",
+        "slug": "kapilbastu-np0549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0549",
+        "level": 2,
+        "name": {
+          "local": "कपिलवस्तु",
+          "en": "Kapilbastu",
+          "slug": "kapilbastu-np0549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.485",
+      "lon": "83.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

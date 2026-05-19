@@ -1,0 +1,49 @@
+{
+  "id": "NP0335",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "चितवन",
+    "en": "Chitawan",
+    "slug": "chitawan-np0335"
+  },
+  "code": {
+    "id": "NP0335",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "44200"
+  ],
+  "geo": {
+    "lat": "27.618",
+    "lon": "84.453"
+  },
+  "metadata": {},
+  "source": {}
+}

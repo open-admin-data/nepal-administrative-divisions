@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0661301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आठबीस",
+      "en": "Aathbis",
+      "slug": "aathbis-np0661301"
+    },
+    "code": {
+      "id": "NP0661301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "29.024",
+      "lon": "81.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भगवतीमाई",
+      "en": "Bhagawatimai",
+      "slug": "bhagawatimai-np0661407"
+    },
+    "code": {
+      "id": "NP0661407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.801",
+      "lon": "81.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भैरवी",
+      "en": "Bhairabi",
+      "slug": "bhairabi-np0661402"
+    },
+    "code": {
+      "id": "NP0661402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.945",
+      "lon": "81.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चामुण्डा विन्द्रासैनी",
+      "en": "Chamunda Bindrasaini",
+      "slug": "chamunda-bindrasaini-np0661302"
+    },
+    "code": {
+      "id": "NP0661302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.935",
+      "lon": "81.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुल्लु",
+      "en": "Dullu",
+      "slug": "dullu-np0661303"
+    },
+    "code": {
+      "id": "NP0661303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.833",
+      "lon": "81.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "डुंगेश्वर",
+      "en": "Dungeshwor",
+      "slug": "dungeshwor-np0661406"
+    },
+    "code": {
+      "id": "NP0661406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.754",
+      "lon": "81.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गुराँस",
+      "en": "Gurans",
+      "slug": "gurans-np0661405"
+    },
+    "code": {
+      "id": "NP0661405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.71",
+      "lon": "81.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महावु",
+      "en": "Mahabu",
+      "slug": "mahabu-np0661403"
+    },
+    "code": {
+      "id": "NP0661403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.942",
+      "lon": "81.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नारायण",
+      "en": "Narayan",
+      "slug": "narayan-np0661304"
+    },
+    "code": {
+      "id": "NP0661304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.877",
+      "lon": "81.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नौमुले",
+      "en": "Naumule",
+      "slug": "naumule-np0661404"
+    },
+    "code": {
+      "id": "NP0661404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.926",
+      "lon": "81.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ठाँटीकाँध",
+      "en": "Thantikandh",
+      "slug": "thantikandh-np0661401"
+    },
+    "code": {
+      "id": "NP0661401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0661",
+      "level": 2,
+      "name": {
+        "local": "दैलेख",
+        "en": "Dailekh",
+        "slug": "dailekh-np0661"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0661",
+        "level": 2,
+        "name": {
+          "local": "दैलेख",
+          "en": "Dailekh",
+          "slug": "dailekh-np0661"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.993",
+      "lon": "81.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

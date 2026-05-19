@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0442403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विहादी",
+      "en": "Bihadi",
+      "slug": "bihadi-np0442403"
+    },
+    "code": {
+      "id": "NP0442403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.061",
+      "lon": "83.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जलजला",
+      "en": "Jaljala",
+      "slug": "jaljala-np0442401"
+    },
+    "code": {
+      "id": "NP0442401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.329",
+      "lon": "83.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कुश्मा",
+      "en": "Kushma",
+      "slug": "kushma-np0442301"
+    },
+    "code": {
+      "id": "NP0442301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.234",
+      "lon": "83.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महाशिला",
+      "en": "Mahashila",
+      "slug": "mahashila-np0442404"
+    },
+    "code": {
+      "id": "NP0442404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.093",
+      "lon": "83.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मोदी",
+      "en": "Modi",
+      "slug": "modi-np0442402"
+    },
+    "code": {
+      "id": "NP0442402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.311",
+      "lon": "83.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पैयुं",
+      "en": "Paiyu",
+      "slug": "paiyu-np0442405"
+    },
+    "code": {
+      "id": "NP0442405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.048",
+      "lon": "83.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फलेवास",
+      "en": "Phalebas",
+      "slug": "phalebas-np0442302"
+    },
+    "code": {
+      "id": "NP0442302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0442",
+      "level": 2,
+      "name": {
+        "local": "पर्वत",
+        "en": "Parbat",
+        "slug": "parbat-np0442"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0442",
+        "level": 2,
+        "name": {
+          "local": "पर्वत",
+          "en": "Parbat",
+          "slug": "parbat-np0442"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.151",
+      "lon": "83.698"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

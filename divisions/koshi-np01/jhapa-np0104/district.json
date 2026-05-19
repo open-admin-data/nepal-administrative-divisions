@@ -1,0 +1,49 @@
+{
+  "id": "NP0104",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "झापा",
+    "en": "Jhapa",
+    "slug": "jhapa-np0104"
+  },
+  "code": {
+    "id": "NP0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 15
+  },
+  "zip_codes": [
+    "57200"
+  ],
+  "geo": {
+    "lat": "26.584",
+    "lon": "87.886"
+  },
+  "metadata": {},
+  "source": {}
+}

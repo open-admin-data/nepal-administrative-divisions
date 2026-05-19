@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0327303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुढानिलकण्ठ",
+      "en": "Budhanilkhantha",
+      "slug": "budhanilkhantha-np0327303"
+    },
+    "code": {
+      "id": "NP0327303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.768",
+      "lon": "85.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चन्द्रागिरी",
+      "en": "Chandragiri",
+      "slug": "chandragiri-np0327308"
+    },
+    "code": {
+      "id": "NP0327308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.686",
+      "lon": "85.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327310",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दक्षिणकाली",
+      "en": "Dakshinkali",
+      "slug": "dakshinkali-np0327310"
+    },
+    "code": {
+      "id": "NP0327310",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.614",
+      "lon": "85.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोकर्णेश्वर",
+      "en": "Gokarneshwor",
+      "slug": "gokarneshwor-np0327304"
+    },
+    "code": {
+      "id": "NP0327304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.764",
+      "lon": "85.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कागेश्वरी मनहरा",
+      "en": "Kageshwori Manahara",
+      "slug": "kageshwori-manahara-np0327306"
+    },
+    "code": {
+      "id": "NP0327306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.733",
+      "lon": "85.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "काठमाडौं",
+      "en": "Kathmandu",
+      "slug": "kathmandu-np0327101"
+    },
+    "code": {
+      "id": "NP0327101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.709",
+      "lon": "85.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "किर्तिपुर",
+      "en": "Kirtipur",
+      "slug": "kirtipur-np0327309"
+    },
+    "code": {
+      "id": "NP0327309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.668",
+      "lon": "85.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नागार्जुन",
+      "en": "Nagarjun",
+      "slug": "nagarjun-np0327305"
+    },
+    "code": {
+      "id": "NP0327305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.724",
+      "lon": "85.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शङ्खरापुर",
+      "en": "Shankharapur",
+      "slug": "shankharapur-np0327307"
+    },
+    "code": {
+      "id": "NP0327307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.754",
+      "lon": "85.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तारकेश्वर",
+      "en": "Tarakeshwor",
+      "slug": "tarakeshwor-np0327301"
+    },
+    "code": {
+      "id": "NP0327301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.777",
+      "lon": "85.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "टोखा",
+      "en": "Tokha",
+      "slug": "tokha-np0327302"
+    },
+    "code": {
+      "id": "NP0327302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0327",
+      "level": 2,
+      "name": {
+        "local": "काठमाडौँ",
+        "en": "Kathmandu",
+        "slug": "kathmandu-np0327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0327",
+        "level": 2,
+        "name": {
+          "local": "काठमाडौँ",
+          "en": "Kathmandu",
+          "slug": "kathmandu-np0327"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.775",
+      "lon": "85.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

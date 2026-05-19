@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0653302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बागचौर",
+      "en": "Bagachour",
+      "slug": "bagachour-np0653302"
+    },
+    "code": {
+      "id": "NP0653302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.472",
+      "lon": "82.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बनगाड कुपिण्डे",
+      "en": "Banagad Kupinde",
+      "slug": "banagad-kupinde-np0653301"
+    },
+    "code": {
+      "id": "NP0653301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.493",
+      "lon": "82.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छत्रेश्वरी",
+      "en": "Chhatreshwori",
+      "slug": "chhatreshwori-np0653405"
+    },
+    "code": {
+      "id": "NP0653405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.358",
+      "lon": "82.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दार्मा",
+      "en": "Darma",
+      "slug": "darma-np0653402"
+    },
+    "code": {
+      "id": "NP0653402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.55",
+      "lon": "82.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालीमाटी",
+      "en": "Kalimati",
+      "slug": "kalimati-np0653404"
+    },
+    "code": {
+      "id": "NP0653404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.297",
+      "lon": "81.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कपुरकोट",
+      "en": "Kapurkot",
+      "slug": "kapurkot-np0653407"
+    },
+    "code": {
+      "id": "NP0653407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.249",
+      "lon": "82.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कुमाख",
+      "en": "Kumakh",
+      "slug": "kumakh-np0653401"
+    },
+    "code": {
+      "id": "NP0653401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.554",
+      "lon": "82.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शारदा",
+      "en": "Sharada",
+      "slug": "sharada-np0653303"
+    },
+    "code": {
+      "id": "NP0653303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.388",
+      "lon": "82.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिद्ध कुमाख",
+      "en": "Siddha Kumakh",
+      "slug": "siddha-kumakh-np0653403"
+    },
+    "code": {
+      "id": "NP0653403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.473",
+      "lon": "82.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिवेणी",
+      "en": "Tribeni",
+      "slug": "tribeni-np0653406"
+    },
+    "code": {
+      "id": "NP0653406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0653",
+      "level": 2,
+      "name": {
+        "local": "सल्यान",
+        "en": "Salyan",
+        "slug": "salyan-np0653"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0653",
+        "level": 2,
+        "name": {
+          "local": "सल्यान",
+          "en": "Salyan",
+          "slug": "salyan-np0653"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.286",
+      "lon": "82.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

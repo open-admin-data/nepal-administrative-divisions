@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0112401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ऐसेलुखर्क",
+      "en": "Aiselukharka",
+      "slug": "aiselukharka-np0112401"
+    },
+    "code": {
+      "id": "NP0112401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.374",
+      "lon": "86.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बराहपोखरी",
+      "en": "Baraha Pokhari",
+      "slug": "baraha-pokhari-np0112407"
+    },
+    "code": {
+      "id": "NP0112407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "26.941",
+      "lon": "86.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दिक्तेल रुपाकोट मझुवागढी",
+      "en": "Diktel Rupakot Majhuwagadhi",
+      "slug": "diktel-rupakot-majhuwagadhi-np0112302"
+    },
+    "code": {
+      "id": "NP0112302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.234",
+      "lon": "86.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दिप्रुङ चुइचुम्मा",
+      "en": "Diprung Chuichumma",
+      "slug": "diprung-chuichumma-np0112404"
+    },
+    "code": {
+      "id": "NP0112404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.099",
+      "lon": "86.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हलेसी तुवाचुङ",
+      "en": "Halesi Tuwachung",
+      "slug": "halesi-tuwachung-np0112301"
+    },
+    "code": {
+      "id": "NP0112301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.168",
+      "lon": "86.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जन्तेढुङ्गा",
+      "en": "Jante Dhunga",
+      "slug": "jante-dhunga-np0112408"
+    },
+    "code": {
+      "id": "NP0112408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "26.97",
+      "lon": "86.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "केपिलासगढी",
+      "en": "Kepilasgadhi",
+      "slug": "kepilasgadhi-np0112402"
+    },
+    "code": {
+      "id": "NP0112402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.35",
+      "lon": "86.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खोटेहाङ",
+      "en": "Khotehang",
+      "slug": "khotehang-np0112406"
+    },
+    "code": {
+      "id": "NP0112406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.045",
+      "lon": "86.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रावा बेसी",
+      "en": "Rawa Besi",
+      "slug": "rawa-besi-np0112403"
+    },
+    "code": {
+      "id": "NP0112403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.286",
+      "lon": "86.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "साकेला",
+      "en": "Sakela",
+      "slug": "sakela-np0112405"
+    },
+    "code": {
+      "id": "NP0112405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0112",
+      "level": 2,
+      "name": {
+        "local": "खोटाङ",
+        "en": "Khotang",
+        "slug": "khotang-np0112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0112",
+        "level": 2,
+        "name": {
+          "local": "खोटाङ",
+          "en": "Khotang",
+          "slug": "khotang-np0112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.18",
+      "lon": "86.873"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

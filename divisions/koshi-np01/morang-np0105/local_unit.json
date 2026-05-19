@@ -1,0 +1,954 @@
+[
+  {
+    "id": "NP0105303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेलवारी",
+      "en": "Belbari",
+      "slug": "belbari-np0105303"
+    },
+    "code": {
+      "id": "NP0105303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.63",
+      "lon": "87.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विराटनगर",
+      "en": "Biratnagar",
+      "slug": "biratnagar-np0105101"
+    },
+    "code": {
+      "id": "NP0105101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.442",
+      "lon": "87.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुढीगंगा",
+      "en": "Budhiganga",
+      "slug": "budhiganga-np0105404"
+    },
+    "code": {
+      "id": "NP0105404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.562",
+      "lon": "87.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनपालथान",
+      "en": "Dhanapalthan",
+      "slug": "dhanapalthan-np0105408"
+    },
+    "code": {
+      "id": "NP0105408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.462",
+      "lon": "87.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ग्रामथान",
+      "en": "Gramthan",
+      "slug": "gramthan-np0105405"
+    },
+    "code": {
+      "id": "NP0105405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.555",
+      "lon": "87.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जहदा",
+      "en": "Jahada",
+      "slug": "jahada-np0105407"
+    },
+    "code": {
+      "id": "NP0105407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.409",
+      "lon": "87.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कानेपोखरी",
+      "en": "Kanepokhari",
+      "slug": "kanepokhari-np0105403"
+    },
+    "code": {
+      "id": "NP0105403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.601",
+      "lon": "87.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कटहरी",
+      "en": "Katahari",
+      "slug": "katahari-np0105406"
+    },
+    "code": {
+      "id": "NP0105406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.488",
+      "lon": "87.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "केरावारी",
+      "en": "Kerabari",
+      "slug": "kerabari-np0105401"
+    },
+    "code": {
+      "id": "NP0105401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.776",
+      "lon": "87.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लेटाङ",
+      "en": "Letang",
+      "slug": "letang-np0105301"
+    },
+    "code": {
+      "id": "NP0105301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.765",
+      "lon": "87.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिक्लाजुङ",
+      "en": "Miklajung",
+      "slug": "miklajung-np0105402"
+    },
+    "code": {
+      "id": "NP0105402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.782",
+      "lon": "87.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पथरी शनिश्चरे",
+      "en": "Pathari Shanishchare",
+      "slug": "pathari-shanishchare-np0105304"
+    },
+    "code": {
+      "id": "NP0105304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.61",
+      "lon": "87.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रंगेली",
+      "en": "Rangeli",
+      "slug": "rangeli-np0105306"
+    },
+    "code": {
+      "id": "NP0105306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.489",
+      "lon": "87.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रतुवामाई",
+      "en": "Ratuwamai",
+      "slug": "ratuwamai-np0105308"
+    },
+    "code": {
+      "id": "NP0105308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.485",
+      "lon": "87.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुन्दरहरैचा",
+      "en": "Sundarharaicha",
+      "slug": "sundarharaicha-np0105302"
+    },
+    "code": {
+      "id": "NP0105302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.659",
+      "lon": "87.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनवर्षी",
+      "en": "Sunwarshi",
+      "slug": "sunwarshi-np0105307"
+    },
+    "code": {
+      "id": "NP0105307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.485",
+      "lon": "87.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "उर्लावारी",
+      "en": "Urlabari",
+      "slug": "urlabari-np0105305"
+    },
+    "code": {
+      "id": "NP0105305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0105",
+      "level": 2,
+      "name": {
+        "local": "मोरङ",
+        "en": "Morang",
+        "slug": "morang-np0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0105",
+        "level": 2,
+        "name": {
+          "local": "मोरङ",
+          "en": "Morang",
+          "slug": "morang-np0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.64",
+      "lon": "87.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

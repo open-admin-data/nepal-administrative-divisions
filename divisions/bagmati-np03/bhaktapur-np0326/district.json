@@ -1,0 +1,49 @@
+{
+  "id": "NP0326",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "भक्तपुर",
+    "en": "Bhaktapur",
+    "slug": "bhaktapur-np0326"
+  },
+  "code": {
+    "id": "NP0326",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 4
+  },
+  "zip_codes": [
+    "44800"
+  ],
+  "geo": {
+    "lat": "27.674",
+    "lon": "85.426"
+  },
+  "metadata": {},
+  "source": {}
+}

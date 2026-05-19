@@ -1,0 +1,49 @@
+{
+  "id": "NP0447",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "पूर्वी नवलपरासी",
+    "en": "Nawalparasi East",
+    "slug": "nawalparasi-east-np0447"
+  },
+  "code": {
+    "id": "NP0447",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "33000"
+  ],
+  "geo": {
+    "lat": "27.654",
+    "lon": "84.031"
+  },
+  "metadata": {},
+  "source": {}
+}

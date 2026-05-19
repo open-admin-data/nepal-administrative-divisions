@@ -1,0 +1,30 @@
+{
+  "id": "NP07",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "सुदूरपश्चिम",
+    "en": "Sudur Paschim",
+    "slug": "sudur-paschim-np07"
+  },
+  "code": {
+    "id": "NP07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "local_unit": 93
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.321",
+    "lon": "80.919"
+  },
+  "metadata": {},
+  "source": {}
+}

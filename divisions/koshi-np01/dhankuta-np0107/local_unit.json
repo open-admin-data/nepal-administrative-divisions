@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0107404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौविसे",
+      "en": "Chaubise",
+      "slug": "chaubise-np0107404"
+    },
+    "code": {
+      "id": "NP0107404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "26.921",
+      "lon": "87.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छथर जोरपाटी",
+      "en": "Chhathar Jorpati",
+      "slug": "chhathar-jorpati-np0107402"
+    },
+    "code": {
+      "id": "NP0107402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "27.022",
+      "lon": "87.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनकुटा",
+      "en": "Dhankuta",
+      "slug": "dhankuta-np0107303"
+    },
+    "code": {
+      "id": "NP0107303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "26.983",
+      "lon": "87.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महालक्ष्मी",
+      "en": "Mahalaxmi",
+      "slug": "mahalaxmi-np0107301"
+    },
+    "code": {
+      "id": "NP0107301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "27.134",
+      "lon": "87.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाख्रिवास",
+      "en": "Pakhribas",
+      "slug": "pakhribas-np0107302"
+    },
+    "code": {
+      "id": "NP0107302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "27.055",
+      "lon": "87.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सागुरीगढी",
+      "en": "Sangurigadhi",
+      "slug": "sangurigadhi-np0107403"
+    },
+    "code": {
+      "id": "NP0107403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "26.901",
+      "lon": "87.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शहीदभूमि",
+      "en": "Shahidbhumi",
+      "slug": "shahidbhumi-np0107401"
+    },
+    "code": {
+      "id": "NP0107401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0107",
+      "level": 2,
+      "name": {
+        "local": "धनकुटा",
+        "en": "Dhankuta",
+        "slug": "dhankuta-np0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0107",
+        "level": 2,
+        "name": {
+          "local": "धनकुटा",
+          "en": "Dhankuta",
+          "slug": "dhankuta-np0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "26.96",
+      "lon": "87.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

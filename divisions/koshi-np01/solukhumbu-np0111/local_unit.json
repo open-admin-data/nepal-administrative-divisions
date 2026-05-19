@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0111401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खुम्बु पासाङल्हामु",
+      "en": "Khumbu Pasanglhamu",
+      "slug": "khumbu-pasanglhamu-np0111401"
+    },
+    "code": {
+      "id": "NP0111401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.843",
+      "lon": "86.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिखुपिके",
+      "en": "Likhu Pike",
+      "slug": "likhu-pike-np0111403"
+    },
+    "code": {
+      "id": "NP0111403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.551",
+      "lon": "86.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माहाकुलुङ",
+      "en": "Mahakulung",
+      "slug": "mahakulung-np0111402"
+    },
+    "code": {
+      "id": "NP0111402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.654",
+      "lon": "86.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माप्य दूधकोशी",
+      "en": "Mapya Dudhkoshi",
+      "slug": "mapya-dudhkoshi-np0111404"
+    },
+    "code": {
+      "id": "NP0111404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.537",
+      "lon": "86.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नेचासल्यान",
+      "en": "Necha Salyan",
+      "slug": "necha-salyan-np0111405"
+    },
+    "code": {
+      "id": "NP0111405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.373",
+      "lon": "86.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सोलुदुधकुण्ड",
+      "en": "Solu Dhudhakunda",
+      "slug": "solu-dhudhakunda-np0111301"
+    },
+    "code": {
+      "id": "NP0111301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.573",
+      "lon": "86.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सोताङ",
+      "en": "Sotang",
+      "slug": "sotang-np0111407"
+    },
+    "code": {
+      "id": "NP0111407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.517",
+      "lon": "86.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "थुलुङ दुधकोशी",
+      "en": "Thulung Dudhkoshi",
+      "slug": "thulung-dudhkoshi-np0111406"
+    },
+    "code": {
+      "id": "NP0111406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0111",
+      "level": 2,
+      "name": {
+        "local": "सोलुखुम्बु",
+        "en": "Solukhumbu",
+        "slug": "solukhumbu-np0111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0111",
+        "level": 2,
+        "name": {
+          "local": "सोलुखुम्बु",
+          "en": "Solukhumbu",
+          "slug": "solukhumbu-np0111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.428",
+      "lon": "86.714"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

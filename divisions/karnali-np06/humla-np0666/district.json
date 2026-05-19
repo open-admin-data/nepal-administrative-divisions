@@ -1,0 +1,49 @@
+{
+  "id": "NP0666",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "हुम्ला",
+    "en": "Humla",
+    "slug": "humla-np0666"
+  },
+  "code": {
+    "id": "NP0666",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP06",
+    "level": 1,
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "21000"
+  ],
+  "geo": {
+    "lat": "30.026",
+    "lon": "81.833"
+  },
+  "metadata": {},
+  "source": {}
+}

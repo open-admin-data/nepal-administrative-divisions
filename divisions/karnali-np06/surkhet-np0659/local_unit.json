@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0659402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बराहताल",
+      "en": "Barahatal",
+      "slug": "barahatal-np0659402"
+    },
+    "code": {
+      "id": "NP0659402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.654",
+      "lon": "81.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भेरीगंगा",
+      "en": "Bheriganga",
+      "slug": "bheriganga-np0659302"
+    },
+    "code": {
+      "id": "NP0659302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.47",
+      "lon": "81.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बीरेन्द्रनगर",
+      "en": "Birendranagar",
+      "slug": "birendranagar-np0659303"
+    },
+    "code": {
+      "id": "NP0659303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.599",
+      "lon": "81.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौकुने",
+      "en": "Chaukune",
+      "slug": "chaukune-np0659401"
+    },
+    "code": {
+      "id": "NP0659401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.859",
+      "lon": "81.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चिङ्गाड",
+      "en": "Chingad",
+      "slug": "chingad-np0659403"
+    },
+    "code": {
+      "id": "NP0659403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.627",
+      "lon": "81.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गुर्भाकोट",
+      "en": "Gurbhakot",
+      "slug": "gurbhakot-np0659305"
+    },
+    "code": {
+      "id": "NP0659305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.437",
+      "lon": "81.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लेकबेशी",
+      "en": "Lekabeshi",
+      "slug": "lekabeshi-np0659304"
+    },
+    "code": {
+      "id": "NP0659304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.536",
+      "lon": "81.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पञ्चपुरी",
+      "en": "Panchapuri",
+      "slug": "panchapuri-np0659301"
+    },
+    "code": {
+      "id": "NP0659301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.789",
+      "lon": "81.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिम्ता",
+      "en": "Simta",
+      "slug": "simta-np0659404"
+    },
+    "code": {
+      "id": "NP0659404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0659",
+      "level": 2,
+      "name": {
+        "local": "सुर्खेत",
+        "en": "Surkhet",
+        "slug": "surkhet-np0659"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0659",
+        "level": 2,
+        "name": {
+          "local": "सुर्खेत",
+          "en": "Surkhet",
+          "slug": "surkhet-np0659"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.545",
+      "lon": "81.943"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

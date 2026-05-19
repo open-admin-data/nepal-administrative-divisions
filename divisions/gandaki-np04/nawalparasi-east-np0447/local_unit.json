@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0447401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बौदीकाली",
+      "en": "Baudikali",
+      "slug": "baudikali-np0447401"
+    },
+    "code": {
+      "id": "NP0447401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.817",
+      "lon": "84.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बिनयी त्रिवेणी",
+      "en": "Binayi Tribeni",
+      "slug": "binayi-tribeni-np0447404"
+    },
+    "code": {
+      "id": "NP0447404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.632",
+      "lon": "83.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुलिङटार",
+      "en": "Bulingtar",
+      "slug": "bulingtar-np0447402"
+    },
+    "code": {
+      "id": "NP0447402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.807",
+      "lon": "84.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0447597"
+    },
+    "code": {
+      "id": "NP0447597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.574",
+      "lon": "84.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवचुली",
+      "en": "Devchuli",
+      "slug": "devchuli-np0447303"
+    },
+    "code": {
+      "id": "NP0447303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.714",
+      "lon": "84.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गैडाकोट",
+      "en": "Gaidakot",
+      "slug": "gaidakot-np0447304"
+    },
+    "code": {
+      "id": "NP0447304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.733",
+      "lon": "84.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हुप्सेकोट",
+      "en": "Hupsekot",
+      "slug": "hupsekot-np0447403"
+    },
+    "code": {
+      "id": "NP0447403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.701",
+      "lon": "84.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कावासोती",
+      "en": "Kawasoti",
+      "slug": "kawasoti-np0447302"
+    },
+    "code": {
+      "id": "NP0447302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.651",
+      "lon": "84.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मध्यबिन्दु",
+      "en": "Madhya Bindu",
+      "slug": "madhya-bindu-np0447301"
+    },
+    "code": {
+      "id": "NP0447301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0447",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी नवलपरासी",
+        "en": "Nawalparasi East",
+        "slug": "nawalparasi-east-np0447"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0447",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी नवलपरासी",
+          "en": "Nawalparasi East",
+          "slug": "nawalparasi-east-np0447"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.635",
+      "lon": "83.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

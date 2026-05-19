@@ -1,0 +1,49 @@
+{
+  "id": "NP0767",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "बझाङ",
+    "en": "Bajhang",
+    "slug": "bajhang-np0767"
+  },
+  "code": {
+    "id": "NP0767",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 13
+  },
+  "zip_codes": [
+    "10500"
+  ],
+  "geo": {
+    "lat": "29.723",
+    "lon": "81.246"
+  },
+  "metadata": {},
+  "source": {}
+}

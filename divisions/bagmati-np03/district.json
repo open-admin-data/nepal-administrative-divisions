@@ -1,0 +1,639 @@
+[
+  {
+    "id": "NP0326",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "भक्तपुर",
+      "en": "Bhaktapur",
+      "slug": "bhaktapur-np0326"
+    },
+    "code": {
+      "id": "NP0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.674",
+      "lon": "85.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0335"
+    },
+    "code": {
+      "id": "NP0335",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.618",
+      "lon": "84.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धादिङ",
+      "en": "Dhading",
+      "slug": "dhading-np0330"
+    },
+    "code": {
+      "id": "NP0330",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.008",
+      "lon": "84.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दोलखा",
+      "en": "Dolakha",
+      "slug": "dolakha-np0322"
+    },
+    "code": {
+      "id": "NP0322",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.824",
+      "lon": "86.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "काठमाडौँ",
+      "en": "Kathmandu",
+      "slug": "kathmandu-np0327"
+    },
+    "code": {
+      "id": "NP0327",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.694",
+      "lon": "85.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "काभ्रेपलाञ्चोक",
+      "en": "Kavrepalanchok",
+      "slug": "kavrepalanchok-np0324"
+    },
+    "code": {
+      "id": "NP0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.545",
+      "lon": "85.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ललितपुर",
+      "en": "Lalitpur",
+      "slug": "lalitpur-np0325"
+    },
+    "code": {
+      "id": "NP0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.548",
+      "lon": "85.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मकवानपुर",
+      "en": "Makwanpur",
+      "slug": "makwanpur-np0331"
+    },
+    "code": {
+      "id": "NP0331",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.437",
+      "lon": "85.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "नुवाकोट",
+      "en": "Nuwakot",
+      "slug": "nuwakot-np0328"
+    },
+    "code": {
+      "id": "NP0328",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 14
+    },
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.926",
+      "lon": "85.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रामेछाप",
+      "en": "Ramechhap",
+      "slug": "ramechhap-np0321"
+    },
+    "code": {
+      "id": "NP0321",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.537",
+      "lon": "86.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रसुवा",
+      "en": "Rasuwa",
+      "slug": "rasuwa-np0329"
+    },
+    "code": {
+      "id": "NP0329",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.176",
+      "lon": "85.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिन्धुली",
+      "en": "Sindhuli",
+      "slug": "sindhuli-np0320"
+    },
+    "code": {
+      "id": "NP0320",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.185",
+      "lon": "86.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिन्धुपाल्चोक",
+      "en": "Sindhupalchok",
+      "slug": "sindhupalchok-np0323"
+    },
+    "code": {
+      "id": "NP0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.907",
+      "lon": "85.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

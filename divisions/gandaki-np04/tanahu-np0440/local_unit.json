@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0440405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आँबुखैरेनी",
+      "en": "Aanbu Khaireni",
+      "slug": "aanbu-khaireni-np0440405"
+    },
+    "code": {
+      "id": "NP0440405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.88",
+      "lon": "84.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बन्दिपुर",
+      "en": "Bandipur",
+      "slug": "bandipur-np0440404"
+    },
+    "code": {
+      "id": "NP0440404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.918",
+      "lon": "84.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भानु",
+      "en": "Bhanu",
+      "slug": "bhanu-np0440303"
+    },
+    "code": {
+      "id": "NP0440303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "28.041",
+      "lon": "84.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भिमाद",
+      "en": "Bhimad",
+      "slug": "bhimad-np0440304"
+    },
+    "code": {
+      "id": "NP0440304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.963",
+      "lon": "84.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "व्याँस",
+      "en": "Byas",
+      "slug": "byas-np0440302"
+    },
+    "code": {
+      "id": "NP0440302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "28.001",
+      "lon": "84.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवघाट",
+      "en": "Devghat",
+      "slug": "devghat-np0440406"
+    },
+    "code": {
+      "id": "NP0440406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.811",
+      "lon": "84.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "घिरिङ",
+      "en": "Ghiring",
+      "slug": "ghiring-np0440402"
+    },
+    "code": {
+      "id": "NP0440402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.899",
+      "lon": "84.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "म्याग्दे",
+      "en": "Myagde",
+      "slug": "myagde-np0440401"
+    },
+    "code": {
+      "id": "NP0440401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "28.007",
+      "lon": "84.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ऋषिंङ्ग",
+      "en": "Rhishing",
+      "slug": "rhishing-np0440403"
+    },
+    "code": {
+      "id": "NP0440403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.901",
+      "lon": "84.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शुक्लागण्डकी",
+      "en": "Shuklagandaki",
+      "slug": "shuklagandaki-np0440301"
+    },
+    "code": {
+      "id": "NP0440301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0440",
+      "level": 2,
+      "name": {
+        "local": "तनहुँ",
+        "en": "Tanahu",
+        "slug": "tanahu-np0440"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0440",
+        "level": 2,
+        "name": {
+          "local": "तनहुँ",
+          "en": "Tanahu",
+          "slug": "tanahu-np0440"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "28.061",
+      "lon": "84.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

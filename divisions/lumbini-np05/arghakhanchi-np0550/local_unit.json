@@ -1,0 +1,338 @@
+[
+  {
+    "id": "NP0550301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भूमिकास्थान",
+      "en": "Bhumikasthan",
+      "slug": "bhumikasthan-np0550301"
+    },
+    "code": {
+      "id": "NP0550301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.998",
+      "lon": "83.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छत्रदेव",
+      "en": "Chhatradev",
+      "slug": "chhatradev-np0550402"
+    },
+    "code": {
+      "id": "NP0550402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "28.01",
+      "lon": "83.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मालारानी",
+      "en": "Malarani",
+      "slug": "malarani-np0550401"
+    },
+    "code": {
+      "id": "NP0550401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "28.067",
+      "lon": "83.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाणिनी",
+      "en": "Panini",
+      "slug": "panini-np0550403"
+    },
+    "code": {
+      "id": "NP0550403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.885",
+      "lon": "83.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सन्धिखर्क",
+      "en": "Sandhikharka",
+      "slug": "sandhikharka-np0550302"
+    },
+    "code": {
+      "id": "NP0550302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.965",
+      "lon": "83.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शितगंगा",
+      "en": "Shitaganga",
+      "slug": "shitaganga-np0550303"
+    },
+    "code": {
+      "id": "NP0550303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0550",
+      "level": 2,
+      "name": {
+        "local": "अर्घाखाँची",
+        "en": "Arghakhanchi",
+        "slug": "arghakhanchi-np0550"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0550",
+        "level": 2,
+        "name": {
+          "local": "अर्घाखाँची",
+          "en": "Arghakhanchi",
+          "slug": "arghakhanchi-np0550"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.841",
+      "lon": "82.988"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

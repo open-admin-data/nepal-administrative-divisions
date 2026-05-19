@@ -1,0 +1,85 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.local_unit,zip_codes,geo.lat,geo.lon
+NP01,1,प्रदेश,Province,कोशी,Koshi,koshi-np01,NP01,,,,,,14,139,,27.23,87.177
+NP0101,2,जिल्ला,District,ताप्लेजुङ,Taplejung,taplejung-np0101,NP0101,,NP01,कोशी,Koshi,,,9,57500,27.61,87.822
+NP0102,2,जिल्ला,District,पाँचथर,Panchthar,panchthar-np0102,NP0102,,NP01,कोशी,Koshi,,,8,57400,27.149,87.855
+NP0103,2,जिल्ला,District,इलाम,Ilam,ilam-np0103,NP0103,,NP01,कोशी,Koshi,,,10,57300,26.885,87.92
+NP0104,2,जिल्ला,District,झापा,Jhapa,jhapa-np0104,NP0104,,NP01,कोशी,Koshi,,,15,57200,26.584,87.886
+NP0105,2,जिल्ला,District,मोरङ,Morang,morang-np0105,NP0105,,NP01,कोशी,Koshi,,,17,56600,26.611,87.473
+NP0106,2,जिल्ला,District,सुनसरी,Sunsari,sunsari-np0106,NP0106,,NP01,कोशी,Koshi,,,13,56700,26.641,87.141
+NP0107,2,जिल्ला,District,धनकुटा,Dhankuta,dhankuta-np0107,NP0107,,NP01,कोशी,Koshi,,,7,56800,27.018,87.313
+NP0108,2,जिल्ला,District,तेह्रथुम,Terhathum,terhathum-np0108,NP0108,,NP01,कोशी,Koshi,,,6,57100,27.132,87.524
+NP0109,2,जिल्ला,District,सङ्खुवासभा,Sankhuwasabha,sankhuwasabha-np0109,NP0109,,NP01,कोशी,Koshi,,,10,56900,27.548,87.227
+NP0110,2,जिल्ला,District,भोजपुर,Bhojpur,bhojpur-np0110,NP0110,,NP01,कोशी,Koshi,,,9,57000,27.175,87.094
+NP0111,2,जिल्ला,District,सोलुखुम्बु,Solukhumbu,solukhumbu-np0111,NP0111,,NP01,कोशी,Koshi,,,8,56000,27.726,86.782
+NP0112,2,जिल्ला,District,खोटाङ,Khotang,khotang-np0112,NP0112,,NP01,कोशी,Koshi,,,10,56200,27.156,86.681
+NP0113,2,जिल्ला,District,ओखलढुङ्गा,Okhaldhunga,okhaldhunga-np0113,NP0113,,NP01,कोशी,Koshi,,,8,56100,27.336,86.448
+NP0114,2,जिल्ला,District,उदयपुर,Udayapur,udayapur-np0114,NP0114,,NP01,कोशी,Koshi,,,9,56300,26.933,86.52
+NP02,1,प्रदेश,Province,मधेश,Madhesh,madhesh-np02,NP02,,,,,,8,140,,26.943,85.608
+NP0215,2,जिल्ला,District,सप्तरी,Saptari,saptari-np0215,NP0215,,NP02,मधेश,Madhesh,,,19,56400,26.607,86.749
+NP0216,2,जिल्ला,District,सिराहा,Siraha,siraha-np0216,NP0216,,NP02,मधेश,Madhesh,,,17,56500,26.742,86.35
+NP0217,2,जिल्ला,District,धनुषा,Dhanusa,dhanusa-np0217,NP0217,,NP02,मधेश,Madhesh,,,18,45600,26.851,86.036
+NP0218,2,जिल्ला,District,महोत्तरी,Mahottari,mahottari-np0218,NP0218,,NP02,मधेश,Madhesh,,,15,45700,26.885,85.797
+NP0219,2,जिल्ला,District,सर्लाही,Sarlahi,sarlahi-np0219,NP0219,,NP02,मधेश,Madhesh,,,20,45800,26.968,85.564
+NP0232,2,जिल्ला,District,रौतहट,Rautahat,rautahat-np0232,NP0232,,NP02,मधेश,Madhesh,,,18,44500,26.989,85.283
+NP0233,2,जिल्ला,District,बारा,Bara,bara-np0233,NP0233,,NP02,मधेश,Madhesh,,,17,44400,27.107,85.069
+NP0234,2,जिल्ला,District,पर्सा,Parsa,parsa-np0234,NP0234,,NP02,मधेश,Madhesh,,,16,44300,27.223,84.827
+NP03,1,प्रदेश,Province,बागमती,Bagmati,bagmati-np03,NP03,,,,,,13,124,,27.653,85.393
+NP0320,2,जिल्ला,District,सिन्धुली,Sindhuli,sindhuli-np0320,NP0320,,NP03,बागमती,Bagmati,,,9,45900,27.185,86.07
+NP0321,2,जिल्ला,District,रामेछाप,Ramechhap,ramechhap-np0321,NP0321,,NP03,बागमती,Bagmati,,,8,45400,27.537,86.257
+NP0322,2,जिल्ला,District,दोलखा,Dolakha,dolakha-np0322,NP0322,,NP03,बागमती,Bagmati,,,9,45500,27.824,86.222
+NP0323,2,जिल्ला,District,सिन्धुपाल्चोक,Sindhupalchok,sindhupalchok-np0323,NP0323,,NP03,बागमती,Bagmati,,,12,45300,27.907,85.756
+NP0324,2,जिल्ला,District,काभ्रेपलाञ्चोक,Kavrepalanchok,kavrepalanchok-np0324,NP0324,,NP03,बागमती,Bagmati,,,13,45200,27.545,85.624
+NP0325,2,जिल्ला,District,ललितपुर,Lalitpur,lalitpur-np0325,NP0325,,NP03,बागमती,Bagmati,,,6,44700,27.548,85.323
+NP0326,2,जिल्ला,District,भक्तपुर,Bhaktapur,bhaktapur-np0326,NP0326,,NP03,बागमती,Bagmati,,,4,44800,27.674,85.426
+NP0327,2,जिल्ला,District,काठमाडौँ,Kathmandu,kathmandu-np0327,NP0327,,NP03,बागमती,Bagmati,,,11,44600,27.694,85.285
+NP0328,2,जिल्ला,District,नुवाकोट,Nuwakot,nuwakot-np0328,NP0328,,NP03,बागमती,Bagmati,,,14,44900,27.926,85.248
+NP0329,2,जिल्ला,District,रसुवा,Rasuwa,rasuwa-np0329,NP0329,,NP03,बागमती,Bagmati,,,5,45000,28.176,85.479
+NP0330,2,जिल्ला,District,धादिङ,Dhading,dhading-np0330,NP0330,,NP03,बागमती,Bagmati,,,13,45100,28.008,84.906
+NP0331,2,जिल्ला,District,मकवानपुर,Makwanpur,makwanpur-np0331,NP0331,,NP03,बागमती,Bagmati,,,12,44100,27.437,85.053
+NP0335,2,जिल्ला,District,चितवन,Chitawan,chitawan-np0335,NP0335,,NP03,बागमती,Bagmati,,,8,44200,27.618,84.453
+NP04,1,प्रदेश,Province,गण्डकी,Gandaki,gandaki-np04,NP04,,,,,,11,88,,28.384,84.036
+NP0436,2,जिल्ला,District,गोर्खा,Gorkha,gorkha-np0436,NP0436,,NP04,गण्डकी,Gandaki,,,11,34000,28.274,84.841
+NP0437,2,जिल्ला,District,लम्जुङ,Lamjung,lamjung-np0437,NP0437,,NP04,गण्डकी,Gandaki,,,8,33600,28.283,84.42
+NP0438,2,जिल्ला,District,मनाङ,Manang,manang-np0438,NP0438,,NP04,गण्डकी,Gandaki,,,4,33500,28.673,84.169
+NP0439,2,जिल्ला,District,कास्की,Kaski,kaski-np0439,NP0439,,NP04,गण्डकी,Gandaki,,,5,33700,28.345,83.971
+NP0440,2,जिल्ला,District,तनहुँ,Tanahu,tanahu-np0440,NP0440,,NP04,गण्डकी,Gandaki,,,10,33900,27.935,84.223
+NP0441,2,जिल्ला,District,स्याङ्जा,Syangja,syangja-np0441,NP0441,,NP04,गण्डकी,Gandaki,,,11,33800,28.045,83.827
+NP0442,2,जिल्ला,District,पर्वत,Parbat,parbat-np0442,NP0442,,NP04,गण्डकी,Gandaki,,,7,33400,28.203,83.728
+NP0443,2,जिल्ला,District,बाग्लुङ,Baglung,baglung-np0443,NP0443,,NP04,गण्डकी,Gandaki,,,11,33300,28.356,83.143
+NP0444,2,जिल्ला,District,म्याग्दी,Myagdi,myagdi-np0444,NP0444,,NP04,गण्डकी,Gandaki,,,7,33200,28.546,83.463
+NP0445,2,जिल्ला,District,मुस्ताङ,Mustang,mustang-np0445,NP0445,,NP04,गण्डकी,Gandaki,,,5,33100,28.948,83.901
+NP0447,2,जिल्ला,District,पूर्वी नवलपरासी,Nawalparasi East,nawalparasi-east-np0447,NP0447,,NP04,गण्डकी,Gandaki,,,9,33000,27.654,84.031
+NP05,1,प्रदेश,Province,लुम्बिनी,Lumbini,lumbini-np05,NP05,,,,,,12,112,,28.1,82.522
+NP0546,2,जिल्ला,District,पाल्पा,Palpa,palpa-np0546,NP0546,,NP05,लुम्बिनी,Lumbini,,,10,32500,27.81,83.63
+NP0547,2,जिल्ला,District,पश्चिम नवलपरासी,Nawalparasi West,nawalparasi-west-np0547,NP0547,,NP05,लुम्बिनी,Lumbini,,,7,33000,27.52,83.737
+NP0548,2,जिल्ला,District,रुपन्देही,Rupandehi,rupandehi-np0548,NP0548,,NP05,लुम्बिनी,Lumbini,,,17,32900,27.549,83.403
+NP0549,2,जिल्ला,District,कपिलवस्तु,Kapilbastu,kapilbastu-np0549,NP0549,,NP05,लुम्बिनी,Lumbini,,,10,32800,27.619,82.982
+NP0550,2,जिल्ला,District,अर्घाखाँची,Arghakhanchi,arghakhanchi-np0550,NP0550,,NP05,लुम्बिनी,Lumbini,,,6,32700,27.932,83.146
+NP0551,2,जिल्ला,District,गुल्मी,Gulmi,gulmi-np0551,NP0551,,NP05,लुम्बिनी,Lumbini,,,12,32600,28.096,83.329
+NP0552,2,जिल्ला,District,पूर्वी रुकुम,Rukum East,rukum-east-np0552,NP0552,,NP05,लुम्बिनी,Lumbini,,,4,22000,28.672,82.859
+NP0554,2,जिल्ला,District,रोल्पा,Rolpa,rolpa-np0554,NP0554,,NP05,लुम्बिनी,Lumbini,,,10,22100,28.325,82.644
+NP0555,2,जिल्ला,District,प्यूठान,Pyuthan,pyuthan-np0555,NP0555,,NP05,लुम्बिनी,Lumbini,,,9,22300,28.12,82.83
+NP0556,2,जिल्ला,District,दाङ,Dang,dang-np0556,NP0556,,NP05,लुम्बिनी,Lumbini,,,10,22400,27.98,82.469
+NP0557,2,जिल्ला,District,बाँके,Banke,banke-np0557,NP0557,,NP05,लुम्बिनी,Lumbini,,,8,21900,28.096,81.773
+NP0558,2,जिल्ला,District,बर्दिया,Bardiya,bardiya-np0558,NP0558,,NP05,लुम्बिनी,Lumbini,,,9,21800,28.372,81.45
+NP06,1,प्रदेश,Province,कर्णाली,Karnali,karnali-np06,NP06,,,,,,10,79,,29.308,82.472
+NP0652,2,जिल्ला,District,पश्चिम रुकुम,Rukum West,rukum-west-np0652,NP0652,,NP06,कर्णाली,Karnali,,,6,22000,28.756,82.428
+NP0653,2,जिल्ला,District,सल्यान,Salyan,salyan-np0653,NP0653,,NP06,कर्णाली,Karnali,,,10,22200,28.407,82.168
+NP0659,2,जिल्ला,District,सुर्खेत,Surkhet,surkhet-np0659,NP0659,,NP06,कर्णाली,Karnali,,,9,21700,28.658,81.514
+NP0660,2,जिल्ला,District,जाजरकोट,Jajarkot,jajarkot-np0660,NP0660,,NP06,कर्णाली,Karnali,,,7,21500,28.869,82.168
+NP0661,2,जिल्ला,District,दैलेख,Dailekh,dailekh-np0661,NP0661,,NP06,कर्णाली,Karnali,,,11,21600,28.885,81.7
+NP0662,2,जिल्ला,District,डोल्पा,Dolpa,dolpa-np0662,NP0662,,NP06,कर्णाली,Karnali,,,8,21400,29.214,83.037
+NP0663,2,जिल्ला,District,जुम्ला,Jumla,jumla-np0663,NP0663,,NP06,कर्णाली,Karnali,,,8,21200,29.239,82.199
+NP0664,2,जिल्ला,District,कालिकोट,Kalikot,kalikot-np0664,NP0664,,NP06,कर्णाली,Karnali,,,9,21300,29.216,81.689
+NP0665,2,जिल्ला,District,मुगु,Mugu,mugu-np0665,NP0665,,NP06,कर्णाली,Karnali,,,4,21100,29.678,82.531
+NP0666,2,जिल्ला,District,हुम्ला,Humla,humla-np0666,NP0666,,NP06,कर्णाली,Karnali,,,7,21000,30.026,81.833
+NP07,1,प्रदेश,Province,सुदूरपश्चिम,Sudur Paschim,sudur-paschim-np07,NP07,,,,,,9,93,,29.321,80.919
+NP0767,2,जिल्ला,District,बझाङ,Bajhang,bajhang-np0767,NP0767,,NP07,सुदूरपश्चिम,Sudur Paschim,,,13,10500,29.723,81.246
+NP0768,2,जिल्ला,District,बाजुरा,Bajura,bajura-np0768,NP0768,,NP07,सुदूरपश्चिम,Sudur Paschim,,,10,10600,29.611,81.577
+NP0769,2,जिल्ला,District,अछाम,Achham,achham-np0769,NP0769,,NP07,सुदूरपश्चिम,Sudur Paschim,,,11,10700,29.068,81.294
+NP0770,2,जिल्ला,District,डोटी,Doti,doti-np0770,NP0770,,NP07,सुदूरपश्चिम,Sudur Paschim,,,10,10800,29.188,80.862
+NP0771,2,जिल्ला,District,कैलाली,Kailali,kailali-np0771,NP0771,,NP07,सुदूरपश्चिम,Sudur Paschim,,,13,10900,28.731,80.904
+NP0772,2,जिल्ला,District,कञ्चनपुर,Kanchanpur,kanchanpur-np0772,NP0772,,NP07,सुदूरपश्चिम,Sudur Paschim,,,10,10400,28.845,80.283
+NP0773,2,जिल्ला,District,डडेलधुरा,Dadeldhura,dadeldhura-np0773,NP0773,,NP07,सुदूरपश्चिम,Sudur Paschim,,,7,10300,29.209,80.501
+NP0774,2,जिल्ला,District,बैतडी,Baitadi,baitadi-np0774,NP0774,,NP07,सुदूरपश्चिम,Sudur Paschim,,,10,10200,29.508,80.558
+NP0775,2,जिल्ला,District,दार्चुला,Darchula,darchula-np0775,NP0775,,NP07,सुदूरपश्चिम,Sudur Paschim,,,9,10100,29.926,80.789

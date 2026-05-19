@@ -1,0 +1,49 @@
+{
+  "id": "NP0105",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "मोरङ",
+    "en": "Morang",
+    "slug": "morang-np0105"
+  },
+  "code": {
+    "id": "NP0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 17
+  },
+  "zip_codes": [
+    "56600"
+  ],
+  "geo": {
+    "lat": "26.611",
+    "lon": "87.473"
+  },
+  "metadata": {},
+  "source": {}
+}

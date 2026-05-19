@@ -1,0 +1,49 @@
+{
+  "id": "NP0555",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "प्यूठान",
+    "en": "Pyuthan",
+    "slug": "pyuthan-np0555"
+  },
+  "code": {
+    "id": "NP0555",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "22300"
+  ],
+  "geo": {
+    "lat": "28.12",
+    "lon": "82.83"
+  },
+  "metadata": {},
+  "source": {}
+}

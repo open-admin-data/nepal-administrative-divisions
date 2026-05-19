@@ -1,0 +1,517 @@
+# Lumbini — Nepal Administrative Divisions
+
+> 12 districts, 112 local units
+> Code: NP05
+> Coordinates: 28.1, 82.522
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### अर्घाखाँची (Arghakhanchi)
+
+Code: NP0550, Coordinates: 27.932, 83.146
+Local Units: 6
+
+#### भूमिकास्थान (Bhumikasthan)
+
+Code: NP0550301, Postal: 32700, Coordinates: 27.998, 83.006
+
+#### छत्रदेव (Chhatradev)
+
+Code: NP0550402, Postal: 32700, Coordinates: 28.01, 83.205
+
+#### मालारानी (Malarani)
+
+Code: NP0550401, Postal: 32700, Coordinates: 28.067, 83.071
+
+#### पाणिनी (Panini)
+
+Code: NP0550403, Postal: 32700, Coordinates: 27.885, 83.25
+
+#### सन्धिखर्क (Sandhikharka)
+
+Code: NP0550302, Postal: 32700, Coordinates: 27.965, 83.152
+
+#### शितगंगा (Shitaganga)
+
+Code: NP0550303, Postal: 32700, Coordinates: 27.841, 82.988
+
+### बाँके (Banke)
+
+Code: NP0557, Coordinates: 28.096, 81.773
+Local Units: 8
+
+#### बैजनाथ (Baijanath)
+
+Code: NP0557402, Postal: 21900, Coordinates: 28.241, 81.657
+
+#### डुडुवा (Duduwa)
+
+Code: NP0557404, Postal: 21900, Coordinates: 28.035, 81.709
+
+#### जानकी (Janaki)
+
+Code: NP0557403, Postal: 21900, Coordinates: 28.086, 81.599
+
+#### खजुरा (Khajura)
+
+Code: NP0557401, Postal: 21900, Coordinates: 28.122, 81.551
+
+#### कोहलपुर (Kohalpur)
+
+Code: NP0557301, Postal: 21900, Coordinates: 28.218, 81.729
+
+#### नरैनापुर (Narainapur)
+
+Code: NP0557406, Postal: 21900, Coordinates: 27.926, 81.869
+
+#### नेपालगञ्ज (Nepalganj)
+
+Code: NP0557201, Postal: 21900, Coordinates: 28.065, 81.65
+
+#### राप्ती सोनारी (Rapti Sonari)
+
+Code: NP0557405, Postal: 21900, Coordinates: 28.099, 81.875
+
+### बर्दिया (Bardiya)
+
+Code: NP0558, Coordinates: 28.372, 81.45
+Local Units: 9
+
+#### बढैयाताल (Badhaiyatal)
+
+Code: NP0558402, Postal: 21800, Coordinates: 28.152, 81.477
+
+#### बासगढी (Bansgadhi)
+
+Code: NP0558306, Postal: 21800, Coordinates: 28.266, 81.54
+
+#### बारबर्दिया (Barbardiya)
+
+Code: NP0558305, Postal: 21800, Coordinates: 28.323, 81.395
+
+#### बर्दिया (Bardiya)
+
+Code: NP0558597, Postal: 21800, Coordinates: 28.48, 81.456
+
+#### गेरुवा (Geruwa)
+
+Code: NP0558401, Postal: 21800, Coordinates: 28.499, 81.185
+
+#### गुलरिया (Gulariya)
+
+Code: NP0558304, Postal: 21800, Coordinates: 28.21, 81.361
+
+#### मधुवन (Madhuwan)
+
+Code: NP0558302, Postal: 21800, Coordinates: 28.336, 81.269
+
+#### राजापुर (Rajapur)
+
+Code: NP0558301, Postal: 21800, Coordinates: 28.431, 81.125
+
+#### ठाकुरबाबा (Thakurbaba)
+
+Code: NP0558303, Postal: 21800, Coordinates: 28.443, 81.287
+
+### दाङ (Dang)
+
+Code: NP0556, Coordinates: 27.98, 82.469
+Local Units: 10
+
+#### बबई (Babai)
+
+Code: NP0556401, Postal: 22400, Coordinates: 28.18, 82.066
+
+#### बंगलाचुली (Bangalachuli)
+
+Code: NP0556405, Postal: 22400, Coordinates: 27.995, 82.669
+
+#### दंगीशरण (Dangisharan)
+
+Code: NP0556402, Postal: 22400, Coordinates: 28.086, 82.155
+
+#### गढवा (Gadhawa)
+
+Code: NP0556406, Postal: 22400, Coordinates: 27.76, 82.609
+
+#### घोराही (Ghorahi)
+
+Code: NP0556202, Postal: 22400, Coordinates: 28.025, 82.464
+
+#### लमही (Lamahi)
+
+Code: NP0556301, Postal: 22400, Coordinates: 27.931, 82.341
+
+#### राजपुर (Rajpur)
+
+Code: NP0556404, Postal: 22400, Coordinates: 27.826, 82.355
+
+#### राप्ती (Rapti)
+
+Code: NP0556407, Postal: 22400, Coordinates: 27.87, 82.717
+
+#### शान्तिनगर (Shantinagar)
+
+Code: NP0556403, Postal: 22400, Coordinates: 28.178, 82.199
+
+#### तुलसीपुर (Tulsipur)
+
+Code: NP0556201, Postal: 22400, Coordinates: 28.106, 82.319
+
+### गुल्मी (Gulmi)
+
+Code: NP0551, Coordinates: 28.096, 83.329
+Local Units: 12
+
+#### चन्द्रकोट (Chandrakot)
+
+Code: NP0551406, Postal: 32600, Coordinates: 28.107, 83.423
+
+#### छत्रकोट (Chhatrakot)
+
+Code: NP0551407, Postal: 32600, Coordinates: 27.986, 83.349
+
+#### धुर्कोट (Dhurkot)
+
+Code: NP0551403, Postal: 32600, Coordinates: 28.118, 83.163
+
+#### गुल्मीदरवार (Gulmi Durbar)
+
+Code: NP0551405, Postal: 32600, Coordinates: 28.04, 83.308
+
+#### ईस्मा (Isma)
+
+Code: NP0551404, Postal: 32600, Coordinates: 28.164, 83.214
+
+#### कालिगण्डकी (Kali Gandaki)
+
+Code: NP0551410, Postal: 32600, Coordinates: 28.05, 83.526
+
+#### मदाने (Madane)
+
+Code: NP0551401, Postal: 32600, Coordinates: 28.175, 83.066
+
+#### मालिका (Malika)
+
+Code: NP0551402, Postal: 32600, Coordinates: 28.213, 83.147
+
+#### मुसिकोट (Musikot)
+
+Code: NP0551301, Postal: 32600, Coordinates: 28.185, 83.305
+
+#### रेसुङ्गा (Resunga)
+
+Code: NP0551302, Postal: 32600, Coordinates: 28.053, 83.254
+
+#### रुरुक्षेत्र (Ruruchhetra)
+
+Code: NP0551408, Postal: 32600, Coordinates: 27.982, 83.424
+
+#### सत्यवती (Satyawoti)
+
+Code: NP0551409, Postal: 32600, Coordinates: 28.03, 83.47
+
+### कपिलवस्तु (Kapilbastu)
+
+Code: NP0549, Coordinates: 27.619, 82.982
+Local Units: 10
+
+#### बाणगंगा (Banganga)
+
+Code: NP0549303, Postal: 32800, Coordinates: 27.683, 83.153
+
+#### विजयनगर (Bijayanagar)
+
+Code: NP0549401, Postal: 32800, Coordinates: 27.662, 82.761
+
+#### बुद्धभूमी (Buddhabhumi)
+
+Code: NP0549302, Postal: 32800, Coordinates: 27.684, 83.001
+
+#### कपिलवस्तु (Kapilbastu)
+
+Code: NP0549306, Postal: 32800, Coordinates: 27.567, 83.066
+
+#### कृष्णनगर (Krishnanagar)
+
+Code: NP0549304, Postal: 32800, Coordinates: 27.534, 82.818
+
+#### महाराजगंज (Maharajganj)
+
+Code: NP0549305, Postal: 32800, Coordinates: 27.536, 82.939
+
+#### मायादेवी (Mayadevi)
+
+Code: NP0549403, Postal: 32800, Coordinates: 27.527, 83.141
+
+#### शिवराज (Shivaraj)
+
+Code: NP0549301, Postal: 32800, Coordinates: 27.682, 82.854
+
+#### शुद्धोधन (Shuddhodhan)
+
+Code: NP0549404, Postal: 32800, Coordinates: 27.508, 83.193
+
+#### यसोधरा (Yasodhara)
+
+Code: NP0549402, Postal: 32800, Coordinates: 27.485, 83.056
+
+### पश्चिम नवलपरासी (Nawalparasi West)
+
+Code: NP0547, Coordinates: 27.52, 83.737
+Local Units: 7
+
+#### बर्दघाट (Bardaghat)
+
+Code: NP0547302, Postal: 33000, Coordinates: 27.57, 83.793
+
+#### पल्हीनन्दन (Palhinandan)
+
+Code: NP0547401, Postal: 33000, Coordinates: 27.464, 83.668
+
+#### प्रतापपुर (Pratapapur)
+
+Code: NP0547403, Postal: 33000, Coordinates: 27.436, 83.794
+
+#### रामग्राम (Ramgram)
+
+Code: NP0547303, Postal: 33000, Coordinates: 27.527, 83.648
+
+#### सरावल (Sarawal)
+
+Code: NP0547402, Postal: 33000, Coordinates: 27.509, 83.726
+
+#### सुनवल (Sunawal)
+
+Code: NP0547301, Postal: 33000, Coordinates: 27.617, 83.664
+
+#### सुस्ता (Susta)
+
+Code: NP0547404, Postal: 33000, Coordinates: 27.428, 83.843
+
+### पाल्पा (Palpa)
+
+Code: NP0546, Coordinates: 27.81, 83.63
+Local Units: 10
+
+#### बगनासकाली (Baganaskali)
+
+Code: NP0546405, Postal: 32500, Coordinates: 27.882, 83.604
+
+#### माथागढी (Mathagadhi)
+
+Code: NP0546404, Postal: 32500, Coordinates: 27.767, 83.655
+
+#### निस्दी (Nisdi)
+
+Code: NP0546408, Postal: 32500, Coordinates: 27.786, 83.907
+
+#### पूर्वखोला (Purbakhola)
+
+Code: NP0546406, Postal: 32500, Coordinates: 27.824, 83.773
+
+#### रैनादेवी छहरा (Rainadevi Chhahara)
+
+Code: NP0546401, Postal: 32500, Coordinates: 27.857, 83.348
+
+#### रम्भा (Rambha)
+
+Code: NP0546407, Postal: 32500, Coordinates: 27.868, 83.686
+
+#### रामपुर (Rampur)
+
+Code: NP0546302, Postal: 32500, Coordinates: 27.856, 83.894
+
+#### रिब्दीकोट (Ribdikot)
+
+Code: NP0546403, Postal: 32500, Coordinates: 27.867, 83.453
+
+#### तानसेन (Tansen)
+
+Code: NP0546301, Postal: 32500, Coordinates: 27.867, 83.529
+
+#### तिनाउ (Tinau)
+
+Code: NP0546402, Postal: 32500, Coordinates: 27.767, 83.468
+
+### प्यूठान (Pyuthan)
+
+Code: NP0555, Coordinates: 28.12, 82.83
+Local Units: 9
+
+#### ऐरावती (Aairawati)
+
+Code: NP0555407, Postal: 22300, Coordinates: 27.988, 82.912
+
+#### गौमुखी (Gaumukhi)
+
+Code: NP0555402, Postal: 22300, Coordinates: 28.252, 83.029
+
+#### झिमरुक (Jhimaruk)
+
+Code: NP0555403, Postal: 22300, Coordinates: 28.149, 82.984
+
+#### मल्लरानी (Mallarani)
+
+Code: NP0555405, Postal: 22300, Coordinates: 28.073, 82.918
+
+#### माण्डवी (Mandavi)
+
+Code: NP0555404, Postal: 22300, Coordinates: 28.047, 82.772
+
+#### नौबहिनी (Naubahini)
+
+Code: NP0555401, Postal: 22300, Coordinates: 28.255, 82.909
+
+#### प्यूठान (Pyuthan)
+
+Code: NP0555302, Postal: 22300, Coordinates: 28.128, 82.85
+
+#### सरुमारानी (Sarumarani)
+
+Code: NP0555406, Postal: 22300, Coordinates: 27.944, 82.839
+
+#### स्वर्गद्वारी (Sworgadwari)
+
+Code: NP0555301, Postal: 22300, Coordinates: 28.132, 82.695
+
+### रोल्पा (Rolpa)
+
+Code: NP0554, Coordinates: 28.325, 82.644
+Local Units: 10
+
+#### गंगादेव (Gangadev)
+
+Code: NP0554401, Postal: 22100, Coordinates: 28.446, 82.42
+
+#### लुङ्ग्री (Lungri)
+
+Code: NP0554408, Postal: 22100, Coordinates: 28.267, 82.809
+
+#### मादी (Madi)
+
+Code: NP0554404, Postal: 22100, Coordinates: 28.402, 82.506
+
+#### परिवर्तन (Pariwartan)
+
+Code: NP0554402, Postal: 22100, Coordinates: 28.481, 82.548
+
+#### रोल्पा (Rolpa)
+
+Code: NP0554301, Postal: 22100, Coordinates: 28.329, 82.605
+
+#### रुन्टीगढी (Runtigadhi)
+
+Code: NP0554409, Postal: 22100, Coordinates: 28.177, 82.513
+
+#### सुनछहरी (Sunchhahari)
+
+Code: NP0554405, Postal: 22100, Coordinates: 28.382, 82.829
+
+#### सुनिल स्मृति (Sunil Smriti)
+
+Code: NP0554407, Postal: 22100, Coordinates: 28.277, 82.738
+
+#### थवाङ (Thawang)
+
+Code: NP0554403, Postal: 22100, Coordinates: 28.46, 82.74
+
+#### त्रिवेणी (Tribeni)
+
+Code: NP0554406, Postal: 22100, Coordinates: 28.292, 82.483
+
+### पूर्वी रुकुम (Rukum East)
+
+Code: NP0552, Coordinates: 28.672, 82.859
+Local Units: 4
+
+#### भूमे (Bhoome)
+
+Code: NP0552403, Postal: 22000, Coordinates: 28.567, 82.683
+
+#### ढोरपाटन (Dhorpatan)
+
+Code: NP0552598, Postal: 22000, Coordinates: 28.727, 83.029
+
+#### पुथा उत्तरगंगा (Putha Uttanganga)
+
+Code: NP0552402, Postal: 22000, Coordinates: 28.659, 82.808
+
+#### सिस्ने (Sisne)
+
+Code: NP0552401, Postal: 22000, Coordinates: 28.714, 82.648
+
+### रुपन्देही (Rupandehi)
+
+Code: NP0548, Coordinates: 27.549, 83.403
+Local Units: 17
+
+#### बुटवल (Butwal)
+
+Code: NP0548201, Postal: 32900, Coordinates: 27.682, 83.444
+
+#### देवदह (Devdaha)
+
+Code: NP0548302, Postal: 32900, Coordinates: 27.633, 83.569
+
+#### गैडहवा (Gaidahawa)
+
+Code: NP0548403, Postal: 32900, Coordinates: 27.587, 83.292
+
+#### कञ्चन (Kanchan)
+
+Code: NP0548401, Postal: 32900, Coordinates: 27.639, 83.262
+
+#### कोटहीमाई (Kotahimai)
+
+Code: NP0548408, Postal: 32900, Coordinates: 27.446, 83.342
+
+#### लुम्बिनी सांस्कृतिक (Lumbini Sanskritik)
+
+Code: NP0548304, Postal: 32900, Coordinates: 27.469, 83.247
+
+#### लुम्बिनी सांस्कृतिक (Lumbini Sanskritik)
+
+Code: NP0548599, Postal: 32900, Coordinates: 27.488, 83.276
+
+#### मर्चवारी (Marchawari)
+
+Code: NP0548410, Postal: 32900, Coordinates: 27.376, 83.354
+
+#### मायादेवी (Mayadevi)
+
+Code: NP0548405, Postal: 32900, Coordinates: 27.515, 83.366
+
+#### ओमसतीया (Om Satiya)
+
+Code: NP0548406, Postal: 32900, Coordinates: 27.532, 83.522
+
+#### रोहिणी (Rohini)
+
+Code: NP0548407, Postal: 32900, Coordinates: 27.501, 83.55
+
+#### सैनामैना (Sainamaina)
+
+Code: NP0548301, Postal: 32900, Coordinates: 27.706, 83.302
+
+#### सम्मरीमाई (Sammarimai)
+
+Code: NP0548409, Postal: 32900, Coordinates: 27.384, 83.309
+
+#### सिद्धार्थनगर (Siddharthanagar)
+
+Code: NP0548305, Postal: 32900, Coordinates: 27.507, 83.437
+
+#### सियारी (Siyari)
+
+Code: NP0548404, Postal: 32900, Coordinates: 27.57, 83.375
+
+#### सुद्धोधन (Suddhodhan)
+
+Code: NP0548402, Postal: 32900, Coordinates: 27.614, 83.364
+
+#### तिलोत्तमा (Tilottama)
+
+Code: NP0548303, Postal: 32900, Coordinates: 27.612, 83.489
+

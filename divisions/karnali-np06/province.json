@@ -1,0 +1,30 @@
+{
+  "id": "NP06",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "कर्णाली",
+    "en": "Karnali",
+    "slug": "karnali-np06"
+  },
+  "code": {
+    "id": "NP06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "local_unit": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.308",
+    "lon": "82.472"
+  },
+  "metadata": {},
+  "source": {}
+}

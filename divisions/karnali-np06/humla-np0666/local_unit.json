@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0666407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अदानचुली",
+      "en": "Adanchuli",
+      "slug": "adanchuli-np0666407"
+    },
+    "code": {
+      "id": "NP0666407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "29.701",
+      "lon": "81.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चंखेली",
+      "en": "Chankheli",
+      "slug": "chankheli-np0666405"
+    },
+    "code": {
+      "id": "NP0666405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "29.855",
+      "lon": "82.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खार्पुनाथ",
+      "en": "Kharpunath",
+      "slug": "kharpunath-np0666403"
+    },
+    "code": {
+      "id": "NP0666403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "30.08",
+      "lon": "82.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नाम्खा",
+      "en": "Namkha",
+      "slug": "namkha-np0666401"
+    },
+    "code": {
+      "id": "NP0666401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "30.167",
+      "lon": "81.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सर्केगाड",
+      "en": "Sarkegad",
+      "slug": "sarkegad-np0666404"
+    },
+    "code": {
+      "id": "NP0666404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "29.79",
+      "lon": "81.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिमकोट",
+      "en": "Simkot",
+      "slug": "simkot-np0666402"
+    },
+    "code": {
+      "id": "NP0666402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "30.136",
+      "lon": "81.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ताँजाकोट",
+      "en": "Tanjakot",
+      "slug": "tanjakot-np0666406"
+    },
+    "code": {
+      "id": "NP0666406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0666",
+      "level": 2,
+      "name": {
+        "local": "हुम्ला",
+        "en": "Humla",
+        "slug": "humla-np0666"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0666",
+        "level": 2,
+        "name": {
+          "local": "हुम्ला",
+          "en": "Humla",
+          "slug": "humla-np0666"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "29.703",
+      "lon": "81.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

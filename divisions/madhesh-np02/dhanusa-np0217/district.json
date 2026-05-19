@@ -1,0 +1,49 @@
+{
+  "id": "NP0217",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "धनुषा",
+    "en": "Dhanusa",
+    "slug": "dhanusa-np0217"
+  },
+  "code": {
+    "id": "NP0217",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP02",
+    "level": 1,
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 18
+  },
+  "zip_codes": [
+    "45600"
+  ],
+  "geo": {
+    "lat": "26.851",
+    "lon": "86.036"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "NP0548",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "रुपन्देही",
+    "en": "Rupandehi",
+    "slug": "rupandehi-np0548"
+  },
+  "code": {
+    "id": "NP0548",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 17
+  },
+  "zip_codes": [
+    "32900"
+  ],
+  "geo": {
+    "lat": "27.549",
+    "lon": "83.403"
+  },
+  "metadata": {},
+  "source": {}
+}

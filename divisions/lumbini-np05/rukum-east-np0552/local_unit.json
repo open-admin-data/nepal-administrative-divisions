@@ -1,0 +1,226 @@
+[
+  {
+    "id": "NP0552403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भूमे",
+      "en": "Bhoome",
+      "slug": "bhoome-np0552403"
+    },
+    "code": {
+      "id": "NP0552403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0552",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी रुकुम",
+        "en": "Rukum East",
+        "slug": "rukum-east-np0552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0552",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी रुकुम",
+          "en": "Rukum East",
+          "slug": "rukum-east-np0552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.567",
+      "lon": "82.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0552598",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ढोरपाटन",
+      "en": "Dhorpatan",
+      "slug": "dhorpatan-np0552598"
+    },
+    "code": {
+      "id": "NP0552598",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0552",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी रुकुम",
+        "en": "Rukum East",
+        "slug": "rukum-east-np0552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0552",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी रुकुम",
+          "en": "Rukum East",
+          "slug": "rukum-east-np0552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.727",
+      "lon": "83.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0552402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पुथा उत्तरगंगा",
+      "en": "Putha Uttanganga",
+      "slug": "putha-uttanganga-np0552402"
+    },
+    "code": {
+      "id": "NP0552402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0552",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी रुकुम",
+        "en": "Rukum East",
+        "slug": "rukum-east-np0552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0552",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी रुकुम",
+          "en": "Rukum East",
+          "slug": "rukum-east-np0552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.659",
+      "lon": "82.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0552401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिस्ने",
+      "en": "Sisne",
+      "slug": "sisne-np0552401"
+    },
+    "code": {
+      "id": "NP0552401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0552",
+      "level": 2,
+      "name": {
+        "local": "पूर्वी रुकुम",
+        "en": "Rukum East",
+        "slug": "rukum-east-np0552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0552",
+        "level": 2,
+        "name": {
+          "local": "पूर्वी रुकुम",
+          "en": "Rukum East",
+          "slug": "rukum-east-np0552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.714",
+      "lon": "82.648"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

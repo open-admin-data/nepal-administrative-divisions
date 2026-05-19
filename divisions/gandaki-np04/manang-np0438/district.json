@@ -1,0 +1,49 @@
+{
+  "id": "NP0438",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "मनाङ",
+    "en": "Manang",
+    "slug": "manang-np0438"
+  },
+  "code": {
+    "id": "NP0438",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 4
+  },
+  "zip_codes": [
+    "33500"
+  ],
+  "geo": {
+    "lat": "28.673",
+    "lon": "84.169"
+  },
+  "metadata": {},
+  "source": {}
+}

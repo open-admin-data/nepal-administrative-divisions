@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0664302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खाँडाचक्र",
+      "en": "Khandachakra",
+      "slug": "khandachakra-np0664302"
+    },
+    "code": {
+      "id": "NP0664302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.158",
+      "lon": "81.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महावै",
+      "en": "Mahawai",
+      "slug": "mahawai-np0664406"
+    },
+    "code": {
+      "id": "NP0664406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.041",
+      "lon": "81.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नरहरिनाथ",
+      "en": "Naraharinath",
+      "slug": "naraharinath-np0664401"
+    },
+    "code": {
+      "id": "NP0664401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.221",
+      "lon": "81.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पचाल झरना",
+      "en": "Pachal Jharana",
+      "slug": "pachal-jharana-np0664403"
+    },
+    "code": {
+      "id": "NP0664403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.26",
+      "lon": "81.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पलाता",
+      "en": "Palata",
+      "slug": "palata-np0664404"
+    },
+    "code": {
+      "id": "NP0664404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.34",
+      "lon": "81.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रास्कोट",
+      "en": "Raskot",
+      "slug": "raskot-np0664301"
+    },
+    "code": {
+      "id": "NP0664301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.275",
+      "lon": "81.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सान्नी त्रिवेणी",
+      "en": "Sanni Tribeni",
+      "slug": "sanni-tribeni-np0664402"
+    },
+    "code": {
+      "id": "NP0664402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.264",
+      "lon": "81.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिका",
+      "en": "Shuva Kalika",
+      "slug": "shuva-kalika-np0664405"
+    },
+    "code": {
+      "id": "NP0664405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.08",
+      "lon": "81.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिलागुफा",
+      "en": "Tilagupha",
+      "slug": "tilagupha-np0664303"
+    },
+    "code": {
+      "id": "NP0664303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0664",
+      "level": 2,
+      "name": {
+        "local": "कालिकोट",
+        "en": "Kalikot",
+        "slug": "kalikot-np0664"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0664",
+        "level": 2,
+        "name": {
+          "local": "कालिकोट",
+          "en": "Kalikot",
+          "slug": "kalikot-np0664"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.147",
+      "lon": "81.852"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

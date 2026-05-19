@@ -1,0 +1,49 @@
+{
+  "id": "NP0773",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "डडेलधुरा",
+    "en": "Dadeldhura",
+    "slug": "dadeldhura-np0773"
+  },
+  "code": {
+    "id": "NP0773",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "10300"
+  ],
+  "geo": {
+    "lat": "29.209",
+    "lon": "80.501"
+  },
+  "metadata": {},
+  "source": {}
+}

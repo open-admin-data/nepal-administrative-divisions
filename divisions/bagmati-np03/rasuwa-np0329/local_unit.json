@@ -1,0 +1,282 @@
+[
+  {
+    "id": "NP0329401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आमाछोदिङमो",
+      "en": "Aamachhodingmo",
+      "slug": "aamachhodingmo-np0329401"
+    },
+    "code": {
+      "id": "NP0329401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0329",
+      "level": 2,
+      "name": {
+        "local": "रसुवा",
+        "en": "Rasuwa",
+        "slug": "rasuwa-np0329"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0329",
+        "level": 2,
+        "name": {
+          "local": "रसुवा",
+          "en": "Rasuwa",
+          "slug": "rasuwa-np0329"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.216",
+      "lon": "85.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोसाइकुण्ड",
+      "en": "Gosaikunda",
+      "slug": "gosaikunda-np0329402"
+    },
+    "code": {
+      "id": "NP0329402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0329",
+      "level": 2,
+      "name": {
+        "local": "रसुवा",
+        "en": "Rasuwa",
+        "slug": "rasuwa-np0329"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0329",
+        "level": 2,
+        "name": {
+          "local": "रसुवा",
+          "en": "Rasuwa",
+          "slug": "rasuwa-np0329"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.212",
+      "lon": "85.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिका",
+      "en": "Kalika",
+      "slug": "kalika-np0329404"
+    },
+    "code": {
+      "id": "NP0329404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0329",
+      "level": 2,
+      "name": {
+        "local": "रसुवा",
+        "en": "Rasuwa",
+        "slug": "rasuwa-np0329"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0329",
+        "level": 2,
+        "name": {
+          "local": "रसुवा",
+          "en": "Rasuwa",
+          "slug": "rasuwa-np0329"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.029",
+      "lon": "85.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नौकुण्ड",
+      "en": "Naukunda",
+      "slug": "naukunda-np0329405"
+    },
+    "code": {
+      "id": "NP0329405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0329",
+      "level": 2,
+      "name": {
+        "local": "रसुवा",
+        "en": "Rasuwa",
+        "slug": "rasuwa-np0329"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0329",
+        "level": 2,
+        "name": {
+          "local": "रसुवा",
+          "en": "Rasuwa",
+          "slug": "rasuwa-np0329"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.019",
+      "lon": "85.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "उत्तरगया",
+      "en": "Uttargaya",
+      "slug": "uttargaya-np0329403"
+    },
+    "code": {
+      "id": "NP0329403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0329",
+      "level": 2,
+      "name": {
+        "local": "रसुवा",
+        "en": "Rasuwa",
+        "slug": "rasuwa-np0329"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0329",
+        "level": 2,
+        "name": {
+          "local": "रसुवा",
+          "en": "Rasuwa",
+          "slug": "rasuwa-np0329"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.071",
+      "lon": "85.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

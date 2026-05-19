@@ -1,0 +1,570 @@
+# Bagmati — Nepal Administrative Divisions
+
+> 13 districts, 124 local units
+> Code: NP03
+> Coordinates: 27.653, 85.393
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### भक्तपुर (Bhaktapur)
+
+Code: NP0326, Coordinates: 27.674, 85.426
+Local Units: 4
+
+#### भक्तपुर (Bhaktapur)
+
+Code: NP0326303, Postal: 44800, Coordinates: 27.678, 85.431
+
+#### चाँगुनारायण (Changunarayan)
+
+Code: NP0326302, Postal: 44800, Coordinates: 27.692, 85.452
+
+#### मध्यपुर थिमी (Madhyapur Thimi)
+
+Code: NP0326301, Postal: 44800, Coordinates: 27.685, 85.382
+
+#### सूर्यविनायक (Suryabinayak)
+
+Code: NP0326304, Postal: 44800, Coordinates: 27.647, 85.435
+
+### चितवन (Chitawan)
+
+Code: NP0335, Coordinates: 27.618, 84.453
+Local Units: 8
+
+#### भरतपुर (Bharatpur)
+
+Code: NP0335101, Postal: 44200, Coordinates: 27.688, 84.433
+
+#### चितवन (Chitawan)
+
+Code: NP0335597, Postal: 44200, Coordinates: 27.542, 84.361
+
+#### इच्छाकामना (Ichchha Kamana)
+
+Code: NP0335401, Postal: 44200, Coordinates: 27.804, 84.577
+
+#### कालिका (Kalika)
+
+Code: NP0335301, Postal: 44200, Coordinates: 27.715, 84.595
+
+#### खैरहनी (Khairahani)
+
+Code: NP0335303, Postal: 44200, Coordinates: 27.616, 84.566
+
+#### मादी (Madi)
+
+Code: NP0335305, Postal: 44200, Coordinates: 27.434, 84.353
+
+#### राप्ती (Rapti)
+
+Code: NP0335304, Postal: 44200, Coordinates: 27.65, 84.661
+
+#### रत्ननगर (Ratnanagar)
+
+Code: NP0335302, Postal: 44200, Coordinates: 27.615, 84.511
+
+### धादिङ (Dhading)
+
+Code: NP0330, Coordinates: 28.008, 84.906
+Local Units: 13
+
+#### बेनीघाट रोराङ्ग (Benighat Rorang)
+
+Code: NP0330408, Postal: 45100, Coordinates: 27.747, 84.758
+
+#### धुनीबेंशी (Dhunibenshi)
+
+Code: NP0330302, Postal: 45100, Coordinates: 27.723, 85.169
+
+#### गजुरी (Gajuri)
+
+Code: NP0330409, Postal: 45100, Coordinates: 27.75, 84.897
+
+#### गल्छी (Galchhi)
+
+Code: NP0330410, Postal: 45100, Coordinates: 27.779, 84.987
+
+#### गंङ्गा जमुना (Ganga Jamuna)
+
+Code: NP0330402, Postal: 45100, Coordinates: 28.091, 84.921
+
+#### ज्वालामूखी (Jwalamukhi)
+
+Code: NP0330406, Postal: 45100, Coordinates: 27.919, 84.793
+
+#### खनियाबास (Khaniyabas)
+
+Code: NP0330403, Postal: 45100, Coordinates: 28.083, 85.059
+
+#### नेत्रावती डबजोङ (Netrawati Dabjong)
+
+Code: NP0330405, Postal: 45100, Coordinates: 27.989, 84.972
+
+#### नीलकण्ठ (Nilkhantha)
+
+Code: NP0330301, Postal: 45100, Coordinates: 27.919, 84.93
+
+#### रुबी भ्याली (Rubi Valley)
+
+Code: NP0330401, Postal: 45100, Coordinates: 28.226, 85.082
+
+#### सिद्धलेक (Siddhalek)
+
+Code: NP0330407, Postal: 45100, Coordinates: 27.847, 84.837
+
+#### थाक्रे (Thakre)
+
+Code: NP0330411, Postal: 45100, Coordinates: 27.737, 85.064
+
+#### त्रिपुरासुन्दरी (Tripurasundari)
+
+Code: NP0330404, Postal: 45100, Coordinates: 28.019, 84.868
+
+### दोलखा (Dolakha)
+
+Code: NP0322, Coordinates: 27.824, 86.222
+Local Units: 9
+
+#### बैतेश्वर (Baiteshwor)
+
+Code: NP0322404, Postal: 45500, Coordinates: 27.635, 86.132
+
+#### भिमेश्वर (Bhimeshwor)
+
+Code: NP0322301, Postal: 45500, Coordinates: 27.679, 86.022
+
+#### विगु (Bigu)
+
+Code: NP0322401, Postal: 45500, Coordinates: 27.955, 86.202
+
+#### गौरिशंकर (Gaurishankar)
+
+Code: NP0322402, Postal: 45500, Coordinates: 27.81, 86.322
+
+#### जिरी (Jiri)
+
+Code: NP0322302, Postal: 45500, Coordinates: 27.668, 86.273
+
+#### कालिन्चोक (Kalinchowk)
+
+Code: NP0322403, Postal: 45500, Coordinates: 27.749, 86.094
+
+#### मेलुङ (Melung)
+
+Code: NP0322406, Postal: 45500, Coordinates: 27.553, 86.034
+
+#### शैलुङ (Shailung)
+
+Code: NP0322405, Postal: 45500, Coordinates: 27.615, 85.977
+
+#### तामाकोशी (Tamakoshi)
+
+Code: NP0322407, Postal: 45500, Coordinates: 27.544, 86.121
+
+### काठमाडौँ (Kathmandu)
+
+Code: NP0327, Coordinates: 27.694, 85.285
+Local Units: 11
+
+#### बुढानिलकण्ठ (Budhanilkhantha)
+
+Code: NP0327303, Postal: 44600, Coordinates: 27.768, 85.361
+
+#### चन्द्रागिरी (Chandragiri)
+
+Code: NP0327308, Postal: 44600, Coordinates: 27.686, 85.233
+
+#### दक्षिणकाली (Dakshinkali)
+
+Code: NP0327310, Postal: 44600, Coordinates: 27.614, 85.265
+
+#### गोकर्णेश्वर (Gokarneshwor)
+
+Code: NP0327304, Postal: 44600, Coordinates: 27.764, 85.405
+
+#### कागेश्वरी मनहरा (Kageshwori Manahara)
+
+Code: NP0327306, Postal: 44600, Coordinates: 27.733, 85.415
+
+#### काठमाडौं (Kathmandu)
+
+Code: NP0327101, Postal: 44600, Coordinates: 27.709, 85.325
+
+#### किर्तिपुर (Kirtipur)
+
+Code: NP0327309, Postal: 44600, Coordinates: 27.668, 85.276
+
+#### नागार्जुन (Nagarjun)
+
+Code: NP0327305, Postal: 44600, Coordinates: 27.724, 85.258
+
+#### शङ्खरापुर (Shankharapur)
+
+Code: NP0327307, Postal: 44600, Coordinates: 27.754, 85.502
+
+#### तारकेश्वर (Tarakeshwor)
+
+Code: NP0327301, Postal: 44600, Coordinates: 27.777, 85.288
+
+#### टोखा (Tokha)
+
+Code: NP0327302, Postal: 44600, Coordinates: 27.775, 85.333
+
+### काभ्रेपलाञ्चोक (Kavrepalanchok)
+
+Code: NP0324, Coordinates: 27.545, 85.624
+Local Units: 13
+
+#### बनेपा (Banepa)
+
+Code: NP0324302, Postal: 45200, Coordinates: 27.648, 85.518
+
+#### बेथानचोक (Bethanchowk)
+
+Code: NP0324403, Postal: 45200, Coordinates: 27.505, 85.504
+
+#### भुम्लु (Bhumlu)
+
+Code: NP0324401, Postal: 45200, Coordinates: 27.627, 85.74
+
+#### चौरी देउराली (Chauri Deurali)
+
+Code: NP0324402, Postal: 45200, Coordinates: 27.572, 85.779
+
+#### धुलिखेल (Dhulikhel)
+
+Code: NP0324303, Postal: 45200, Coordinates: 27.618, 85.563
+
+#### खानीखोला (Khanikhola)
+
+Code: NP0324406, Postal: 45200, Coordinates: 27.428, 85.489
+
+#### महाभारत (Mahabharat)
+
+Code: NP0324407, Postal: 45200, Coordinates: 27.398, 85.629
+
+#### मण्डन देउपुर (Mandan Deupur)
+
+Code: NP0324301, Postal: 45200, Coordinates: 27.708, 85.596
+
+#### नमोबुद्ध (Namobuddha)
+
+Code: NP0324306, Postal: 45200, Coordinates: 27.556, 85.634
+
+#### पनौती (Panauti)
+
+Code: NP0324305, Postal: 45200, Coordinates: 27.583, 85.479
+
+#### पाँचखाल (Panchkhal)
+
+Code: NP0324304, Postal: 45200, Coordinates: 27.642, 85.637
+
+#### रोशी (Roshi)
+
+Code: NP0324404, Postal: 45200, Coordinates: 27.468, 85.655
+
+#### तेमाल (Temal)
+
+Code: NP0324405, Postal: 45200, Coordinates: 27.511, 85.753
+
+### ललितपुर (Lalitpur)
+
+Code: NP0325, Coordinates: 27.548, 85.323
+Local Units: 6
+
+#### बागमती (Bagmati)
+
+Code: NP0325401, Postal: 44700, Coordinates: 27.485, 85.292
+
+#### गोदावरी (Godawari)
+
+Code: NP0325301, Postal: 44700, Coordinates: 27.581, 85.339
+
+#### कोन्ज्योसोम (Konjyosom)
+
+Code: NP0325402, Postal: 44700, Coordinates: 27.52, 85.346
+
+#### ललितपुर (Lalitpur)
+
+Code: NP0325101, Postal: 44700, Coordinates: 27.65, 85.312
+
+#### महालक्ष्मी (Mahalaxmi)
+
+Code: NP0325302, Postal: 44700, Coordinates: 27.632, 85.38
+
+#### महाङ्काल (Mahankal)
+
+Code: NP0325403, Postal: 44700, Coordinates: 27.476, 85.401
+
+### मकवानपुर (Makwanpur)
+
+Code: NP0331, Coordinates: 27.437, 85.053
+Local Units: 12
+
+#### बागमती (Bagmati)
+
+Code: NP0331408, Postal: 44100, Coordinates: 27.295, 85.363
+
+#### बकैया (Bakaiya)
+
+Code: NP0331407, Postal: 44100, Coordinates: 27.341, 85.209
+
+#### भीमफेदी (Bhimphedi)
+
+Code: NP0331404, Postal: 44100, Coordinates: 27.533, 85.116
+
+#### चितवन (Chitawan)
+
+Code: NP0331597, Postal: 44100, Coordinates: 27.497, 84.713
+
+#### हेटौंडा (Hetauda)
+
+Code: NP0331201, Postal: 44100, Coordinates: 27.421, 85.009
+
+#### ईन्द्र सरोवर (Indrasarowar)
+
+Code: NP0331405, Postal: 44100, Coordinates: 27.602, 85.187
+
+#### कैलाश (Kailash)
+
+Code: NP0331403, Postal: 44100, Coordinates: 27.609, 84.952
+
+#### मकवानपुरगढी (Makawanpurgadhi)
+
+Code: NP0331406, Postal: 44100, Coordinates: 27.437, 85.115
+
+#### मनहरी (Manahari)
+
+Code: NP0331401, Postal: 44100, Coordinates: 27.485, 84.857
+
+#### पर्सा (Parsa)
+
+Code: NP0331595, Postal: 44100, Coordinates: 27.5, 84.78
+
+#### राक्सिराङ्ग (Raksirang)
+
+Code: NP0331402, Postal: 44100, Coordinates: 27.591, 84.832
+
+#### थाहा (Thaha)
+
+Code: NP0331301, Postal: 44100, Coordinates: 27.645, 85.096
+
+### नुवाकोट (Nuwakot)
+
+Code: NP0328, Coordinates: 27.926, 85.248
+Local Units: 14
+
+#### बेलकोटगढी (Belkotgadhi)
+
+Code: NP0328302, Postal: 44900, Coordinates: 27.826, 85.109
+
+#### विदुर (Bidur)
+
+Code: NP0328301, Postal: 44900, Coordinates: 27.919, 85.131
+
+#### दुप्चेश्वर (Dupcheshwor)
+
+Code: NP0328408, Postal: 44900, Coordinates: 27.948, 85.425
+
+#### ककनी (Kakani)
+
+Code: NP0328409, Postal: 44900, Coordinates: 27.822, 85.244
+
+#### किस्पाङ (Kispang)
+
+Code: NP0328402, Postal: 44900, Coordinates: 28.035, 85.103
+
+#### लाङटाङ (Langtang)
+
+Code: NP0328597, Postal: 44900, Coordinates: 28.023, 85.437
+
+#### लिखु (Likhu)
+
+Code: NP0328406, Postal: 44900, Coordinates: 27.887, 85.216
+
+#### म्यागङ (Myagang)
+
+Code: NP0328401, Postal: 44900, Coordinates: 27.996, 85.072
+
+#### पञ्चकन्या (Panchakanya)
+
+Code: NP0328407, Postal: 44900, Coordinates: 27.891, 85.301
+
+#### शिवपुरी (Shivapuri)
+
+Code: NP0328410, Postal: 44900, Coordinates: 27.854, 85.368
+
+#### शिवपुरी (Shivapuri)
+
+Code: NP0328596, Postal: 44900, Coordinates: 27.815, 85.333
+
+#### सुर्यगढी (Suryagadhi)
+
+Code: NP0328404, Postal: 44900, Coordinates: 27.946, 85.236
+
+#### तादी (Tadi)
+
+Code: NP0328405, Postal: 44900, Coordinates: 27.966, 85.338
+
+#### तारकेश्वर (Tarakeshwor)
+
+Code: NP0328403, Postal: 44900, Coordinates: 27.882, 85.037
+
+### रामेछाप (Ramechhap)
+
+Code: NP0321, Coordinates: 27.537, 86.257
+Local Units: 8
+
+#### दोरम्बा (Doramba)
+
+Code: NP0321402, Postal: 45400, Coordinates: 27.546, 85.92
+
+#### गोकुलगङ्गा (Gokulganga)
+
+Code: NP0321403, Postal: 45400, Coordinates: 27.584, 86.278
+
+#### खाँडादेवी (Khandadevi)
+
+Code: NP0321405, Postal: 45400, Coordinates: 27.427, 85.915
+
+#### लिखु तामाकोशी (Likhu Tamakoshi)
+
+Code: NP0321406, Postal: 45400, Coordinates: 27.449, 86.183
+
+#### मन्थली (Manthali)
+
+Code: NP0321301, Postal: 45400, Coordinates: 27.409, 86.053
+
+#### रामेछाप (Ramechhap)
+
+Code: NP0321302, Postal: 45400, Coordinates: 27.322, 86.126
+
+#### सुनापती (Sunapati)
+
+Code: NP0321401, Postal: 45400, Coordinates: 27.507, 85.86
+
+#### उमाकुण्ड (Umakunda)
+
+Code: NP0321404, Postal: 45400, Coordinates: 27.644, 86.446
+
+### रसुवा (Rasuwa)
+
+Code: NP0329, Coordinates: 28.176, 85.479
+Local Units: 5
+
+#### आमाछोदिङमो (Aamachhodingmo)
+
+Code: NP0329401, Postal: 45000, Coordinates: 28.216, 85.253
+
+#### गोसाइकुण्ड (Gosaikunda)
+
+Code: NP0329402, Postal: 45000, Coordinates: 28.212, 85.544
+
+#### कालिका (Kalika)
+
+Code: NP0329404, Postal: 45000, Coordinates: 28.029, 85.217
+
+#### नौकुण्ड (Naukunda)
+
+Code: NP0329405, Postal: 45000, Coordinates: 28.019, 85.301
+
+#### उत्तरगया (Uttargaya)
+
+Code: NP0329403, Postal: 45000, Coordinates: 28.071, 85.183
+
+### सिन्धुली (Sindhuli)
+
+Code: NP0320, Coordinates: 27.185, 86.07
+Local Units: 9
+
+#### दुधौली (Dudhouli)
+
+Code: NP0320302, Postal: 45900, Coordinates: 27.025, 86.215
+
+#### ध्याङलेख (Ghyanglekha)
+
+Code: NP0320403, Postal: 45900, Coordinates: 27.345, 85.792
+
+#### गोलन्जोर (Golanjor)
+
+Code: NP0320405, Postal: 45900, Coordinates: 27.261, 86.056
+
+#### हरिहरपुरगढी (Hariharpurgaghi)
+
+Code: NP0320401, Postal: 45900, Coordinates: 27.257, 85.541
+
+#### कमलामाई (Kamalamai)
+
+Code: NP0320301, Postal: 45900, Coordinates: 27.173, 85.91
+
+#### मरिण (Marin)
+
+Code: NP0320402, Postal: 45900, Coordinates: 27.248, 85.697
+
+#### फिक्कल (Phikkal)
+
+Code: NP0320407, Postal: 45900, Coordinates: 27.185, 86.298
+
+#### सुनकोशी (Sunkoshi)
+
+Code: NP0320404, Postal: 45900, Coordinates: 27.38, 85.876
+
+#### तिनपाटन (Tinpatan)
+
+Code: NP0320406, Postal: 45900, Coordinates: 27.132, 86.133
+
+### सिन्धुपाल्चोक (Sindhupalchok)
+
+Code: NP0323, Coordinates: 27.907, 85.756
+Local Units: 12
+
+#### बाह्रबिसे (Bahrabise)
+
+Code: NP0323303, Postal: 45300, Coordinates: 27.84, 85.873
+
+#### बलेफी (Balephi)
+
+Code: NP0323406, Postal: 45300, Coordinates: 27.787, 85.802
+
+#### भोटेकोशी (Bhotekoshi)
+
+Code: NP0323404, Postal: 45300, Coordinates: 27.933, 85.906
+
+#### चौतारा साँगाचोकगढी (Choutara Sangachowkgadhi)
+
+Code: NP0323302, Postal: 45300, Coordinates: 27.751, 85.727
+
+#### हेलम्बु (Helambu)
+
+Code: NP0323401, Postal: 45300, Coordinates: 28.006, 85.532
+
+#### ईन्द्रावती (Indrawoti)
+
+Code: NP0323405, Postal: 45300, Coordinates: 27.786, 85.625
+
+#### जुगल (Jugal)
+
+Code: NP0323403, Postal: 45300, Coordinates: 28.003, 85.806
+
+#### लिसंखु पाखर (Lisankhu Pakhar)
+
+Code: NP0323409, Postal: 45300, Coordinates: 27.677, 85.878
+
+#### मेलम्ची (Melamchi)
+
+Code: NP0323301, Postal: 45300, Coordinates: 27.82, 85.525
+
+#### पाँचपोखरी थाङपाल (Panchpokhari Thangpal)
+
+Code: NP0323402, Postal: 45300, Coordinates: 28.008, 85.649
+
+#### सुनकोशी (Sunkoshi)
+
+Code: NP0323407, Postal: 45300, Coordinates: 27.711, 85.809
+
+#### त्रिपुरासुन्दरी (Tripurasundari)
+
+Code: NP0323408, Postal: 45300, Coordinates: 27.748, 85.949
+

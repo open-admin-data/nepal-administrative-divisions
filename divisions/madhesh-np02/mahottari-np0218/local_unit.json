@@ -1,0 +1,842 @@
+[
+  {
+    "id": "NP0218303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "औरही",
+      "en": "Aurahi",
+      "slug": "aurahi-np0218303"
+    },
+    "code": {
+      "id": "NP0218303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.865",
+      "lon": "85.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बलवा",
+      "en": "Balawa",
+      "slug": "balawa-np0218307"
+    },
+    "code": {
+      "id": "NP0218307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.772",
+      "lon": "85.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बर्दिबास",
+      "en": "Bardibas",
+      "slug": "bardibas-np0218301"
+    },
+    "code": {
+      "id": "NP0218301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "27.022",
+      "lon": "85.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भँगाहा",
+      "en": "Bhangaha",
+      "slug": "bhangaha-np0218304"
+    },
+    "code": {
+      "id": "NP0218304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.852",
+      "lon": "85.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "एकडारा",
+      "en": "Ekadara",
+      "slug": "ekadara-np0218403"
+    },
+    "code": {
+      "id": "NP0218403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.684",
+      "lon": "85.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौशाला",
+      "en": "Gaushala",
+      "slug": "gaushala-np0218302"
+    },
+    "code": {
+      "id": "NP0218302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.94",
+      "lon": "85.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जलेश्वर",
+      "en": "Jaleshwor",
+      "slug": "jaleshwor-np0218309"
+    },
+    "code": {
+      "id": "NP0218309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.642",
+      "lon": "85.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लोहरपट्टी",
+      "en": "Loharpatti",
+      "slug": "loharpatti-np0218308"
+    },
+    "code": {
+      "id": "NP0218308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.763",
+      "lon": "85.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महोत्तरी",
+      "en": "Mahottari",
+      "slug": "mahottari-np0218404"
+    },
+    "code": {
+      "id": "NP0218404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.706",
+      "lon": "85.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मनरा शिसवा",
+      "en": "Manara Shisawa",
+      "slug": "manara-shisawa-np0218306"
+    },
+    "code": {
+      "id": "NP0218306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.705",
+      "lon": "85.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218310",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मटिहानी",
+      "en": "Matihani",
+      "slug": "matihani-np0218310"
+    },
+    "code": {
+      "id": "NP0218310",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.641",
+      "lon": "85.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पिपरा",
+      "en": "Pipara",
+      "slug": "pipara-np0218405"
+    },
+    "code": {
+      "id": "NP0218405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.703",
+      "lon": "85.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राम गोपालपुर",
+      "en": "Ram Gopalpur",
+      "slug": "ram-gopalpur-np0218305"
+    },
+    "code": {
+      "id": "NP0218305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.811",
+      "lon": "85.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "साम्सी",
+      "en": "Samsi",
+      "slug": "samsi-np0218402"
+    },
+    "code": {
+      "id": "NP0218402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.813",
+      "lon": "85.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सोनमा",
+      "en": "Sonama",
+      "slug": "sonama-np0218401"
+    },
+    "code": {
+      "id": "NP0218401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0218",
+      "level": 2,
+      "name": {
+        "local": "महोत्तरी",
+        "en": "Mahottari",
+        "slug": "mahottari-np0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0218",
+        "level": 2,
+        "name": {
+          "local": "महोत्तरी",
+          "en": "Mahottari",
+          "slug": "mahottari-np0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.866",
+      "lon": "85.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

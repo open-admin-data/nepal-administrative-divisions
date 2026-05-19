@@ -1,0 +1,49 @@
+{
+  "id": "NP0102",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "पाँचथर",
+    "en": "Panchthar",
+    "slug": "panchthar-np0102"
+  },
+  "code": {
+    "id": "NP0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "57400"
+  ],
+  "geo": {
+    "lat": "27.149",
+    "lon": "87.855"
+  },
+  "metadata": {},
+  "source": {}
+}

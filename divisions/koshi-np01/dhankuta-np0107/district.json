@@ -1,0 +1,49 @@
+{
+  "id": "NP0107",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "धनकुटा",
+    "en": "Dhankuta",
+    "slug": "dhankuta-np0107"
+  },
+  "code": {
+    "id": "NP0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "56800"
+  ],
+  "geo": {
+    "lat": "27.018",
+    "lon": "87.313"
+  },
+  "metadata": {},
+  "source": {}
+}

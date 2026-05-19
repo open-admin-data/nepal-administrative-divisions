@@ -1,0 +1,49 @@
+{
+  "id": "NP0436",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "गोर्खा",
+    "en": "Gorkha",
+    "slug": "gorkha-np0436"
+  },
+  "code": {
+    "id": "NP0436",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 11
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "geo": {
+    "lat": "28.274",
+    "lon": "84.841"
+  },
+  "metadata": {},
+  "source": {}
+}

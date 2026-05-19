@@ -1,0 +1,730 @@
+[
+  {
+    "id": "NP0330408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेनीघाट रोराङ्ग",
+      "en": "Benighat Rorang",
+      "slug": "benighat-rorang-np0330408"
+    },
+    "code": {
+      "id": "NP0330408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.747",
+      "lon": "84.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धुनीबेंशी",
+      "en": "Dhunibenshi",
+      "slug": "dhunibenshi-np0330302"
+    },
+    "code": {
+      "id": "NP0330302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.723",
+      "lon": "85.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गजुरी",
+      "en": "Gajuri",
+      "slug": "gajuri-np0330409"
+    },
+    "code": {
+      "id": "NP0330409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.75",
+      "lon": "84.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गल्छी",
+      "en": "Galchhi",
+      "slug": "galchhi-np0330410"
+    },
+    "code": {
+      "id": "NP0330410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.779",
+      "lon": "84.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गंङ्गा जमुना",
+      "en": "Ganga Jamuna",
+      "slug": "ganga-jamuna-np0330402"
+    },
+    "code": {
+      "id": "NP0330402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.091",
+      "lon": "84.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ज्वालामूखी",
+      "en": "Jwalamukhi",
+      "slug": "jwalamukhi-np0330406"
+    },
+    "code": {
+      "id": "NP0330406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.919",
+      "lon": "84.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खनियाबास",
+      "en": "Khaniyabas",
+      "slug": "khaniyabas-np0330403"
+    },
+    "code": {
+      "id": "NP0330403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.083",
+      "lon": "85.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नेत्रावती डबजोङ",
+      "en": "Netrawati Dabjong",
+      "slug": "netrawati-dabjong-np0330405"
+    },
+    "code": {
+      "id": "NP0330405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.989",
+      "lon": "84.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नीलकण्ठ",
+      "en": "Nilkhantha",
+      "slug": "nilkhantha-np0330301"
+    },
+    "code": {
+      "id": "NP0330301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.919",
+      "lon": "84.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रुबी भ्याली",
+      "en": "Rubi Valley",
+      "slug": "rubi-valley-np0330401"
+    },
+    "code": {
+      "id": "NP0330401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.226",
+      "lon": "85.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिद्धलेक",
+      "en": "Siddhalek",
+      "slug": "siddhalek-np0330407"
+    },
+    "code": {
+      "id": "NP0330407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.847",
+      "lon": "84.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330411",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "थाक्रे",
+      "en": "Thakre",
+      "slug": "thakre-np0330411"
+    },
+    "code": {
+      "id": "NP0330411",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "27.737",
+      "lon": "85.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिपुरासुन्दरी",
+      "en": "Tripurasundari",
+      "slug": "tripurasundari-np0330404"
+    },
+    "code": {
+      "id": "NP0330404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0330",
+      "level": 2,
+      "name": {
+        "local": "धादिङ",
+        "en": "Dhading",
+        "slug": "dhading-np0330"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0330",
+        "level": 2,
+        "name": {
+          "local": "धादिङ",
+          "en": "Dhading",
+          "slug": "dhading-np0330"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.019",
+      "lon": "84.868"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

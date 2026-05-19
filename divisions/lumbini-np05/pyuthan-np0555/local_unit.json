@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0555407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ऐरावती",
+      "en": "Aairawati",
+      "slug": "aairawati-np0555407"
+    },
+    "code": {
+      "id": "NP0555407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "27.988",
+      "lon": "82.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौमुखी",
+      "en": "Gaumukhi",
+      "slug": "gaumukhi-np0555402"
+    },
+    "code": {
+      "id": "NP0555402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.252",
+      "lon": "83.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "झिमरुक",
+      "en": "Jhimaruk",
+      "slug": "jhimaruk-np0555403"
+    },
+    "code": {
+      "id": "NP0555403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.149",
+      "lon": "82.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मल्लरानी",
+      "en": "Mallarani",
+      "slug": "mallarani-np0555405"
+    },
+    "code": {
+      "id": "NP0555405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.073",
+      "lon": "82.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माण्डवी",
+      "en": "Mandavi",
+      "slug": "mandavi-np0555404"
+    },
+    "code": {
+      "id": "NP0555404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.047",
+      "lon": "82.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नौबहिनी",
+      "en": "Naubahini",
+      "slug": "naubahini-np0555401"
+    },
+    "code": {
+      "id": "NP0555401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.255",
+      "lon": "82.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "प्यूठान",
+      "en": "Pyuthan",
+      "slug": "pyuthan-np0555302"
+    },
+    "code": {
+      "id": "NP0555302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.128",
+      "lon": "82.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सरुमारानी",
+      "en": "Sarumarani",
+      "slug": "sarumarani-np0555406"
+    },
+    "code": {
+      "id": "NP0555406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "27.944",
+      "lon": "82.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "स्वर्गद्वारी",
+      "en": "Sworgadwari",
+      "slug": "sworgadwari-np0555301"
+    },
+    "code": {
+      "id": "NP0555301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0555",
+      "level": 2,
+      "name": {
+        "local": "प्यूठान",
+        "en": "Pyuthan",
+        "slug": "pyuthan-np0555"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0555",
+        "level": 2,
+        "name": {
+          "local": "प्यूठान",
+          "en": "Pyuthan",
+          "slug": "pyuthan-np0555"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.132",
+      "lon": "82.695"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

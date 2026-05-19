@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.local_unit,zip_codes,geo.lat,geo.lon
+NP0661,दैलेख,Dailekh,dailekh-np0661,NP0661,11,21600,28.885,81.7
+NP0662,डोल्पा,Dolpa,dolpa-np0662,NP0662,8,21400,29.214,83.037
+NP0666,हुम्ला,Humla,humla-np0666,NP0666,7,21000,30.026,81.833
+NP0660,जाजरकोट,Jajarkot,jajarkot-np0660,NP0660,7,21500,28.869,82.168
+NP0663,जुम्ला,Jumla,jumla-np0663,NP0663,8,21200,29.239,82.199
+NP0664,कालिकोट,Kalikot,kalikot-np0664,NP0664,9,21300,29.216,81.689
+NP0665,मुगु,Mugu,mugu-np0665,NP0665,4,21100,29.678,82.531
+NP0652,पश्चिम रुकुम,Rukum West,rukum-west-np0652,NP0652,6,22000,28.756,82.428
+NP0653,सल्यान,Salyan,salyan-np0653,NP0653,10,22200,28.407,82.168
+NP0659,सुर्खेत,Surkhet,surkhet-np0659,NP0659,9,21700,28.658,81.514

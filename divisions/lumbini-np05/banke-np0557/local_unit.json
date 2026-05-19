@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0557402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बैजनाथ",
+      "en": "Baijanath",
+      "slug": "baijanath-np0557402"
+    },
+    "code": {
+      "id": "NP0557402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.241",
+      "lon": "81.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "डुडुवा",
+      "en": "Duduwa",
+      "slug": "duduwa-np0557404"
+    },
+    "code": {
+      "id": "NP0557404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.035",
+      "lon": "81.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जानकी",
+      "en": "Janaki",
+      "slug": "janaki-np0557403"
+    },
+    "code": {
+      "id": "NP0557403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.086",
+      "lon": "81.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खजुरा",
+      "en": "Khajura",
+      "slug": "khajura-np0557401"
+    },
+    "code": {
+      "id": "NP0557401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.122",
+      "lon": "81.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोहलपुर",
+      "en": "Kohalpur",
+      "slug": "kohalpur-np0557301"
+    },
+    "code": {
+      "id": "NP0557301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.218",
+      "lon": "81.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नरैनापुर",
+      "en": "Narainapur",
+      "slug": "narainapur-np0557406"
+    },
+    "code": {
+      "id": "NP0557406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "27.926",
+      "lon": "81.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नेपालगञ्ज",
+      "en": "Nepalganj",
+      "slug": "nepalganj-np0557201"
+    },
+    "code": {
+      "id": "NP0557201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.065",
+      "lon": "81.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राप्ती सोनारी",
+      "en": "Rapti Sonari",
+      "slug": "rapti-sonari-np0557405"
+    },
+    "code": {
+      "id": "NP0557405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0557",
+      "level": 2,
+      "name": {
+        "local": "बाँके",
+        "en": "Banke",
+        "slug": "banke-np0557"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0557",
+        "level": 2,
+        "name": {
+          "local": "बाँके",
+          "en": "Banke",
+          "slug": "banke-np0557"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.099",
+      "lon": "81.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

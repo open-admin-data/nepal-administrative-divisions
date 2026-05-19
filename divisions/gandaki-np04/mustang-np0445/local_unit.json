@@ -1,0 +1,282 @@
+[
+  {
+    "id": "NP0445404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "घरपझोङ",
+      "en": "Gharpajhong",
+      "slug": "gharpajhong-np0445404"
+    },
+    "code": {
+      "id": "NP0445404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0445",
+      "level": 2,
+      "name": {
+        "local": "मुस्ताङ",
+        "en": "Mustang",
+        "slug": "mustang-np0445"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0445",
+        "level": 2,
+        "name": {
+          "local": "मुस्ताङ",
+          "en": "Mustang",
+          "slug": "mustang-np0445"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "28.769",
+      "lon": "83.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लो-घेकर दामोदरकुण्ड",
+      "en": "Lo Ghekar Damodarkunda",
+      "slug": "lo-ghekar-damodarkunda-np0445402"
+    },
+    "code": {
+      "id": "NP0445402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0445",
+      "level": 2,
+      "name": {
+        "local": "मुस्ताङ",
+        "en": "Mustang",
+        "slug": "mustang-np0445"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0445",
+        "level": 2,
+        "name": {
+          "local": "मुस्ताङ",
+          "en": "Mustang",
+          "slug": "mustang-np0445"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "29.042",
+      "lon": "83.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लोमन्थाङ",
+      "en": "Lomanthang",
+      "slug": "lomanthang-np0445401"
+    },
+    "code": {
+      "id": "NP0445401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0445",
+      "level": 2,
+      "name": {
+        "local": "मुस्ताङ",
+        "en": "Mustang",
+        "slug": "mustang-np0445"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0445",
+        "level": 2,
+        "name": {
+          "local": "मुस्ताङ",
+          "en": "Mustang",
+          "slug": "mustang-np0445"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "29.202",
+      "lon": "83.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "थासाङ",
+      "en": "Thasang",
+      "slug": "thasang-np0445405"
+    },
+    "code": {
+      "id": "NP0445405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0445",
+      "level": 2,
+      "name": {
+        "local": "मुस्ताङ",
+        "en": "Mustang",
+        "slug": "mustang-np0445"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0445",
+        "level": 2,
+        "name": {
+          "local": "मुस्ताङ",
+          "en": "Mustang",
+          "slug": "mustang-np0445"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "28.689",
+      "lon": "83.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वारागुङ मुक्तिक्षेत्र",
+      "en": "Varagung Muktichhetra",
+      "slug": "varagung-muktichhetra-np0445403"
+    },
+    "code": {
+      "id": "NP0445403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0445",
+      "level": 2,
+      "name": {
+        "local": "मुस्ताङ",
+        "en": "Mustang",
+        "slug": "mustang-np0445"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0445",
+        "level": 2,
+        "name": {
+          "local": "मुस्ताङ",
+          "en": "Mustang",
+          "slug": "mustang-np0445"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "28.898",
+      "lon": "83.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

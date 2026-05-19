@@ -1,0 +1,49 @@
+{
+  "id": "NP0771",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "कैलाली",
+    "en": "Kailali",
+    "slug": "kailali-np0771"
+  },
+  "code": {
+    "id": "NP0771",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 13
+  },
+  "zip_codes": [
+    "10900"
+  ],
+  "geo": {
+    "lat": "28.731",
+    "lon": "80.904"
+  },
+  "metadata": {},
+  "source": {}
+}

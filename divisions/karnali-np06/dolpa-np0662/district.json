@@ -1,0 +1,49 @@
+{
+  "id": "NP0662",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "डोल्पा",
+    "en": "Dolpa",
+    "slug": "dolpa-np0662"
+  },
+  "code": {
+    "id": "NP0662",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP06",
+    "level": 1,
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "21400"
+  ],
+  "geo": {
+    "lat": "29.214",
+    "lon": "83.037"
+  },
+  "metadata": {},
+  "source": {}
+}

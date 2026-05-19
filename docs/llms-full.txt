@@ -1,0 +1,25 @@
+# Nepal Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Bagmati](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/bagmati-np03.txt) — 13 districts, 124 local units
+- [Gandaki](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/gandaki-np04.txt) — 11 districts, 88 local units
+- [Karnali](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/karnali-np06.txt) — 10 districts, 79 local units
+- [Koshi](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/koshi-np01.txt) — 14 districts, 139 local units
+- [Lumbini](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/lumbini-np05.txt) — 12 districts, 112 local units
+- [Madhesh](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/madhesh-np02.txt) — 8 districts, 140 local units
+- [Sudur Paschim](https://github.com/open-admin-data/nepal-administrative-divisions/blob/main/docs/llms-full/sudur-paschim-np07.txt) — 9 districts, 93 local units
+
+## Summary
+
+| Province | Districts | Local Units | 
+|---|---|---|
+| Bagmati | 13 | 124 | 
+| Gandaki | 11 | 88 | 
+| Karnali | 10 | 79 | 
+| Koshi | 14 | 139 | 
+| Lumbini | 12 | 112 | 
+| Madhesh | 8 | 140 | 
+| Sudur Paschim | 9 | 93 | 

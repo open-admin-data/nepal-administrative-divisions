@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0103404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चुलाचुली",
+      "en": "Chulachuli",
+      "slug": "chulachuli-np0103404"
+    },
+    "code": {
+      "id": "NP0103404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.766",
+      "lon": "87.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देउमाई",
+      "en": "Deumai",
+      "slug": "deumai-np0103301"
+    },
+    "code": {
+      "id": "NP0103301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.933",
+      "lon": "87.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फाकफोकथुम",
+      "en": "Fakfokathum",
+      "slug": "fakfokathum-np0103401"
+    },
+    "code": {
+      "id": "NP0103401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.966",
+      "lon": "87.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "इलाम",
+      "en": "Illam",
+      "slug": "illam-np0103302"
+    },
+    "code": {
+      "id": "NP0103302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.94",
+      "lon": "87.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माई",
+      "en": "Mai",
+      "slug": "mai-np0103304"
+    },
+    "code": {
+      "id": "NP0103304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.768",
+      "lon": "87.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माईजोगमाई",
+      "en": "Mai Jogmai",
+      "slug": "mai-jogmai-np0103403"
+    },
+    "code": {
+      "id": "NP0103403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.962",
+      "lon": "88.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माङसेबुङ",
+      "en": "Mangsebung",
+      "slug": "mangsebung-np0103405"
+    },
+    "code": {
+      "id": "NP0103405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.828",
+      "lon": "87.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रोङ",
+      "en": "Rong",
+      "slug": "rong-np0103406"
+    },
+    "code": {
+      "id": "NP0103406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.805",
+      "lon": "88.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सन्दकपुर",
+      "en": "Sandakpur",
+      "slug": "sandakpur-np0103402"
+    },
+    "code": {
+      "id": "NP0103402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "27.047",
+      "lon": "87.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सूर्योदय",
+      "en": "Suryodaya",
+      "slug": "suryodaya-np0103303"
+    },
+    "code": {
+      "id": "NP0103303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0103",
+      "level": 2,
+      "name": {
+        "local": "इलाम",
+        "en": "Ilam",
+        "slug": "ilam-np0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0103",
+        "level": 2,
+        "name": {
+          "local": "इलाम",
+          "en": "Ilam",
+          "slug": "ilam-np0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.898",
+      "lon": "88.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

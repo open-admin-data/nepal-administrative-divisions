@@ -1,0 +1,30 @@
+{
+  "id": "NP02",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "मधेश",
+    "en": "Madhesh",
+    "slug": "madhesh-np02"
+  },
+  "code": {
+    "id": "NP02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "local_unit": 140
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.943",
+    "lon": "85.608"
+  },
+  "metadata": {},
+  "source": {}
+}

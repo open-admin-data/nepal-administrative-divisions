@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0770401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आदर्श",
+      "en": "Aadarsha",
+      "slug": "aadarsha-np0770401"
+    },
+    "code": {
+      "id": "NP0770401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.35",
+      "lon": "80.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बडीकेदार",
+      "en": "Badi Kedar",
+      "slug": "badi-kedar-np0770406"
+    },
+    "code": {
+      "id": "NP0770406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.029",
+      "lon": "80.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बोगटान फुड्सिल",
+      "en": "Bogatan Phudsil",
+      "slug": "bogatan-phudsil-np0770407"
+    },
+    "code": {
+      "id": "NP0770407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.05",
+      "lon": "81.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दिपायल सिलगढी",
+      "en": "Dipayal Silgadhi",
+      "slug": "dipayal-silgadhi-np0770302"
+    },
+    "code": {
+      "id": "NP0770302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.258",
+      "lon": "80.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जोरायल",
+      "en": "Jorayal",
+      "slug": "jorayal-np0770404"
+    },
+    "code": {
+      "id": "NP0770404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.101",
+      "lon": "80.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "केआईसिंह",
+      "en": "K.I. Singh",
+      "slug": "ki-singh-np0770405"
+    },
+    "code": {
+      "id": "NP0770405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.179",
+      "lon": "80.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तड छेडेदह",
+      "en": "Khaptad",
+      "slug": "khaptad-np0770597"
+    },
+    "code": {
+      "id": "NP0770597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.359",
+      "lon": "81.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पुर्विचौकी",
+      "en": "Purbichouki",
+      "slug": "purbichouki-np0770403"
+    },
+    "code": {
+      "id": "NP0770403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.269",
+      "lon": "81.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सायल",
+      "en": "Sayal",
+      "slug": "sayal-np0770402"
+    },
+    "code": {
+      "id": "NP0770402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.368",
+      "lon": "80.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिखर",
+      "en": "Shikhar",
+      "slug": "shikhar-np0770301"
+    },
+    "code": {
+      "id": "NP0770301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0770",
+      "level": 2,
+      "name": {
+        "local": "डोटी",
+        "en": "Doti",
+        "slug": "doti-np0770"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0770",
+        "level": 2,
+        "name": {
+          "local": "डोटी",
+          "en": "Doti",
+          "slug": "doti-np0770"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.244",
+      "lon": "80.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

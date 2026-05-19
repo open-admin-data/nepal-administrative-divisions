@@ -1,0 +1,730 @@
+[
+  {
+    "id": "NP0771405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बर्दगोरिया",
+      "en": "Bardagoriya",
+      "slug": "bardagoriya-np0771405"
+    },
+    "code": {
+      "id": "NP0771405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.688",
+      "lon": "81.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भजनी",
+      "en": "Bhajani",
+      "slug": "bhajani-np0771304"
+    },
+    "code": {
+      "id": "NP0771304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.52",
+      "lon": "80.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चुरे",
+      "en": "Chure",
+      "slug": "chure-np0771401"
+    },
+    "code": {
+      "id": "NP0771401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.927",
+      "lon": "80.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनगढी",
+      "en": "Dhangadhi",
+      "slug": "dhangadhi-np0771201"
+    },
+    "code": {
+      "id": "NP0771201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.675",
+      "lon": "80.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौरीगंगा",
+      "en": "Gauriganga",
+      "slug": "gauriganga-np0771302"
+    },
+    "code": {
+      "id": "NP0771302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.75",
+      "lon": "80.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "घोडाघोडी",
+      "en": "Ghodaghodi",
+      "slug": "ghodaghodi-np0771303"
+    },
+    "code": {
+      "id": "NP0771303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.711",
+      "lon": "80.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोदावरी",
+      "en": "Godawari",
+      "slug": "godawari-np0771301"
+    },
+    "code": {
+      "id": "NP0771301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.863",
+      "lon": "80.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जानकी",
+      "en": "Janaki",
+      "slug": "janaki-np0771406"
+    },
+    "code": {
+      "id": "NP0771406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.568",
+      "lon": "81.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जोशीपुर",
+      "en": "Joshipur",
+      "slug": "joshipur-np0771404"
+    },
+    "code": {
+      "id": "NP0771404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.569",
+      "lon": "81.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कैलारी",
+      "en": "Kailari",
+      "slug": "kailari-np0771402"
+    },
+    "code": {
+      "id": "NP0771402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.598",
+      "lon": "80.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लम्की चुहा",
+      "en": "Lamki Chuha",
+      "slug": "lamki-chuha-np0771306"
+    },
+    "code": {
+      "id": "NP0771306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.658",
+      "lon": "81.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मोहन्याल",
+      "en": "Mohanyal",
+      "slug": "mohanyal-np0771403"
+    },
+    "code": {
+      "id": "NP0771403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.813",
+      "lon": "81.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "टिकापुर",
+      "en": "Tikapur",
+      "slug": "tikapur-np0771305"
+    },
+    "code": {
+      "id": "NP0771305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0771",
+      "level": 2,
+      "name": {
+        "local": "कैलाली",
+        "en": "Kailali",
+        "slug": "kailali-np0771"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0771",
+        "level": 2,
+        "name": {
+          "local": "कैलाली",
+          "en": "Kailali",
+          "slug": "kailali-np0771"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.474",
+      "lon": "81.082"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

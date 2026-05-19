@@ -1,0 +1,226 @@
+[
+  {
+    "id": "NP0665301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छायाँनाथ रारा",
+      "en": "Chhayanath Rara",
+      "slug": "chhayanath-rara-np0665301"
+    },
+    "code": {
+      "id": "NP0665301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0665",
+      "level": 2,
+      "name": {
+        "local": "मुगु",
+        "en": "Mugu",
+        "slug": "mugu-np0665"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0665",
+        "level": 2,
+        "name": {
+          "local": "मुगु",
+          "en": "Mugu",
+          "slug": "mugu-np0665"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.535",
+      "lon": "82.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0665401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खत्याड",
+      "en": "Khatyad",
+      "slug": "khatyad-np0665401"
+    },
+    "code": {
+      "id": "NP0665401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0665",
+      "level": 2,
+      "name": {
+        "local": "मुगु",
+        "en": "Mugu",
+        "slug": "mugu-np0665"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0665",
+        "level": 2,
+        "name": {
+          "local": "मुगु",
+          "en": "Mugu",
+          "slug": "mugu-np0665"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.53",
+      "lon": "81.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0665403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मुगुमकार्मारोग",
+      "en": "Mugumakarmarog",
+      "slug": "mugumakarmarog-np0665403"
+    },
+    "code": {
+      "id": "NP0665403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0665",
+      "level": 2,
+      "name": {
+        "local": "मुगु",
+        "en": "Mugu",
+        "slug": "mugu-np0665"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0665",
+        "level": 2,
+        "name": {
+          "local": "मुगु",
+          "en": "Mugu",
+          "slug": "mugu-np0665"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.678",
+      "lon": "82.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0665402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सोरु",
+      "en": "Soru",
+      "slug": "soru-np0665402"
+    },
+    "code": {
+      "id": "NP0665402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0665",
+      "level": 2,
+      "name": {
+        "local": "मुगु",
+        "en": "Mugu",
+        "slug": "mugu-np0665"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0665",
+        "level": 2,
+        "name": {
+          "local": "मुगु",
+          "en": "Mugu",
+          "slug": "mugu-np0665"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.637",
+      "lon": "81.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

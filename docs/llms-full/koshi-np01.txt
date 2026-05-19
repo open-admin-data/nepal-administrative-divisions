@@ -1,0 +1,635 @@
+# Koshi — Nepal Administrative Divisions
+
+> 14 districts, 139 local units
+> Code: NP01
+> Coordinates: 27.23, 87.177
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### भोजपुर (Bhojpur)
+
+Code: NP0110, Coordinates: 27.175, 87.094
+Local Units: 9
+
+#### आमचोक (Aamchowk)
+
+Code: NP0110406, Postal: 57000, Coordinates: 26.972, 87.034
+
+#### अरुण (Arun)
+
+Code: NP0110403, Postal: 57000, Coordinates: 27.186, 87.207
+
+#### भोजपुर (Bhojpur)
+
+Code: NP0110302, Postal: 57000, Coordinates: 27.188, 87.05
+
+#### हतुवागढी (Hatuwagadhi)
+
+Code: NP0110407, Postal: 57000, Coordinates: 26.995, 87.138
+
+#### पौवा दुङ्मा (Pauwa Dunma)
+
+Code: NP0110405, Postal: 57000, Coordinates: 27.123, 87.145
+
+#### रामप्रसाद राई (Ramprasad Rai)
+
+Code: NP0110404, Postal: 57000, Coordinates: 27.081, 87.031
+
+#### साल्पासिलिछो (Salpa Silichho)
+
+Code: NP0110401, Postal: 57000, Coordinates: 27.385, 86.979
+
+#### षडानन्द (Shadananda)
+
+Code: NP0110301, Postal: 57000, Coordinates: 27.337, 87.103
+
+#### टेम्केमैयुङ (Temkemaiyum)
+
+Code: NP0110402, Postal: 57000, Coordinates: 27.205, 86.961
+
+### धनकुटा (Dhankuta)
+
+Code: NP0107, Coordinates: 27.018, 87.313
+Local Units: 7
+
+#### चौविसे (Chaubise)
+
+Code: NP0107404, Postal: 56800, Coordinates: 26.921, 87.465
+
+#### छथर जोरपाटी (Chhathar Jorpati)
+
+Code: NP0107402, Postal: 56800, Coordinates: 27.022, 87.403
+
+#### धनकुटा (Dhankuta)
+
+Code: NP0107303, Postal: 56800, Coordinates: 26.983, 87.325
+
+#### महालक्ष्मी (Mahalaxmi)
+
+Code: NP0107301, Postal: 56800, Coordinates: 27.134, 87.333
+
+#### पाख्रिवास (Pakhribas)
+
+Code: NP0107302, Postal: 56800, Coordinates: 27.055, 87.251
+
+#### सागुरीगढी (Sangurigadhi)
+
+Code: NP0107403, Postal: 56800, Coordinates: 26.901, 87.287
+
+#### शहीदभूमि (Shahidbhumi)
+
+Code: NP0107401, Postal: 56800, Coordinates: 26.96, 87.218
+
+### इलाम (Ilam)
+
+Code: NP0103, Coordinates: 26.885, 87.92
+Local Units: 10
+
+#### चुलाचुली (Chulachuli)
+
+Code: NP0103404, Postal: 57300, Coordinates: 26.766, 87.683
+
+#### देउमाई (Deumai)
+
+Code: NP0103301, Postal: 57300, Coordinates: 26.933, 87.844
+
+#### फाकफोकथुम (Fakfokathum)
+
+Code: NP0103401, Postal: 57300, Coordinates: 26.966, 87.751
+
+#### इलाम (Illam)
+
+Code: NP0103302, Postal: 57300, Coordinates: 26.94, 87.925
+
+#### माई (Mai)
+
+Code: NP0103304, Postal: 57300, Coordinates: 26.768, 87.862
+
+#### माईजोगमाई (Mai Jogmai)
+
+Code: NP0103403, Postal: 57300, Coordinates: 26.962, 88.003
+
+#### माङसेबुङ (Mangsebung)
+
+Code: NP0103405, Postal: 57300, Coordinates: 26.828, 87.733
+
+#### रोङ (Rong)
+
+Code: NP0103406, Postal: 57300, Coordinates: 26.805, 88.063
+
+#### सन्दकपुर (Sandakpur)
+
+Code: NP0103402, Postal: 57300, Coordinates: 27.047, 87.952
+
+#### सूर्योदय (Suryodaya)
+
+Code: NP0103303, Postal: 57300, Coordinates: 26.898, 88.066
+
+### झापा (Jhapa)
+
+Code: NP0104, Coordinates: 26.584, 87.886
+Local Units: 15
+
+#### अर्जुनधारा (Arjundhara)
+
+Code: NP0104304, Postal: 57200, Coordinates: 26.715, 87.961
+
+#### बाह्रदशी (Barhadashi)
+
+Code: NP0104405, Postal: 57200, Coordinates: 26.528, 87.921
+
+#### भद्रपुर (Bhadrapur)
+
+Code: NP0104308, Postal: 57200, Coordinates: 26.526, 88.077
+
+#### विर्तामोड (Birtamod)
+
+Code: NP0104307, Postal: 57200, Coordinates: 26.605, 87.993
+
+#### बुद्धशान्ति (Buddhashanti)
+
+Code: NP0104402, Postal: 57200, Coordinates: 26.74, 88.068
+
+#### दमक (Damak)
+
+Code: NP0104301, Postal: 57200, Coordinates: 26.67, 87.68
+
+#### गौरादह (Gauradaha)
+
+Code: NP0104306, Postal: 57200, Coordinates: 26.549, 87.694
+
+#### गौरिगञ्ज (Gauriganj)
+
+Code: NP0104403, Postal: 57200, Coordinates: 26.469, 87.723
+
+#### हल्दीवारी (Haldibari)
+
+Code: NP0104406, Postal: 57200, Coordinates: 26.516, 87.999
+
+#### झापा (Jhapa)
+
+Code: NP0104404, Postal: 57200, Coordinates: 26.513, 87.867
+
+#### कचनकवल (Kachanakawal)
+
+Code: NP0104407, Postal: 57200, Coordinates: 26.415, 88.005
+
+#### कमल (Kamal)
+
+Code: NP0104401, Postal: 57200, Coordinates: 26.608, 87.745
+
+#### कन्काई (Kankai)
+
+Code: NP0104303, Postal: 57200, Coordinates: 26.637, 87.911
+
+#### मेची नगर (Mechinagar)
+
+Code: NP0104305, Postal: 57200, Coordinates: 26.681, 88.078
+
+#### शिवसताक्षि (Shivasatakshi)
+
+Code: NP0104302, Postal: 57200, Coordinates: 26.609, 87.812
+
+### खोटाङ (Khotang)
+
+Code: NP0112, Coordinates: 27.156, 86.681
+Local Units: 10
+
+#### ऐसेलुखर्क (Aiselukharka)
+
+Code: NP0112401, Postal: 56200, Coordinates: 27.374, 86.756
+
+#### बराहपोखरी (Baraha Pokhari)
+
+Code: NP0112407, Postal: 56200, Coordinates: 26.941, 86.82
+
+#### दिक्तेल रुपाकोट मझुवागढी (Diktel Rupakot Majhuwagadhi)
+
+Code: NP0112302, Postal: 56200, Coordinates: 27.234, 86.801
+
+#### दिप्रुङ चुइचुम्मा (Diprung Chuichumma)
+
+Code: NP0112404, Postal: 56200, Coordinates: 27.099, 86.791
+
+#### हलेसी तुवाचुङ (Halesi Tuwachung)
+
+Code: NP0112301, Postal: 56200, Coordinates: 27.168, 86.601
+
+#### जन्तेढुङ्गा (Jante Dhunga)
+
+Code: NP0112408, Postal: 56200, Coordinates: 26.97, 86.922
+
+#### केपिलासगढी (Kepilasgadhi)
+
+Code: NP0112402, Postal: 56200, Coordinates: 27.35, 86.886
+
+#### खोटेहाङ (Khotehang)
+
+Code: NP0112406, Postal: 56200, Coordinates: 27.045, 86.85
+
+#### रावा बेसी (Rawa Besi)
+
+Code: NP0112403, Postal: 56200, Coordinates: 27.286, 86.727
+
+#### साकेला (Sakela)
+
+Code: NP0112405, Postal: 56200, Coordinates: 27.18, 86.873
+
+### मोरङ (Morang)
+
+Code: NP0105, Coordinates: 26.611, 87.473
+Local Units: 17
+
+#### बेलवारी (Belbari)
+
+Code: NP0105303, Postal: 56600, Coordinates: 26.63, 87.444
+
+#### विराटनगर (Biratnagar)
+
+Code: NP0105101, Postal: 56600, Coordinates: 26.442, 87.274
+
+#### बुढीगंगा (Budhiganga)
+
+Code: NP0105404, Postal: 56600, Coordinates: 26.562, 87.301
+
+#### धनपालथान (Dhanapalthan)
+
+Code: NP0105408, Postal: 56600, Coordinates: 26.462, 87.406
+
+#### ग्रामथान (Gramthan)
+
+Code: NP0105405, Postal: 56600, Coordinates: 26.555, 87.357
+
+#### जहदा (Jahada)
+
+Code: NP0105407, Postal: 56600, Coordinates: 26.409, 87.333
+
+#### कानेपोखरी (Kanepokhari)
+
+Code: NP0105403, Postal: 56600, Coordinates: 26.601, 87.497
+
+#### कटहरी (Katahari)
+
+Code: NP0105406, Postal: 56600, Coordinates: 26.488, 87.348
+
+#### केरावारी (Kerabari)
+
+Code: NP0105401, Postal: 56600, Coordinates: 26.776, 87.384
+
+#### लेटाङ (Letang)
+
+Code: NP0105301, Postal: 56600, Coordinates: 26.765, 87.501
+
+#### मिक्लाजुङ (Miklajung)
+
+Code: NP0105402, Postal: 56600, Coordinates: 26.782, 87.619
+
+#### पथरी शनिश्चरे (Pathari Shanishchare)
+
+Code: NP0105304, Postal: 56600, Coordinates: 26.61, 87.562
+
+#### रंगेली (Rangeli)
+
+Code: NP0105306, Postal: 56600, Coordinates: 26.489, 87.462
+
+#### रतुवामाई (Ratuwamai)
+
+Code: NP0105308, Postal: 56600, Coordinates: 26.485, 87.612
+
+#### सुन्दरहरैचा (Sundarharaicha)
+
+Code: NP0105302, Postal: 56600, Coordinates: 26.659, 87.342
+
+#### सुनवर्षी (Sunwarshi)
+
+Code: NP0105307, Postal: 56600, Coordinates: 26.485, 87.537
+
+#### उर्लावारी (Urlabari)
+
+Code: NP0105305, Postal: 56600, Coordinates: 26.64, 87.627
+
+### ओखलढुङ्गा (Okhaldhunga)
+
+Code: NP0113, Coordinates: 27.336, 86.448
+Local Units: 8
+
+#### चम्पादेवी (Champadevi)
+
+Code: NP0113404, Postal: 56100, Coordinates: 27.308, 86.309
+
+#### चिशंखुगढी (Chishankhu Gadhi)
+
+Code: NP0113406, Postal: 56100, Coordinates: 27.319, 86.618
+
+#### खिजिदेम्बा (Khiji Demba)
+
+Code: NP0113401, Postal: 56100, Coordinates: 27.448, 86.354
+
+#### लिखु (Likhu)
+
+Code: NP0113402, Postal: 56100, Coordinates: 27.373, 86.262
+
+#### मानेभञ्ज्याङ (Manebhanjyang)
+
+Code: NP0113407, Postal: 56100, Coordinates: 27.212, 86.466
+
+#### मोलुङ (Molung)
+
+Code: NP0113403, Postal: 56100, Coordinates: 27.366, 86.409
+
+#### सिद्दिचरण (Siddhicharan)
+
+Code: NP0113301, Postal: 56100, Coordinates: 27.339, 86.529
+
+#### सुनकोशी (Sunkoshi)
+
+Code: NP0113405, Postal: 56100, Coordinates: 27.274, 86.367
+
+### पाँचथर (Panchthar)
+
+Code: NP0102, Coordinates: 27.149, 87.855
+Local Units: 8
+
+#### फालेलुङ (Falelung)
+
+Code: NP0102403, Postal: 57400, Coordinates: 27.169, 87.926
+
+#### फाल्गुनन्द (Falgunanda)
+
+Code: NP0102405, Postal: 57400, Coordinates: 27.048, 87.762
+
+#### हिलिहाङ्ग (Hilihan)
+
+Code: NP0102401, Postal: 57400, Coordinates: 27.221, 87.792
+
+#### कुम्मायक (Kummayak)
+
+Code: NP0102404, Postal: 57400, Coordinates: 27.075, 87.621
+
+#### मिक्लाजुङ (Miklajung)
+
+Code: NP0102407, Postal: 57400, Coordinates: 26.938, 87.653
+
+#### फिदिम (Phidim)
+
+Code: NP0102301, Postal: 57400, Coordinates: 27.12, 87.795
+
+#### तुम्बेवा (Tumbewa)
+
+Code: NP0102406, Postal: 57400, Coordinates: 26.984, 87.568
+
+#### याङवरक (Yangbarak)
+
+Code: NP0102402, Postal: 57400, Coordinates: 27.327, 88.029
+
+### सङ्खुवासभा (Sankhuwasabha)
+
+Code: NP0109, Coordinates: 27.548, 87.227
+Local Units: 10
+
+#### भोटखोला (Bhotkhola)
+
+Code: NP0109402, Postal: 56900, Coordinates: 27.749, 87.474
+
+#### चैनपुर (Chainapur)
+
+Code: NP0109303, Postal: 56900, Coordinates: 27.308, 87.399
+
+#### चिचिला (Chichila)
+
+Code: NP0109404, Postal: 56900, Coordinates: 27.483, 87.23
+
+#### धर्मदेवी (Dharmadevi)
+
+Code: NP0109304, Postal: 56900, Coordinates: 27.202, 87.356
+
+#### खाँदबारी (Khandabari)
+
+Code: NP0109301, Postal: 56900, Coordinates: 27.367, 87.207
+
+#### मादी (Madi)
+
+Code: NP0109305, Postal: 56900, Coordinates: 27.252, 87.41
+
+#### मकालु (Makalu)
+
+Code: NP0109401, Postal: 56900, Coordinates: 27.729, 87.154
+
+#### पाँचखपन (Panchakhapan)
+
+Code: NP0109302, Postal: 56900, Coordinates: 27.352, 87.302
+
+#### सभापोखरी (Sabhapokhari)
+
+Code: NP0109405, Postal: 56900, Coordinates: 27.438, 87.356
+
+#### सिलीचोङ (Silichong)
+
+Code: NP0109403, Postal: 56900, Coordinates: 27.582, 87.056
+
+### सोलुखुम्बु (Solukhumbu)
+
+Code: NP0111, Coordinates: 27.726, 86.782
+Local Units: 8
+
+#### खुम्बु पासाङल्हामु (Khumbu Pasanglhamu)
+
+Code: NP0111401, Postal: 56000, Coordinates: 27.843, 86.718
+
+#### लिखुपिके (Likhu Pike)
+
+Code: NP0111403, Postal: 56000, Coordinates: 27.551, 86.434
+
+#### माहाकुलुङ (Mahakulung)
+
+Code: NP0111402, Postal: 56000, Coordinates: 27.654, 86.899
+
+#### माप्य दूधकोशी (Mapya Dudhkoshi)
+
+Code: NP0111404, Postal: 56000, Coordinates: 27.537, 86.693
+
+#### नेचासल्यान (Necha Salyan)
+
+Code: NP0111405, Postal: 56000, Coordinates: 27.373, 86.605
+
+#### सोलुदुधकुण्ड (Solu Dhudhakunda)
+
+Code: NP0111301, Postal: 56000, Coordinates: 27.573, 86.585
+
+#### सोताङ (Sotang)
+
+Code: NP0111407, Postal: 56000, Coordinates: 27.517, 86.775
+
+#### थुलुङ दुधकोशी (Thulung Dudhkoshi)
+
+Code: NP0111406, Postal: 56000, Coordinates: 27.428, 86.714
+
+### सुनसरी (Sunsari)
+
+Code: NP0106, Coordinates: 26.641, 87.141
+Local Units: 13
+
+#### बराहक्षेत्र (Barahachhetra)
+
+Code: NP0106301, Postal: 56700, Coordinates: 26.753, 87.156
+
+#### बर्जु (Barju)
+
+Code: NP0106406, Postal: 56700, Coordinates: 26.461, 87.209
+
+#### भोक्राहा नरसिंह (Bhokraha Narsingh)
+
+Code: NP0106402, Postal: 56700, Coordinates: 26.592, 87.102
+
+#### देवानगन्ज (Dewangunj)
+
+Code: NP0106405, Postal: 56700, Coordinates: 26.461, 87.151
+
+#### धरान (Dharan)
+
+Code: NP0106201, Postal: 56700, Coordinates: 26.795, 87.277
+
+#### दुहवी (Duhabi)
+
+Code: NP0106304, Postal: 56700, Coordinates: 26.553, 87.242
+
+#### गढी (Gadhi)
+
+Code: NP0106403, Postal: 56700, Coordinates: 26.565, 87.181
+
+#### हरिनगर (Harinagar)
+
+Code: NP0106404, Postal: 56700, Coordinates: 26.493, 87.106
+
+#### ईनरुवा (Inaruwa)
+
+Code: NP0106303, Postal: 56700, Coordinates: 26.6, 87.168
+
+#### इटहरी (Itahari)
+
+Code: NP0106202, Postal: 56700, Coordinates: 26.674, 87.258
+
+#### कोशी (Koshi)
+
+Code: NP0106401, Postal: 56700, Coordinates: 26.562, 87.009
+
+#### कोशी टप्पु (Koshi Tappu)
+
+Code: NP0106595, Postal: 56700, Coordinates: 26.645, 87.019
+
+#### रामधुनी (Ramdhuni)
+
+Code: NP0106302, Postal: 56700, Coordinates: 26.693, 87.172
+
+### ताप्लेजुङ (Taplejung)
+
+Code: NP0101, Coordinates: 27.61, 87.822
+Local Units: 9
+
+#### आठराई त्रिवेणी (Aatharai Tribeni)
+
+Code: NP0101406, Postal: 57500, Coordinates: 27.32, 87.615
+
+#### मैवाखोला (Maiwakhola)
+
+Code: NP0101405, Postal: 57500, Coordinates: 27.386, 87.502
+
+#### मेरिङदेन (Meringden)
+
+Code: NP0101404, Postal: 57500, Coordinates: 27.481, 87.538
+
+#### मिक्वाखोला (Mikwakhola)
+
+Code: NP0101402, Postal: 57500, Coordinates: 27.557, 87.611
+
+#### पाथीभरा याङवरक (Pathivara Yangwarak)
+
+Code: NP0101407, Postal: 57500, Coordinates: 27.325, 87.745
+
+#### फक्ताङ्लुङ्ग (Phaktanlung)
+
+Code: NP0101401, Postal: 57500, Coordinates: 27.679, 87.913
+
+#### फुङलिङ (Phungling)
+
+Code: NP0101301, Postal: 57500, Coordinates: 27.383, 87.716
+
+#### सिदिङवा (Sidingba)
+
+Code: NP0101408, Postal: 57500, Coordinates: 27.361, 87.94
+
+#### सिरीजङ्गा (Sirijanga)
+
+Code: NP0101403, Postal: 57500, Coordinates: 27.497, 87.966
+
+### तेह्रथुम (Terhathum)
+
+Code: NP0108, Coordinates: 27.132, 87.524
+Local Units: 6
+
+#### आठराई (Aatharai)
+
+Code: NP0108403, Postal: 57100, Coordinates: 27.208, 87.682
+
+#### छथर (Chhathar)
+
+Code: NP0108404, Postal: 57100, Coordinates: 27.035, 87.481
+
+#### लालिगुराँस (Laligurans)
+
+Code: NP0108301, Postal: 57100, Coordinates: 27.13, 87.451
+
+#### मेन्छयायेम (Menchhayayem)
+
+Code: NP0108401, Postal: 57100, Coordinates: 27.242, 87.52
+
+#### म्याङलुङ (Myanglung)
+
+Code: NP0108302, Postal: 57100, Coordinates: 27.141, 87.516
+
+#### फेदाप (Phedap)
+
+Code: NP0108402, Postal: 57100, Coordinates: 27.198, 87.576
+
+### उदयपुर (Udayapur)
+
+Code: NP0114, Coordinates: 26.933, 86.52
+Local Units: 9
+
+#### वेलका (Belaka)
+
+Code: NP0114304, Postal: 56300, Coordinates: 26.818, 87.052
+
+#### चौदण्डीगढी (Chaudandigadhi)
+
+Code: NP0114303, Postal: 56300, Coordinates: 26.799, 86.87
+
+#### कटारी (Katari)
+
+Code: NP0114301, Postal: 56300, Coordinates: 27.022, 86.42
+
+#### कोशी टप्पु (Koshi Tappu)
+
+Code: NP0114595, Postal: 56300, Coordinates: 26.714, 87
+
+#### लिम्चुङबुङ (Limchunbung)
+
+Code: NP0114402, Postal: 56300, Coordinates: 27.089, 86.647
+
+#### रौतामाई (Rautamai)
+
+Code: NP0114404, Postal: 56300, Coordinates: 26.975, 86.679
+
+#### ताप्ली (Tapli)
+
+Code: NP0114401, Postal: 56300, Coordinates: 27.085, 86.535
+
+#### त्रियुगा (Triyuga)
+
+Code: NP0114302, Postal: 56300, Coordinates: 26.816, 86.666
+
+#### उदयपुरगढी (Udayapurgadhi)
+
+Code: NP0114403, Postal: 56300, Coordinates: 26.915, 86.549
+

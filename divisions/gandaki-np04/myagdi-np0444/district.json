@@ -1,0 +1,49 @@
+{
+  "id": "NP0444",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "म्याग्दी",
+    "en": "Myagdi",
+    "slug": "myagdi-np0444"
+  },
+  "code": {
+    "id": "NP0444",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "33200"
+  ],
+  "geo": {
+    "lat": "28.546",
+    "lon": "83.463"
+  },
+  "metadata": {},
+  "source": {}
+}

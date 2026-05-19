@@ -1,0 +1,730 @@
+[
+  {
+    "id": "NP0106301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बराहक्षेत्र",
+      "en": "Barahachhetra",
+      "slug": "barahachhetra-np0106301"
+    },
+    "code": {
+      "id": "NP0106301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.753",
+      "lon": "87.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बर्जु",
+      "en": "Barju",
+      "slug": "barju-np0106406"
+    },
+    "code": {
+      "id": "NP0106406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.461",
+      "lon": "87.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भोक्राहा नरसिंह",
+      "en": "Bhokraha Narsingh",
+      "slug": "bhokraha-narsingh-np0106402"
+    },
+    "code": {
+      "id": "NP0106402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.592",
+      "lon": "87.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवानगन्ज",
+      "en": "Dewangunj",
+      "slug": "dewangunj-np0106405"
+    },
+    "code": {
+      "id": "NP0106405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.461",
+      "lon": "87.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धरान",
+      "en": "Dharan",
+      "slug": "dharan-np0106201"
+    },
+    "code": {
+      "id": "NP0106201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.795",
+      "lon": "87.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुहवी",
+      "en": "Duhabi",
+      "slug": "duhabi-np0106304"
+    },
+    "code": {
+      "id": "NP0106304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.553",
+      "lon": "87.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गढी",
+      "en": "Gadhi",
+      "slug": "gadhi-np0106403"
+    },
+    "code": {
+      "id": "NP0106403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.565",
+      "lon": "87.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरिनगर",
+      "en": "Harinagar",
+      "slug": "harinagar-np0106404"
+    },
+    "code": {
+      "id": "NP0106404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.493",
+      "lon": "87.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईनरुवा",
+      "en": "Inaruwa",
+      "slug": "inaruwa-np0106303"
+    },
+    "code": {
+      "id": "NP0106303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.6",
+      "lon": "87.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106202",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "इटहरी",
+      "en": "Itahari",
+      "slug": "itahari-np0106202"
+    },
+    "code": {
+      "id": "NP0106202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.674",
+      "lon": "87.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np0106401"
+    },
+    "code": {
+      "id": "NP0106401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.562",
+      "lon": "87.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोशी टप्पु",
+      "en": "Koshi Tappu",
+      "slug": "koshi-tappu-np0106595"
+    },
+    "code": {
+      "id": "NP0106595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.645",
+      "lon": "87.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामधुनी",
+      "en": "Ramdhuni",
+      "slug": "ramdhuni-np0106302"
+    },
+    "code": {
+      "id": "NP0106302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0106",
+      "level": 2,
+      "name": {
+        "local": "सुनसरी",
+        "en": "Sunsari",
+        "slug": "sunsari-np0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0106",
+        "level": 2,
+        "name": {
+          "local": "सुनसरी",
+          "en": "Sunsari",
+          "slug": "sunsari-np0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.693",
+      "lon": "87.172"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

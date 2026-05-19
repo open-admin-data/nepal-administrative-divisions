@@ -1,0 +1,49 @@
+{
+  "id": "NP0110",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "भोजपुर",
+    "en": "Bhojpur",
+    "slug": "bhojpur-np0110"
+  },
+  "code": {
+    "id": "NP0110",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "geo": {
+    "lat": "27.175",
+    "lon": "87.094"
+  },
+  "metadata": {},
+  "source": {}
+}

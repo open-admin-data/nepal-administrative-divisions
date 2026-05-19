@@ -1,0 +1,49 @@
+{
+  "id": "NP0440",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "तनहुँ",
+    "en": "Tanahu",
+    "slug": "tanahu-np0440"
+  },
+  "code": {
+    "id": "NP0440",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "33900"
+  ],
+  "geo": {
+    "lat": "27.935",
+    "lon": "84.223"
+  },
+  "metadata": {},
+  "source": {}
+}

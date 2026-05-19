@@ -1,0 +1,49 @@
+{
+  "id": "NP0329",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "रसुवा",
+    "en": "Rasuwa",
+    "slug": "rasuwa-np0329"
+  },
+  "code": {
+    "id": "NP0329",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 5
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "geo": {
+    "lat": "28.176",
+    "lon": "85.479"
+  },
+  "metadata": {},
+  "source": {}
+}

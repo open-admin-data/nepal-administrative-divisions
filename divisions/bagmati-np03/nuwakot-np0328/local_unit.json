@@ -1,0 +1,786 @@
+[
+  {
+    "id": "NP0328302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेलकोटगढी",
+      "en": "Belkotgadhi",
+      "slug": "belkotgadhi-np0328302"
+    },
+    "code": {
+      "id": "NP0328302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.826",
+      "lon": "85.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विदुर",
+      "en": "Bidur",
+      "slug": "bidur-np0328301"
+    },
+    "code": {
+      "id": "NP0328301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.919",
+      "lon": "85.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुप्चेश्वर",
+      "en": "Dupcheshwor",
+      "slug": "dupcheshwor-np0328408"
+    },
+    "code": {
+      "id": "NP0328408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.948",
+      "lon": "85.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ककनी",
+      "en": "Kakani",
+      "slug": "kakani-np0328409"
+    },
+    "code": {
+      "id": "NP0328409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.822",
+      "lon": "85.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "किस्पाङ",
+      "en": "Kispang",
+      "slug": "kispang-np0328402"
+    },
+    "code": {
+      "id": "NP0328402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "28.035",
+      "lon": "85.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लाङटाङ",
+      "en": "Langtang",
+      "slug": "langtang-np0328597"
+    },
+    "code": {
+      "id": "NP0328597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "28.023",
+      "lon": "85.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिखु",
+      "en": "Likhu",
+      "slug": "likhu-np0328406"
+    },
+    "code": {
+      "id": "NP0328406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.887",
+      "lon": "85.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "म्यागङ",
+      "en": "Myagang",
+      "slug": "myagang-np0328401"
+    },
+    "code": {
+      "id": "NP0328401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.996",
+      "lon": "85.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पञ्चकन्या",
+      "en": "Panchakanya",
+      "slug": "panchakanya-np0328407"
+    },
+    "code": {
+      "id": "NP0328407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.891",
+      "lon": "85.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवपुरी",
+      "en": "Shivapuri",
+      "slug": "shivapuri-np0328410"
+    },
+    "code": {
+      "id": "NP0328410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.854",
+      "lon": "85.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328596",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवपुरी",
+      "en": "Shivapuri",
+      "slug": "shivapuri-np0328596"
+    },
+    "code": {
+      "id": "NP0328596",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.815",
+      "lon": "85.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुर्यगढी",
+      "en": "Suryagadhi",
+      "slug": "suryagadhi-np0328404"
+    },
+    "code": {
+      "id": "NP0328404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.946",
+      "lon": "85.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तादी",
+      "en": "Tadi",
+      "slug": "tadi-np0328405"
+    },
+    "code": {
+      "id": "NP0328405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.966",
+      "lon": "85.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तारकेश्वर",
+      "en": "Tarakeshwor",
+      "slug": "tarakeshwor-np0328403"
+    },
+    "code": {
+      "id": "NP0328403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0328",
+      "level": 2,
+      "name": {
+        "local": "नुवाकोट",
+        "en": "Nuwakot",
+        "slug": "nuwakot-np0328"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0328",
+        "level": 2,
+        "name": {
+          "local": "नुवाकोट",
+          "en": "Nuwakot",
+          "slug": "nuwakot-np0328"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.882",
+      "lon": "85.037"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

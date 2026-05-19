@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0660403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बारेकोट",
+      "en": "Barekot",
+      "slug": "barekot-np0660403"
+    },
+    "code": {
+      "id": "NP0660403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.986",
+      "lon": "82.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भेरीमालिका",
+      "en": "Bheri Malika",
+      "slug": "bheri-malika-np0660302"
+    },
+    "code": {
+      "id": "NP0660302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.709",
+      "lon": "82.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छेडागाड",
+      "en": "Chhedagad",
+      "slug": "chhedagad-np0660301"
+    },
+    "code": {
+      "id": "NP0660301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.752",
+      "lon": "82.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जुनीचाँदे",
+      "en": "Junichande",
+      "slug": "junichande-np0660401"
+    },
+    "code": {
+      "id": "NP0660401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.902",
+      "lon": "81.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कुसे",
+      "en": "Kuse",
+      "slug": "kuse-np0660402"
+    },
+    "code": {
+      "id": "NP0660402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.881",
+      "lon": "82.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नलगाड",
+      "en": "Nalgad",
+      "slug": "nalgad-np0660303"
+    },
+    "code": {
+      "id": "NP0660303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.866",
+      "lon": "82.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवालय",
+      "en": "Shivalaya",
+      "slug": "shivalaya-np0660404"
+    },
+    "code": {
+      "id": "NP0660404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0660",
+      "level": 2,
+      "name": {
+        "local": "जाजरकोट",
+        "en": "Jajarkot",
+        "slug": "jajarkot-np0660"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0660",
+        "level": 2,
+        "name": {
+          "local": "जाजरकोट",
+          "en": "Jajarkot",
+          "slug": "jajarkot-np0660"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.691",
+      "lon": "81.931"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

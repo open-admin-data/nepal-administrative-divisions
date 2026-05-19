@@ -1,0 +1,49 @@
+{
+  "id": "NP0233",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "बारा",
+    "en": "Bara",
+    "slug": "bara-np0233"
+  },
+  "code": {
+    "id": "NP0233",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP02",
+    "level": 1,
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 17
+  },
+  "zip_codes": [
+    "44400"
+  ],
+  "geo": {
+    "lat": "27.107",
+    "lon": "85.069"
+  },
+  "metadata": {},
+  "source": {}
+}

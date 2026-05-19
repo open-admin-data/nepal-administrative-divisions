@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0113404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चम्पादेवी",
+      "en": "Champadevi",
+      "slug": "champadevi-np0113404"
+    },
+    "code": {
+      "id": "NP0113404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.308",
+      "lon": "86.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चिशंखुगढी",
+      "en": "Chishankhu Gadhi",
+      "slug": "chishankhu-gadhi-np0113406"
+    },
+    "code": {
+      "id": "NP0113406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.319",
+      "lon": "86.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खिजिदेम्बा",
+      "en": "Khiji Demba",
+      "slug": "khiji-demba-np0113401"
+    },
+    "code": {
+      "id": "NP0113401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.448",
+      "lon": "86.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिखु",
+      "en": "Likhu",
+      "slug": "likhu-np0113402"
+    },
+    "code": {
+      "id": "NP0113402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.373",
+      "lon": "86.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मानेभञ्ज्याङ",
+      "en": "Manebhanjyang",
+      "slug": "manebhanjyang-np0113407"
+    },
+    "code": {
+      "id": "NP0113407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.212",
+      "lon": "86.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मोलुङ",
+      "en": "Molung",
+      "slug": "molung-np0113403"
+    },
+    "code": {
+      "id": "NP0113403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.366",
+      "lon": "86.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिद्दिचरण",
+      "en": "Siddhicharan",
+      "slug": "siddhicharan-np0113301"
+    },
+    "code": {
+      "id": "NP0113301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.339",
+      "lon": "86.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनकोशी",
+      "en": "Sunkoshi",
+      "slug": "sunkoshi-np0113405"
+    },
+    "code": {
+      "id": "NP0113405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0113",
+      "level": 2,
+      "name": {
+        "local": "ओखलढुङ्गा",
+        "en": "Okhaldhunga",
+        "slug": "okhaldhunga-np0113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0113",
+        "level": 2,
+        "name": {
+          "local": "ओखलढुङ्गा",
+          "en": "Okhaldhunga",
+          "slug": "okhaldhunga-np0113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.274",
+      "lon": "86.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

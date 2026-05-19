@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "NP0217403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "औरही",
+      "en": "Aurahi",
+      "slug": "aurahi-np0217403"
+    },
+    "code": {
+      "id": "NP0217403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.708",
+      "lon": "86.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बटेश्वर",
+      "en": "Bateshwor",
+      "slug": "bateshwor-np0217401"
+    },
+    "code": {
+      "id": "NP0217401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.883",
+      "lon": "85.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217310",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विदेह",
+      "en": "Bideha",
+      "slug": "bideha-np0217310"
+    },
+    "code": {
+      "id": "NP0217310",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.68",
+      "lon": "86.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "क्षिरेश्वरनाथ",
+      "en": "Chhireshwornath",
+      "slug": "chhireshwornath-np0217303"
+    },
+    "code": {
+      "id": "NP0217303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.847",
+      "lon": "85.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनौजी",
+      "en": "Dhanauji",
+      "slug": "dhanauji-np0217404"
+    },
+    "code": {
+      "id": "NP0217404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.675",
+      "lon": "85.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनुषाधाम",
+      "en": "Dhanushadham",
+      "slug": "dhanushadham-np0217304"
+    },
+    "code": {
+      "id": "NP0217304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.882",
+      "lon": "86.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गणेशमान चारनाथ",
+      "en": "Ganeshman Charnath",
+      "slug": "ganeshman-charnath-np0217302"
+    },
+    "code": {
+      "id": "NP0217302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.925",
+      "lon": "86.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हंसपुर",
+      "en": "Hansapur",
+      "slug": "hansapur-np0217307"
+    },
+    "code": {
+      "id": "NP0217307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.764",
+      "lon": "86.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जनकनन्दिनी",
+      "en": "Janak Nandini",
+      "slug": "janak-nandini-np0217406"
+    },
+    "code": {
+      "id": "NP0217406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.636",
+      "lon": "86.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जनकपुरधाम",
+      "en": "Janakpurdham",
+      "slug": "janakpurdham-np0217201"
+    },
+    "code": {
+      "id": "NP0217201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.728",
+      "lon": "85.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217311",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कमला",
+      "en": "Kamala",
+      "slug": "kamala-np0217311"
+    },
+    "code": {
+      "id": "NP0217311",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.709",
+      "lon": "86.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लक्ष्मीनिया",
+      "en": "Laxminiya",
+      "slug": "laxminiya-np0217402"
+    },
+    "code": {
+      "id": "NP0217402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.798",
+      "lon": "85.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिथिला",
+      "en": "Mithila",
+      "slug": "mithila-np0217301"
+    },
+    "code": {
+      "id": "NP0217301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.999",
+      "lon": "85.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिथिला बिहारी",
+      "en": "Mithila Bihari",
+      "slug": "mithila-bihari-np0217305"
+    },
+    "code": {
+      "id": "NP0217305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.797",
+      "lon": "86.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मुखियापट्टी मुसहरमिया",
+      "en": "Mukhiyapatti Musaharmiya",
+      "slug": "mukhiyapatti-musaharmiya-np0217405"
+    },
+    "code": {
+      "id": "NP0217405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.603",
+      "lon": "85.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नगराईन",
+      "en": "Nagarain",
+      "slug": "nagarain-np0217309"
+    },
+    "code": {
+      "id": "NP0217309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.647",
+      "lon": "85.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सवैला",
+      "en": "Sabaila",
+      "slug": "sabaila-np0217306"
+    },
+    "code": {
+      "id": "NP0217306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.794",
+      "lon": "86.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शहिद नगर",
+      "en": "Shahidnagar",
+      "slug": "shahidnagar-np0217308"
+    },
+    "code": {
+      "id": "NP0217308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0217",
+      "level": 2,
+      "name": {
+        "local": "धनुषा",
+        "en": "Dhanusa",
+        "slug": "dhanusa-np0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0217",
+        "level": 2,
+        "name": {
+          "local": "धनुषा",
+          "en": "Dhanusa",
+          "slug": "dhanusa-np0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.734",
+      "lon": "86.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

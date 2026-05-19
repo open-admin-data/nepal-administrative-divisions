@@ -1,0 +1,590 @@
+[
+  {
+    "id": "NP0550",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "अर्घाखाँची",
+      "en": "Arghakhanchi",
+      "slug": "arghakhanchi-np0550"
+    },
+    "code": {
+      "id": "NP0550",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.932",
+      "lon": "83.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाँके",
+      "en": "Banke",
+      "slug": "banke-np0557"
+    },
+    "code": {
+      "id": "NP0557",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.096",
+      "lon": "81.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0558",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बर्दिया",
+      "en": "Bardiya",
+      "slug": "bardiya-np0558"
+    },
+    "code": {
+      "id": "NP0558",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21800"
+    ],
+    "geo": {
+      "lat": "28.372",
+      "lon": "81.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दाङ",
+      "en": "Dang",
+      "slug": "dang-np0556"
+    },
+    "code": {
+      "id": "NP0556",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.98",
+      "lon": "82.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "गुल्मी",
+      "en": "Gulmi",
+      "slug": "gulmi-np0551"
+    },
+    "code": {
+      "id": "NP0551",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.096",
+      "lon": "83.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कपिलवस्तु",
+      "en": "Kapilbastu",
+      "slug": "kapilbastu-np0549"
+    },
+    "code": {
+      "id": "NP0549",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.619",
+      "lon": "82.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पश्चिम नवलपरासी",
+      "en": "Nawalparasi West",
+      "slug": "nawalparasi-west-np0547"
+    },
+    "code": {
+      "id": "NP0547",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.52",
+      "lon": "83.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पाल्पा",
+      "en": "Palpa",
+      "slug": "palpa-np0546"
+    },
+    "code": {
+      "id": "NP0546",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.81",
+      "lon": "83.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "प्यूठान",
+      "en": "Pyuthan",
+      "slug": "pyuthan-np0555"
+    },
+    "code": {
+      "id": "NP0555",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.12",
+      "lon": "82.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0554",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रोल्पा",
+      "en": "Rolpa",
+      "slug": "rolpa-np0554"
+    },
+    "code": {
+      "id": "NP0554",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22100"
+    ],
+    "geo": {
+      "lat": "28.325",
+      "lon": "82.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0552",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पूर्वी रुकुम",
+      "en": "Rukum East",
+      "slug": "rukum-east-np0552"
+    },
+    "code": {
+      "id": "NP0552",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.672",
+      "lon": "82.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रुपन्देही",
+      "en": "Rupandehi",
+      "slug": "rupandehi-np0548"
+    },
+    "code": {
+      "id": "NP0548",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.549",
+      "lon": "83.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

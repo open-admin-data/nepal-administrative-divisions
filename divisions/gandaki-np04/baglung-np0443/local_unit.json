@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0443403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वडिगाड",
+      "en": "Badigad",
+      "slug": "badigad-np0443403"
+    },
+    "code": {
+      "id": "NP0443403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.268",
+      "lon": "83.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बागलुङ",
+      "en": "Baglung",
+      "slug": "baglung-np0443303"
+    },
+    "code": {
+      "id": "NP0443303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.251",
+      "lon": "83.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वरेङ",
+      "en": "Bareng",
+      "slug": "bareng-np0443406"
+    },
+    "code": {
+      "id": "NP0443406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.148",
+      "lon": "83.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ढोरपाटन",
+      "en": "Dhorpatan",
+      "slug": "dhorpatan-np0443301"
+    },
+    "code": {
+      "id": "NP0443301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.39",
+      "lon": "83.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443598",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ढोरपाटन",
+      "en": "Dhorpatan",
+      "slug": "dhorpatan-np0443598"
+    },
+    "code": {
+      "id": "NP0443598",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.549",
+      "lon": "83.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गल्कोट",
+      "en": "Galkot",
+      "slug": "galkot-np0443302"
+    },
+    "code": {
+      "id": "NP0443302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.251",
+      "lon": "83.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जैमूनी",
+      "en": "Jaimuni",
+      "slug": "jaimuni-np0443304"
+    },
+    "code": {
+      "id": "NP0443304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.149",
+      "lon": "83.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "काठेखोला",
+      "en": "Kathekhola",
+      "slug": "kathekhola-np0443405"
+    },
+    "code": {
+      "id": "NP0443405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.263",
+      "lon": "83.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "निसीखोला",
+      "en": "Nisikhola",
+      "slug": "nisikhola-np0443401"
+    },
+    "code": {
+      "id": "NP0443401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.376",
+      "lon": "83.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तमानखोला",
+      "en": "Tamankhola",
+      "slug": "tamankhola-np0443402"
+    },
+    "code": {
+      "id": "NP0443402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.439",
+      "lon": "83.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ताराखोला",
+      "en": "Tarakhola",
+      "slug": "tarakhola-np0443404"
+    },
+    "code": {
+      "id": "NP0443404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0443",
+      "level": 2,
+      "name": {
+        "local": "बाग्लुङ",
+        "en": "Baglung",
+        "slug": "baglung-np0443"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0443",
+        "level": 2,
+        "name": {
+          "local": "बाग्लुङ",
+          "en": "Baglung",
+          "slug": "baglung-np0443"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.308",
+      "lon": "83.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

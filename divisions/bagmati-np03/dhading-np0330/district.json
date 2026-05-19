@@ -1,0 +1,49 @@
+{
+  "id": "NP0330",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "धादिङ",
+    "en": "Dhading",
+    "slug": "dhading-np0330"
+  },
+  "code": {
+    "id": "NP0330",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 13
+  },
+  "zip_codes": [
+    "45100"
+  ],
+  "geo": {
+    "lat": "28.008",
+    "lon": "84.906"
+  },
+  "metadata": {},
+  "source": {}
+}

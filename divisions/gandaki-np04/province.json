@@ -1,0 +1,30 @@
+{
+  "id": "NP04",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "गण्डकी",
+    "en": "Gandaki",
+    "slug": "gandaki-np04"
+  },
+  "code": {
+    "id": "NP04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "local_unit": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.384",
+    "lon": "84.036"
+  },
+  "metadata": {},
+  "source": {}
+}

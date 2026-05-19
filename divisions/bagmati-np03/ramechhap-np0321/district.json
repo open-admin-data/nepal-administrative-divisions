@@ -1,0 +1,49 @@
+{
+  "id": "NP0321",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "रामेछाप",
+    "en": "Ramechhap",
+    "slug": "ramechhap-np0321"
+  },
+  "code": {
+    "id": "NP0321",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "45400"
+  ],
+  "geo": {
+    "lat": "27.537",
+    "lon": "86.257"
+  },
+  "metadata": {},
+  "source": {}
+}

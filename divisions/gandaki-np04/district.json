@@ -1,0 +1,541 @@
+[
+  {
+    "id": "NP0443",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाग्लुङ",
+      "en": "Baglung",
+      "slug": "baglung-np0443"
+    },
+    "code": {
+      "id": "NP0443",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.356",
+      "lon": "83.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "गोर्खा",
+      "en": "Gorkha",
+      "slug": "gorkha-np0436"
+    },
+    "code": {
+      "id": "NP0436",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.274",
+      "lon": "84.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कास्की",
+      "en": "Kaski",
+      "slug": "kaski-np0439"
+    },
+    "code": {
+      "id": "NP0439",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.345",
+      "lon": "83.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "लम्जुङ",
+      "en": "Lamjung",
+      "slug": "lamjung-np0437"
+    },
+    "code": {
+      "id": "NP0437",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.283",
+      "lon": "84.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0438",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मनाङ",
+      "en": "Manang",
+      "slug": "manang-np0438"
+    },
+    "code": {
+      "id": "NP0438",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.673",
+      "lon": "84.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मुस्ताङ",
+      "en": "Mustang",
+      "slug": "mustang-np0445"
+    },
+    "code": {
+      "id": "NP0445",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "28.948",
+      "lon": "83.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "म्याग्दी",
+      "en": "Myagdi",
+      "slug": "myagdi-np0444"
+    },
+    "code": {
+      "id": "NP0444",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.546",
+      "lon": "83.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पूर्वी नवलपरासी",
+      "en": "Nawalparasi East",
+      "slug": "nawalparasi-east-np0447"
+    },
+    "code": {
+      "id": "NP0447",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.654",
+      "lon": "84.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पर्वत",
+      "en": "Parbat",
+      "slug": "parbat-np0442"
+    },
+    "code": {
+      "id": "NP0442",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.203",
+      "lon": "83.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "स्याङ्जा",
+      "en": "Syangja",
+      "slug": "syangja-np0441"
+    },
+    "code": {
+      "id": "NP0441",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.045",
+      "lon": "83.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "तनहुँ",
+      "en": "Tanahu",
+      "slug": "tanahu-np0440"
+    },
+    "code": {
+      "id": "NP0440",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.935",
+      "lon": "84.223"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

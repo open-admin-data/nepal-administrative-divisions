@@ -1,0 +1,416 @@
+# Gandaki — Nepal Administrative Divisions
+
+> 11 districts, 88 local units
+> Code: NP04
+> Coordinates: 28.384, 84.036
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### बाग्लुङ (Baglung)
+
+Code: NP0443, Coordinates: 28.356, 83.143
+Local Units: 11
+
+#### वडिगाड (Badigad)
+
+Code: NP0443403, Postal: 33300, Coordinates: 28.268, 83.251
+
+#### बागलुङ (Baglung)
+
+Code: NP0443303, Postal: 33300, Coordinates: 28.251, 83.579
+
+#### वरेङ (Bareng)
+
+Code: NP0443406, Postal: 33300, Coordinates: 28.148, 83.47
+
+#### ढोरपाटन (Dhorpatan)
+
+Code: NP0443301, Postal: 33300, Coordinates: 28.39, 83.115
+
+#### ढोरपाटन (Dhorpatan)
+
+Code: NP0443598, Postal: 33300, Coordinates: 28.549, 83.041
+
+#### गल्कोट (Galkot)
+
+Code: NP0443302, Postal: 33300, Coordinates: 28.251, 83.381
+
+#### जैमूनी (Jaimuni)
+
+Code: NP0443304, Postal: 33300, Coordinates: 28.149, 83.586
+
+#### काठेखोला (Kathekhola)
+
+Code: NP0443405, Postal: 33300, Coordinates: 28.263, 83.514
+
+#### निसीखोला (Nisikhola)
+
+Code: NP0443401, Postal: 33300, Coordinates: 28.376, 83.02
+
+#### तमानखोला (Tamankhola)
+
+Code: NP0443402, Postal: 33300, Coordinates: 28.439, 83.215
+
+#### ताराखोला (Tarakhola)
+
+Code: NP0443404, Postal: 33300, Coordinates: 28.308, 83.413
+
+### गोर्खा (Gorkha)
+
+Code: NP0436, Coordinates: 28.274, 84.841
+Local Units: 11
+
+#### आरूघाट (Aarughat)
+
+Code: NP0436406, Postal: 34000, Coordinates: 28.119, 84.814
+
+#### अजिरकोट (Ajirkot)
+
+Code: NP0436402, Postal: 34000, Coordinates: 28.235, 84.686
+
+#### बारपाक सुलीकोट (Barpak Sulikot)
+
+Code: NP0436403, Postal: 34000, Coordinates: 28.206, 84.751
+
+#### भिमसेन थापा (Bhimsenthapa)
+
+Code: NP0436407, Postal: 34000, Coordinates: 28.002, 84.741
+
+#### चुमनुब्री (Chumanubri)
+
+Code: NP0436401, Postal: 34000, Coordinates: 28.541, 84.873
+
+#### धार्चे (Dharche)
+
+Code: NP0436404, Postal: 34000, Coordinates: 28.312, 84.896
+
+#### गण्डकी (Gandaki)
+
+Code: NP0436409, Postal: 34000, Coordinates: 27.862, 84.695
+
+#### गोरखा (Gorkha)
+
+Code: NP0436302, Postal: 34000, Coordinates: 27.977, 84.605
+
+#### पालुङटार (Palungtar)
+
+Code: NP0436301, Postal: 34000, Coordinates: 28.013, 84.52
+
+#### शहिद लखन (Shahid Lakhan)
+
+Code: NP0436408, Postal: 34000, Coordinates: 27.928, 84.639
+
+#### सिरानचोक (Siranchowk)
+
+Code: NP0436405, Postal: 34000, Coordinates: 28.086, 84.586
+
+### कास्की (Kaski)
+
+Code: NP0439, Coordinates: 28.345, 83.971
+Local Units: 5
+
+#### अन्नपुर्ण (Annapurna)
+
+Code: NP0439401, Postal: 33700, Coordinates: 28.434, 83.804
+
+#### माछापुच्छ्रे (Machhapuchchhre)
+
+Code: NP0439402, Postal: 33700, Coordinates: 28.445, 83.964
+
+#### मादी (Madi)
+
+Code: NP0439403, Postal: 33700, Coordinates: 28.364, 84.135
+
+#### पोखरा (Pokhara)
+
+Code: NP0439101, Postal: 33700, Coordinates: 28.209, 83.982
+
+#### रूपा (Rupa)
+
+Code: NP0439404, Postal: 33700, Coordinates: 28.145, 84.168
+
+### लम्जुङ (Lamjung)
+
+Code: NP0437, Coordinates: 28.283, 84.42
+Local Units: 8
+
+#### बेँसीशहर (Bensishahar)
+
+Code: NP0437302, Postal: 33600, Coordinates: 28.219, 84.351
+
+#### दोर्दी (Dordi)
+
+Code: NP0437403, Postal: 33600, Coordinates: 28.293, 84.527
+
+#### दुधपोखरी (Dudhapokhari)
+
+Code: NP0437404, Postal: 33600, Coordinates: 28.223, 84.595
+
+#### क्ब्होलासोथार (Kwhola Sothar)
+
+Code: NP0437401, Postal: 33600, Coordinates: 28.311, 84.246
+
+#### मध्यनेपाल (Madhya Nepal)
+
+Code: NP0437301, Postal: 33600, Coordinates: 28.147, 84.265
+
+#### मस्र्याङ्गदी (Marshyangdi)
+
+Code: NP0437402, Postal: 33600, Coordinates: 28.381, 84.414
+
+#### रार्इनास (Rainas)
+
+Code: NP0437304, Postal: 33600, Coordinates: 28.108, 84.492
+
+#### सुन्दरबजार (Sundarbazar)
+
+Code: NP0437303, Postal: 33600, Coordinates: 28.155, 84.362
+
+### मनाङ (Manang)
+
+Code: NP0438, Coordinates: 28.673, 84.169
+Local Units: 4
+
+#### चामे (Chame)
+
+Code: NP0438403, Postal: 33500, Coordinates: 28.524, 84.26
+
+#### नार्पा भूमी (Narpa Bhumi)
+
+Code: NP0438402, Postal: 33500, Coordinates: 28.734, 84.221
+
+#### नासोँ (Nason)
+
+Code: NP0438404, Postal: 33500, Coordinates: 28.608, 84.395
+
+#### मनाङ ङिस्याङ (Ngisyang)
+
+Code: NP0438401, Postal: 33500, Coordinates: 28.669, 83.991
+
+### मुस्ताङ (Mustang)
+
+Code: NP0445, Coordinates: 28.948, 83.901
+Local Units: 5
+
+#### घरपझोङ (Gharpajhong)
+
+Code: NP0445404, Postal: 33100, Coordinates: 28.769, 83.747
+
+#### लो-घेकर दामोदरकुण्ड (Lo Ghekar Damodarkunda)
+
+Code: NP0445402, Postal: 33100, Coordinates: 29.042, 83.933
+
+#### लोमन्थाङ (Lomanthang)
+
+Code: NP0445401, Postal: 33100, Coordinates: 29.202, 83.983
+
+#### थासाङ (Thasang)
+
+Code: NP0445405, Postal: 33100, Coordinates: 28.689, 83.587
+
+#### वारागुङ मुक्तिक्षेत्र (Varagung Muktichhetra)
+
+Code: NP0445403, Postal: 33100, Coordinates: 28.898, 83.748
+
+### म्याग्दी (Myagdi)
+
+Code: NP0444, Coordinates: 28.546, 83.463
+Local Units: 7
+
+#### अन्नपुर्ण (Annapurna)
+
+Code: NP0444403, Postal: 33200, Coordinates: 28.521, 83.696
+
+#### बेनी (Beni)
+
+Code: NP0444301, Postal: 33200, Coordinates: 28.356, 83.524
+
+#### धवलागिरी (Dhawalagiri)
+
+Code: NP0444401, Postal: 33200, Coordinates: 28.613, 83.298
+
+#### ढोरपाटन (Dhorpatan)
+
+Code: NP0444598, Postal: 33200, Coordinates: 28.62, 83.13
+
+#### मालिका (Malika)
+
+Code: NP0444404, Postal: 33200, Coordinates: 28.421, 83.36
+
+#### मंगला (Mangala)
+
+Code: NP0444405, Postal: 33200, Coordinates: 28.38, 83.444
+
+#### रघुगंगा (Raghuganga)
+
+Code: NP0444402, Postal: 33200, Coordinates: 28.536, 83.508
+
+### पूर्वी नवलपरासी (Nawalparasi East)
+
+Code: NP0447, Coordinates: 27.654, 84.031
+Local Units: 9
+
+#### बौदीकाली (Baudikali)
+
+Code: NP0447401, Postal: 33000, Coordinates: 27.817, 84.062
+
+#### बिनयी त्रिवेणी (Binayi Tribeni)
+
+Code: NP0447404, Postal: 33000, Coordinates: 27.632, 83.861
+
+#### बुलिङटार (Bulingtar)
+
+Code: NP0447402, Postal: 33000, Coordinates: 27.807, 84.203
+
+#### चितवन (Chitawan)
+
+Code: NP0447597, Postal: 33000, Coordinates: 27.574, 84.122
+
+#### देवचुली (Devchuli)
+
+Code: NP0447303, Postal: 33000, Coordinates: 27.714, 84.199
+
+#### गैडाकोट (Gaidakot)
+
+Code: NP0447304, Postal: 33000, Coordinates: 27.733, 84.34
+
+#### हुप्सेकोट (Hupsekot)
+
+Code: NP0447403, Postal: 33000, Coordinates: 27.701, 84.063
+
+#### कावासोती (Kawasoti)
+
+Code: NP0447302, Postal: 33000, Coordinates: 27.651, 84.144
+
+#### मध्यबिन्दु (Madhya Bindu)
+
+Code: NP0447301, Postal: 33000, Coordinates: 27.635, 83.986
+
+### पर्वत (Parbat)
+
+Code: NP0442, Coordinates: 28.203, 83.728
+Local Units: 7
+
+#### विहादी (Bihadi)
+
+Code: NP0442403, Postal: 33400, Coordinates: 28.061, 83.597
+
+#### जलजला (Jaljala)
+
+Code: NP0442401, Postal: 33400, Coordinates: 28.329, 83.622
+
+#### कुश्मा (Kushma)
+
+Code: NP0442301, Postal: 33400, Coordinates: 28.234, 83.686
+
+#### महाशिला (Mahashila)
+
+Code: NP0442404, Postal: 33400, Coordinates: 28.093, 83.671
+
+#### मोदी (Modi)
+
+Code: NP0442402, Postal: 33400, Coordinates: 28.311, 83.716
+
+#### पैयुं (Paiyu)
+
+Code: NP0442405, Postal: 33400, Coordinates: 28.048, 83.662
+
+#### फलेवास (Phalebas)
+
+Code: NP0442302, Postal: 33400, Coordinates: 28.151, 83.698
+
+### स्याङ्जा (Syangja)
+
+Code: NP0441, Coordinates: 28.045, 83.827
+Local Units: 11
+
+#### आँधीखोला (Aandhikhola)
+
+Code: NP0441401, Postal: 33800, Coordinates: 28.167, 83.799
+
+#### अर्जुनचौपारी (Arjun Choupari)
+
+Code: NP0441403, Postal: 33800, Coordinates: 28.104, 83.773
+
+#### भिरकोट (Bhirkot)
+
+Code: NP0441302, Postal: 33800, Coordinates: 28.042, 83.76
+
+#### विरुवा (Biruwa)
+
+Code: NP0441404, Postal: 33800, Coordinates: 27.993, 83.898
+
+#### चापाकोट (Chapakot)
+
+Code: NP0441305, Postal: 33800, Coordinates: 27.924, 83.791
+
+#### गल्याङ (Galyang)
+
+Code: NP0441303, Postal: 33800, Coordinates: 27.958, 83.656
+
+#### हरीनास (Harinas)
+
+Code: NP0441405, Postal: 33800, Coordinates: 27.977, 83.951
+
+#### कालीगण्डकी (Kaligandaki)
+
+Code: NP0441406, Postal: 33800, Coordinates: 27.952, 83.536
+
+#### फेदीखोला (Phedikhola)
+
+Code: NP0441402, Postal: 33800, Coordinates: 28.175, 83.869
+
+#### पुतलीबजार (Putalibazar)
+
+Code: NP0441301, Postal: 33800, Coordinates: 28.091, 83.885
+
+#### वालिङ्ग (Walling)
+
+Code: NP0441304, Postal: 33800, Coordinates: 27.985, 83.768
+
+### तनहुँ (Tanahu)
+
+Code: NP0440, Coordinates: 27.935, 84.223
+Local Units: 10
+
+#### आँबुखैरेनी (Aanbu Khaireni)
+
+Code: NP0440405, Postal: 33900, Coordinates: 27.88, 84.477
+
+#### बन्दिपुर (Bandipur)
+
+Code: NP0440404, Postal: 33900, Coordinates: 27.918, 84.394
+
+#### भानु (Bhanu)
+
+Code: NP0440303, Postal: 33900, Coordinates: 28.041, 84.405
+
+#### भिमाद (Bhimad)
+
+Code: NP0440304, Postal: 33900, Coordinates: 27.963, 84.064
+
+#### व्याँस (Byas)
+
+Code: NP0440302, Postal: 33900, Coordinates: 28.001, 84.289
+
+#### देवघाट (Devghat)
+
+Code: NP0440406, Postal: 33900, Coordinates: 27.811, 84.367
+
+#### घिरिङ (Ghiring)
+
+Code: NP0440402, Postal: 33900, Coordinates: 27.899, 84.044
+
+#### म्याग्दे (Myagde)
+
+Code: NP0440401, Postal: 33900, Coordinates: 28.007, 84.154
+
+#### ऋषिंङ्ग (Rhishing)
+
+Code: NP0440403, Postal: 33900, Coordinates: 27.901, 84.226
+
+#### शुक्लागण्डकी (Shuklagandaki)
+
+Code: NP0440301, Postal: 33900, Coordinates: 28.061, 84.045
+

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "NP0108403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आठराई",
+      "en": "Aatharai",
+      "slug": "aatharai-np0108403"
+    },
+    "code": {
+      "id": "NP0108403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.208",
+      "lon": "87.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छथर",
+      "en": "Chhathar",
+      "slug": "chhathar-np0108404"
+    },
+    "code": {
+      "id": "NP0108404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.035",
+      "lon": "87.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लालिगुराँस",
+      "en": "Laligurans",
+      "slug": "laligurans-np0108301"
+    },
+    "code": {
+      "id": "NP0108301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.13",
+      "lon": "87.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेन्छयायेम",
+      "en": "Menchhayayem",
+      "slug": "menchhayayem-np0108401"
+    },
+    "code": {
+      "id": "NP0108401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.242",
+      "lon": "87.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "म्याङलुङ",
+      "en": "Myanglung",
+      "slug": "myanglung-np0108302"
+    },
+    "code": {
+      "id": "NP0108302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.141",
+      "lon": "87.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फेदाप",
+      "en": "Phedap",
+      "slug": "phedap-np0108402"
+    },
+    "code": {
+      "id": "NP0108402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0108",
+      "level": 2,
+      "name": {
+        "local": "तेह्रथुम",
+        "en": "Terhathum",
+        "slug": "terhathum-np0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0108",
+        "level": 2,
+        "name": {
+          "local": "तेह्रथुम",
+          "en": "Terhathum",
+          "slug": "terhathum-np0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.198",
+      "lon": "87.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

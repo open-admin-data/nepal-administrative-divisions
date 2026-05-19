@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0110406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आमचोक",
+      "en": "Aamchowk",
+      "slug": "aamchowk-np0110406"
+    },
+    "code": {
+      "id": "NP0110406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "26.972",
+      "lon": "87.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अरुण",
+      "en": "Arun",
+      "slug": "arun-np0110403"
+    },
+    "code": {
+      "id": "NP0110403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.186",
+      "lon": "87.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भोजपुर",
+      "en": "Bhojpur",
+      "slug": "bhojpur-np0110302"
+    },
+    "code": {
+      "id": "NP0110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.188",
+      "lon": "87.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हतुवागढी",
+      "en": "Hatuwagadhi",
+      "slug": "hatuwagadhi-np0110407"
+    },
+    "code": {
+      "id": "NP0110407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "26.995",
+      "lon": "87.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पौवा दुङ्मा",
+      "en": "Pauwa Dunma",
+      "slug": "pauwa-dunma-np0110405"
+    },
+    "code": {
+      "id": "NP0110405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.123",
+      "lon": "87.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामप्रसाद राई",
+      "en": "Ramprasad Rai",
+      "slug": "ramprasad-rai-np0110404"
+    },
+    "code": {
+      "id": "NP0110404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.081",
+      "lon": "87.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "साल्पासिलिछो",
+      "en": "Salpa Silichho",
+      "slug": "salpa-silichho-np0110401"
+    },
+    "code": {
+      "id": "NP0110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.385",
+      "lon": "86.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "षडानन्द",
+      "en": "Shadananda",
+      "slug": "shadananda-np0110301"
+    },
+    "code": {
+      "id": "NP0110301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.337",
+      "lon": "87.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "टेम्केमैयुङ",
+      "en": "Temkemaiyum",
+      "slug": "temkemaiyum-np0110402"
+    },
+    "code": {
+      "id": "NP0110402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0110",
+      "level": 2,
+      "name": {
+        "local": "भोजपुर",
+        "en": "Bhojpur",
+        "slug": "bhojpur-np0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0110",
+        "level": 2,
+        "name": {
+          "local": "भोजपुर",
+          "en": "Bhojpur",
+          "slug": "bhojpur-np0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.205",
+      "lon": "86.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

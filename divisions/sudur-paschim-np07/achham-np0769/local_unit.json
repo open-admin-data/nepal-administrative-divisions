@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0769403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बान्नीगढी जयगढ",
+      "en": "Bannigadhi Jayagadh",
+      "slug": "bannigadhi-jayagadh-np0769403"
+    },
+    "code": {
+      "id": "NP0769403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.193",
+      "lon": "81.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौरपाटी",
+      "en": "Chaurpati",
+      "slug": "chaurpati-np0769401"
+    },
+    "code": {
+      "id": "NP0769401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.202",
+      "lon": "81.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ढकारी",
+      "en": "Dhakari",
+      "slug": "dhakari-np0769405"
+    },
+    "code": {
+      "id": "NP0769405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "28.976",
+      "lon": "81.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कमलबजार",
+      "en": "Kamal bazar",
+      "slug": "kamal-bazar-np0769303"
+    },
+    "code": {
+      "id": "NP0769303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.065",
+      "lon": "81.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तड छेडेदह",
+      "en": "Khaptad",
+      "slug": "khaptad-np0769597"
+    },
+    "code": {
+      "id": "NP0769597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.341",
+      "lon": "81.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मंगलसेन",
+      "en": "Mangalsen",
+      "slug": "mangalsen-np0769302"
+    },
+    "code": {
+      "id": "NP0769302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.095",
+      "lon": "81.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेल्लेख",
+      "en": "Mellekh",
+      "slug": "mellekh-np0769402"
+    },
+    "code": {
+      "id": "NP0769402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.267",
+      "lon": "81.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पंचदेवल बिनायक",
+      "en": "Panchdebal Binayak",
+      "slug": "panchdebal-binayak-np0769304"
+    },
+    "code": {
+      "id": "NP0769304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.099",
+      "lon": "81.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामारोशन",
+      "en": "Ramaroshan",
+      "slug": "ramaroshan-np0769404"
+    },
+    "code": {
+      "id": "NP0769404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.202",
+      "lon": "81.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "साफेबगर",
+      "en": "Sanphebagar",
+      "slug": "sanphebagar-np0769301"
+    },
+    "code": {
+      "id": "NP0769301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.259",
+      "lon": "81.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तुर्माखाँद",
+      "en": "Turmakhand",
+      "slug": "turmakhand-np0769406"
+    },
+    "code": {
+      "id": "NP0769406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0769",
+      "level": 2,
+      "name": {
+        "local": "अछाम",
+        "en": "Achham",
+        "slug": "achham-np0769"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0769",
+        "level": 2,
+        "name": {
+          "local": "अछाम",
+          "en": "Achham",
+          "slug": "achham-np0769"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "28.886",
+      "lon": "81.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

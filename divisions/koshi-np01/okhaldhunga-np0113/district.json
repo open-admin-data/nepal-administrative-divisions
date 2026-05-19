@@ -1,0 +1,49 @@
+{
+  "id": "NP0113",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "ओखलढुङ्गा",
+    "en": "Okhaldhunga",
+    "slug": "okhaldhunga-np0113"
+  },
+  "code": {
+    "id": "NP0113",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "56100"
+  ],
+  "geo": {
+    "lat": "27.336",
+    "lon": "86.448"
+  },
+  "metadata": {},
+  "source": {}
+}

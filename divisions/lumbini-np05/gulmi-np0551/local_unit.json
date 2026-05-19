@@ -1,0 +1,674 @@
+[
+  {
+    "id": "NP0551406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चन्द्रकोट",
+      "en": "Chandrakot",
+      "slug": "chandrakot-np0551406"
+    },
+    "code": {
+      "id": "NP0551406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.107",
+      "lon": "83.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छत्रकोट",
+      "en": "Chhatrakot",
+      "slug": "chhatrakot-np0551407"
+    },
+    "code": {
+      "id": "NP0551407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "27.986",
+      "lon": "83.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धुर्कोट",
+      "en": "Dhurkot",
+      "slug": "dhurkot-np0551403"
+    },
+    "code": {
+      "id": "NP0551403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.118",
+      "lon": "83.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गुल्मीदरवार",
+      "en": "Gulmi Durbar",
+      "slug": "gulmi-durbar-np0551405"
+    },
+    "code": {
+      "id": "NP0551405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.04",
+      "lon": "83.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईस्मा",
+      "en": "Isma",
+      "slug": "isma-np0551404"
+    },
+    "code": {
+      "id": "NP0551404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.164",
+      "lon": "83.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिगण्डकी",
+      "en": "Kali Gandaki",
+      "slug": "kali-gandaki-np0551410"
+    },
+    "code": {
+      "id": "NP0551410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.05",
+      "lon": "83.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मदाने",
+      "en": "Madane",
+      "slug": "madane-np0551401"
+    },
+    "code": {
+      "id": "NP0551401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.175",
+      "lon": "83.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मालिका",
+      "en": "Malika",
+      "slug": "malika-np0551402"
+    },
+    "code": {
+      "id": "NP0551402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.213",
+      "lon": "83.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मुसिकोट",
+      "en": "Musikot",
+      "slug": "musikot-np0551301"
+    },
+    "code": {
+      "id": "NP0551301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.185",
+      "lon": "83.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रेसुङ्गा",
+      "en": "Resunga",
+      "slug": "resunga-np0551302"
+    },
+    "code": {
+      "id": "NP0551302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.053",
+      "lon": "83.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रुरुक्षेत्र",
+      "en": "Ruruchhetra",
+      "slug": "ruruchhetra-np0551408"
+    },
+    "code": {
+      "id": "NP0551408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "27.982",
+      "lon": "83.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सत्यवती",
+      "en": "Satyawoti",
+      "slug": "satyawoti-np0551409"
+    },
+    "code": {
+      "id": "NP0551409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0551",
+      "level": 2,
+      "name": {
+        "local": "गुल्मी",
+        "en": "Gulmi",
+        "slug": "gulmi-np0551"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0551",
+        "level": 2,
+        "name": {
+          "local": "गुल्मी",
+          "en": "Gulmi",
+          "slug": "gulmi-np0551"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.03",
+      "lon": "83.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

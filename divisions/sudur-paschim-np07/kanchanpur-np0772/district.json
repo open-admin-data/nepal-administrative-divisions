@@ -1,0 +1,49 @@
+{
+  "id": "NP0772",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "कञ्चनपुर",
+    "en": "Kanchanpur",
+    "slug": "kanchanpur-np0772"
+  },
+  "code": {
+    "id": "NP0772",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "10400"
+  ],
+  "geo": {
+    "lat": "28.845",
+    "lon": "80.283"
+  },
+  "metadata": {},
+  "source": {}
+}

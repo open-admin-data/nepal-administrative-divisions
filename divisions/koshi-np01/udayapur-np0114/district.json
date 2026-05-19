@@ -1,0 +1,49 @@
+{
+  "id": "NP0114",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "उदयपुर",
+    "en": "Udayapur",
+    "slug": "udayapur-np0114"
+  },
+  "code": {
+    "id": "NP0114",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "56300"
+  ],
+  "geo": {
+    "lat": "26.933",
+    "lon": "86.52"
+  },
+  "metadata": {},
+  "source": {}
+}

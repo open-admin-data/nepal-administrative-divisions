@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "NP0219301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np0219301"
+    },
+    "code": {
+      "id": "NP0219301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "27.081",
+      "lon": "85.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219311",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बलरा",
+      "en": "Balara",
+      "slug": "balara-np0219311"
+    },
+    "code": {
+      "id": "NP0219311",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.787",
+      "lon": "85.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बरहथवा",
+      "en": "Barahathawa",
+      "slug": "barahathawa-np0219304"
+    },
+    "code": {
+      "id": "NP0219304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.982",
+      "lon": "85.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बसबरिया",
+      "en": "Basbariya",
+      "slug": "basbariya-np0219401"
+    },
+    "code": {
+      "id": "NP0219401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.926",
+      "lon": "85.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विष्णु",
+      "en": "Bishnu",
+      "slug": "bishnu-np0219408"
+    },
+    "code": {
+      "id": "NP0219408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.82",
+      "lon": "85.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ब्रह्मपुरी",
+      "en": "Brahmapuri",
+      "slug": "brahmapuri-np0219407"
+    },
+    "code": {
+      "id": "NP0219407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.889",
+      "lon": "85.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चक्रघट्टा",
+      "en": "Chakraghatta",
+      "slug": "chakraghatta-np0219404"
+    },
+    "code": {
+      "id": "NP0219404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.902",
+      "lon": "85.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चन्द्रनगर",
+      "en": "Chandranagar",
+      "slug": "chandranagar-np0219402"
+    },
+    "code": {
+      "id": "NP0219402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.936",
+      "lon": "85.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनकौल",
+      "en": "Dhanakaul",
+      "slug": "dhanakaul-np0219403"
+    },
+    "code": {
+      "id": "NP0219403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.883",
+      "lon": "85.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोडैता",
+      "en": "Godaita",
+      "slug": "godaita-np0219308"
+    },
+    "code": {
+      "id": "NP0219308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.846",
+      "lon": "85.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरिपुर",
+      "en": "Haripur",
+      "slug": "haripur-np0219305"
+    },
+    "code": {
+      "id": "NP0219305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "27.014",
+      "lon": "85.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219310",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरिपुर्वा",
+      "en": "Haripurwa",
+      "slug": "haripurwa-np0219310"
+    },
+    "code": {
+      "id": "NP0219310",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.913",
+      "lon": "85.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरिवन",
+      "en": "Hariwan",
+      "slug": "hariwan-np0219302"
+    },
+    "code": {
+      "id": "NP0219302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "27.093",
+      "lon": "85.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईश्वरपुर",
+      "en": "Ishworpur",
+      "slug": "ishworpur-np0219306"
+    },
+    "code": {
+      "id": "NP0219306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "27.04",
+      "lon": "85.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कविलासी",
+      "en": "Kabilashi",
+      "slug": "kabilashi-np0219307"
+    },
+    "code": {
+      "id": "NP0219307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.94",
+      "lon": "85.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कौडेना",
+      "en": "Kaudena",
+      "slug": "kaudena-np0219406"
+    },
+    "code": {
+      "id": "NP0219406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.85",
+      "lon": "85.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लालबन्दी",
+      "en": "Lalbandi",
+      "slug": "lalbandi-np0219303"
+    },
+    "code": {
+      "id": "NP0219303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "27.099",
+      "lon": "85.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मलंगवा",
+      "en": "Malangawa",
+      "slug": "malangawa-np0219309"
+    },
+    "code": {
+      "id": "NP0219309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.855",
+      "lon": "85.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0219409"
+    },
+    "code": {
+      "id": "NP0219409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.873",
+      "lon": "85.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामनगर",
+      "en": "Ramnagar",
+      "slug": "ramnagar-np0219405"
+    },
+    "code": {
+      "id": "NP0219405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0219",
+      "level": 2,
+      "name": {
+        "local": "सर्लाही",
+        "en": "Sarlahi",
+        "slug": "sarlahi-np0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0219",
+        "level": 2,
+        "name": {
+          "local": "सर्लाही",
+          "en": "Sarlahi",
+          "slug": "sarlahi-np0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.839",
+      "lon": "85.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

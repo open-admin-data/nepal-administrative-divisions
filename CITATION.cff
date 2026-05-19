@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Nepal Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-19"
+url: "https://github.com/open-admin-data/nepal-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/nepal-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - nepal
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Nepal's administrative hierarchy:
+  7 provinces, 77 districts, 775 local units.
+  Bilingual with coordinates and postal codes where available.

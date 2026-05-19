@@ -1,0 +1,49 @@
+{
+  "id": "NP0547",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "पश्चिम नवलपरासी",
+    "en": "Nawalparasi West",
+    "slug": "nawalparasi-west-np0547"
+  },
+  "code": {
+    "id": "NP0547",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "33000"
+  ],
+  "geo": {
+    "lat": "27.52",
+    "lon": "83.737"
+  },
+  "metadata": {},
+  "source": {}
+}

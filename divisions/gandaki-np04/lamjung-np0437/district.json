@@ -1,0 +1,49 @@
+{
+  "id": "NP0437",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "लम्जुङ",
+    "en": "Lamjung",
+    "slug": "lamjung-np0437"
+  },
+  "code": {
+    "id": "NP0437",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 8
+  },
+  "zip_codes": [
+    "33600"
+  ],
+  "geo": {
+    "lat": "28.283",
+    "lon": "84.42"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,954 @@
+[
+  {
+    "id": "NP0233409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आदर्श कोटवाल",
+      "en": "Aadarsha Kotwal",
+      "slug": "aadarsha-kotwal-np0233409"
+    },
+    "code": {
+      "id": "NP0233409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.946",
+      "lon": "85.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बारागढी",
+      "en": "Baragadhi",
+      "slug": "baragadhi-np0233406"
+    },
+    "code": {
+      "id": "NP0233406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.99",
+      "lon": "85.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विश्रामपुर",
+      "en": "Bishrampur",
+      "slug": "bishrampur-np0233404"
+    },
+    "code": {
+      "id": "NP0233404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.993",
+      "lon": "84.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवताल",
+      "en": "Devtal",
+      "slug": "devtal-np0233407"
+    },
+    "code": {
+      "id": "NP0233407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.948",
+      "lon": "85.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जितपुर  सिमरा",
+      "en": "Jitpur Simara",
+      "slug": "jitpur-simara-np0233201"
+    },
+    "code": {
+      "id": "NP0233201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.214",
+      "lon": "85.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233202",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कलैया",
+      "en": "Kalaiya",
+      "slug": "kalaiya-np0233202"
+    },
+    "code": {
+      "id": "NP0233202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.026",
+      "lon": "84.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "करैयामाई",
+      "en": "Karaiyamai",
+      "slug": "karaiyamai-np0233403"
+    },
+    "code": {
+      "id": "NP0233403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.024",
+      "lon": "85.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोल्हवी",
+      "en": "Kolhabi",
+      "slug": "kolhabi-np0233302"
+    },
+    "code": {
+      "id": "NP0233302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.092",
+      "lon": "85.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महागढीमाई",
+      "en": "Mahagadhimai",
+      "slug": "mahagadhimai-np0233303"
+    },
+    "code": {
+      "id": "NP0233303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.982",
+      "lon": "85.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "निजगढ",
+      "en": "Nijagadh",
+      "slug": "nijagadh-np0233301"
+    },
+    "code": {
+      "id": "NP0233301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.241",
+      "lon": "85.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पचरौता",
+      "en": "Pacharauta",
+      "slug": "pacharauta-np0233304"
+    },
+    "code": {
+      "id": "NP0233304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.909",
+      "lon": "85.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "परवानीपुर",
+      "en": "Parawanipur",
+      "slug": "parawanipur-np0233401"
+    },
+    "code": {
+      "id": "NP0233401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.055",
+      "lon": "84.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0233595"
+    },
+    "code": {
+      "id": "NP0233595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.28",
+      "lon": "84.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फेटा",
+      "en": "Pheta",
+      "slug": "pheta-np0233405"
+    },
+    "code": {
+      "id": "NP0233405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.002",
+      "lon": "84.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "प्रसौनी",
+      "en": "Prasauni",
+      "slug": "prasauni-np0233402"
+    },
+    "code": {
+      "id": "NP0233402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.048",
+      "lon": "84.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिम्रौनगढ",
+      "en": "Simroungadh",
+      "slug": "simroungadh-np0233305"
+    },
+    "code": {
+      "id": "NP0233305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.9",
+      "lon": "85.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुवर्ण",
+      "en": "Subarna",
+      "slug": "subarna-np0233408"
+    },
+    "code": {
+      "id": "NP0233408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0233",
+      "level": 2,
+      "name": {
+        "local": "बारा",
+        "en": "Bara",
+        "slug": "bara-np0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0233",
+        "level": 2,
+        "name": {
+          "local": "बारा",
+          "en": "Bara",
+          "slug": "bara-np0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "26.926",
+      "lon": "85.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

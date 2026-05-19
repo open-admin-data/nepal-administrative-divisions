@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0556401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बबई",
+      "en": "Babai",
+      "slug": "babai-np0556401"
+    },
+    "code": {
+      "id": "NP0556401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "28.18",
+      "lon": "82.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बंगलाचुली",
+      "en": "Bangalachuli",
+      "slug": "bangalachuli-np0556405"
+    },
+    "code": {
+      "id": "NP0556405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.995",
+      "lon": "82.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दंगीशरण",
+      "en": "Dangisharan",
+      "slug": "dangisharan-np0556402"
+    },
+    "code": {
+      "id": "NP0556402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "28.086",
+      "lon": "82.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गढवा",
+      "en": "Gadhawa",
+      "slug": "gadhawa-np0556406"
+    },
+    "code": {
+      "id": "NP0556406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.76",
+      "lon": "82.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556202",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "घोराही",
+      "en": "Ghorahi",
+      "slug": "ghorahi-np0556202"
+    },
+    "code": {
+      "id": "NP0556202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "28.025",
+      "lon": "82.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लमही",
+      "en": "Lamahi",
+      "slug": "lamahi-np0556301"
+    },
+    "code": {
+      "id": "NP0556301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.931",
+      "lon": "82.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राजपुर",
+      "en": "Rajpur",
+      "slug": "rajpur-np0556404"
+    },
+    "code": {
+      "id": "NP0556404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.826",
+      "lon": "82.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राप्ती",
+      "en": "Rapti",
+      "slug": "rapti-np0556407"
+    },
+    "code": {
+      "id": "NP0556407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.87",
+      "lon": "82.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शान्तिनगर",
+      "en": "Shantinagar",
+      "slug": "shantinagar-np0556403"
+    },
+    "code": {
+      "id": "NP0556403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "28.178",
+      "lon": "82.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तुलसीपुर",
+      "en": "Tulsipur",
+      "slug": "tulsipur-np0556201"
+    },
+    "code": {
+      "id": "NP0556201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0556",
+      "level": 2,
+      "name": {
+        "local": "दाङ",
+        "en": "Dang",
+        "slug": "dang-np0556"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0556",
+        "level": 2,
+        "name": {
+          "local": "दाङ",
+          "en": "Dang",
+          "slug": "dang-np0556"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "28.106",
+      "lon": "82.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

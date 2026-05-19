@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0436406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आरूघाट",
+      "en": "Aarughat",
+      "slug": "aarughat-np0436406"
+    },
+    "code": {
+      "id": "NP0436406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.119",
+      "lon": "84.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अजिरकोट",
+      "en": "Ajirkot",
+      "slug": "ajirkot-np0436402"
+    },
+    "code": {
+      "id": "NP0436402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.235",
+      "lon": "84.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बारपाक सुलीकोट",
+      "en": "Barpak Sulikot",
+      "slug": "barpak-sulikot-np0436403"
+    },
+    "code": {
+      "id": "NP0436403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.206",
+      "lon": "84.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भिमसेन थापा",
+      "en": "Bhimsenthapa",
+      "slug": "bhimsenthapa-np0436407"
+    },
+    "code": {
+      "id": "NP0436407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.002",
+      "lon": "84.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चुमनुब्री",
+      "en": "Chumanubri",
+      "slug": "chumanubri-np0436401"
+    },
+    "code": {
+      "id": "NP0436401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.541",
+      "lon": "84.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धार्चे",
+      "en": "Dharche",
+      "slug": "dharche-np0436404"
+    },
+    "code": {
+      "id": "NP0436404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.312",
+      "lon": "84.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np0436409"
+    },
+    "code": {
+      "id": "NP0436409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "27.862",
+      "lon": "84.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोरखा",
+      "en": "Gorkha",
+      "slug": "gorkha-np0436302"
+    },
+    "code": {
+      "id": "NP0436302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "27.977",
+      "lon": "84.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पालुङटार",
+      "en": "Palungtar",
+      "slug": "palungtar-np0436301"
+    },
+    "code": {
+      "id": "NP0436301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.013",
+      "lon": "84.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शहिद लखन",
+      "en": "Shahid Lakhan",
+      "slug": "shahid-lakhan-np0436408"
+    },
+    "code": {
+      "id": "NP0436408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "27.928",
+      "lon": "84.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिरानचोक",
+      "en": "Siranchowk",
+      "slug": "siranchowk-np0436405"
+    },
+    "code": {
+      "id": "NP0436405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0436",
+      "level": 2,
+      "name": {
+        "local": "गोर्खा",
+        "en": "Gorkha",
+        "slug": "gorkha-np0436"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0436",
+        "level": 2,
+        "name": {
+          "local": "गोर्खा",
+          "en": "Gorkha",
+          "slug": "gorkha-np0436"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.086",
+      "lon": "84.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

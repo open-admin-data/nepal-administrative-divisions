@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "NP0232310",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बौधीमाई",
+      "en": "Boudhimai",
+      "slug": "boudhimai-np0232310"
+    },
+    "code": {
+      "id": "NP0232310",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.893",
+      "lon": "85.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बृन्दावन",
+      "en": "Brindaban",
+      "slug": "brindaban-np0232305"
+    },
+    "code": {
+      "id": "NP0232305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "27.044",
+      "lon": "85.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चन्द्रपुर",
+      "en": "Chandrapur",
+      "slug": "chandrapur-np0232302"
+    },
+    "code": {
+      "id": "NP0232302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "27.127",
+      "lon": "85.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवाही गोनाही",
+      "en": "Dewahi Gonahi",
+      "slug": "dewahi-gonahi-np0232307"
+    },
+    "code": {
+      "id": "NP0232307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.924",
+      "lon": "85.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुर्गा भगवती",
+      "en": "Durga Bhagawati",
+      "slug": "durga-bhagawati-np0232402"
+    },
+    "code": {
+      "id": "NP0232402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.834",
+      "lon": "85.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232309",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गढीमाई",
+      "en": "Gadhimai",
+      "slug": "gadhimai-np0232309"
+    },
+    "code": {
+      "id": "NP0232309",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.947",
+      "lon": "85.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गरुडा",
+      "en": "Garuda",
+      "slug": "garuda-np0232308"
+    },
+    "code": {
+      "id": "NP0232308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.949",
+      "lon": "85.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232315",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौर",
+      "en": "Gaur",
+      "slug": "gaur-np0232315"
+    },
+    "code": {
+      "id": "NP0232315",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.778",
+      "lon": "85.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गुजरा",
+      "en": "Gujara",
+      "slug": "gujara-np0232301"
+    },
+    "code": {
+      "id": "NP0232301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "27.115",
+      "lon": "85.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232313",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईशनाथ",
+      "en": "Ishanath",
+      "slug": "ishanath-np0232313"
+    },
+    "code": {
+      "id": "NP0232313",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.799",
+      "lon": "85.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कटहरीया",
+      "en": "Katahariya",
+      "slug": "katahariya-np0232304"
+    },
+    "code": {
+      "id": "NP0232304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "27",
+      "lon": "85.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232311",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माधव नारायण",
+      "en": "Madhav Narayan",
+      "slug": "madhav-narayan-np0232311"
+    },
+    "code": {
+      "id": "NP0232311",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.889",
+      "lon": "85.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मौलापुर",
+      "en": "Maulapur",
+      "slug": "maulapur-np0232306"
+    },
+    "code": {
+      "id": "NP0232306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.93",
+      "lon": "85.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232312",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "परोहा",
+      "en": "Paroha",
+      "slug": "paroha-np0232312"
+    },
+    "code": {
+      "id": "NP0232312",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.85",
+      "lon": "85.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फतुवाबिजयपुर",
+      "en": "Phatuwa Bijayapur",
+      "slug": "phatuwa-bijayapur-np0232303"
+    },
+    "code": {
+      "id": "NP0232303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "27.031",
+      "lon": "85.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232316",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राजदेवी",
+      "en": "Rajdevi",
+      "slug": "rajdevi-np0232316"
+    },
+    "code": {
+      "id": "NP0232316",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.781",
+      "lon": "85.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232314",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राजपुर",
+      "en": "Rajpur",
+      "slug": "rajpur-np0232314"
+    },
+    "code": {
+      "id": "NP0232314",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.812",
+      "lon": "85.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "यमुनामाई",
+      "en": "Yamunamai",
+      "slug": "yamunamai-np0232401"
+    },
+    "code": {
+      "id": "NP0232401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0232",
+      "level": 2,
+      "name": {
+        "local": "रौतहट",
+        "en": "Rautahat",
+        "slug": "rautahat-np0232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0232",
+        "level": 2,
+        "name": {
+          "local": "रौतहट",
+          "en": "Rautahat",
+          "slug": "rautahat-np0232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.843",
+      "lon": "85.287"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

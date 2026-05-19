@@ -1,0 +1,66 @@
+# Nepal Administrative Divisions
+
+> Open dataset of Nepal's administrative hierarchy:
+> 7 provinces, 77 districts, 775 local units.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 7
+- Total districts: 77
+- Total local units: 775
+- Coordinates: included (all levels)
+- Last updated: 2026-05-19
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/all-district.json)
+- [All local units (JSON)](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/all-local_unit.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Bagmati](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/bagmati-np03/) — 13 districts, 124 local units
+- [Gandaki](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/gandaki-np04/) — 11 districts, 88 local units
+- [Karnali](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/karnali-np06/) — 10 districts, 79 local units
+- [Koshi](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/koshi-np01/) — 14 districts, 139 local units
+- [Lumbini](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/lumbini-np05/) — 12 districts, 112 local units
+- [Madhesh](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/madhesh-np02/) — 8 districts, 140 local units
+- [Sudur Paschim](https://github.com/open-admin-data/nepal-administrative-divisions/tree/main/divisions/sudur-paschim-np07/) — 9 districts, 93 local units
+
+## Per-Province Full Data
+
+- [Bagmati](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/bagmati-np03.txt)
+- [Gandaki](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/gandaki-np04.txt)
+- [Karnali](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/karnali-np06.txt)
+- [Koshi](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/koshi-np01.txt)
+- [Lumbini](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/lumbini-np05.txt)
+- [Madhesh](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/madhesh-np02.txt)
+- [Sudur Paschim](https://raw.githubusercontent.com/open-admin-data/nepal-administrative-divisions/main/docs/llms-full/sudur-paschim-np07.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district), 3 (local unit)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Nepal Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/nepal-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

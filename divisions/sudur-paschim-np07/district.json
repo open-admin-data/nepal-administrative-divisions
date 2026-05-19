@@ -1,0 +1,443 @@
+[
+  {
+    "id": "NP0769",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "अछाम",
+      "en": "Achham",
+      "slug": "achham-np0769"
+    },
+    "code": {
+      "id": "NP0769",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.068",
+      "lon": "81.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बैतडी",
+      "en": "Baitadi",
+      "slug": "baitadi-np0774"
+    },
+    "code": {
+      "id": "NP0774",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.508",
+      "lon": "80.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बझाङ",
+      "en": "Bajhang",
+      "slug": "bajhang-np0767"
+    },
+    "code": {
+      "id": "NP0767",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.723",
+      "lon": "81.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाजुरा",
+      "en": "Bajura",
+      "slug": "bajura-np0768"
+    },
+    "code": {
+      "id": "NP0768",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.611",
+      "lon": "81.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डडेलधुरा",
+      "en": "Dadeldhura",
+      "slug": "dadeldhura-np0773"
+    },
+    "code": {
+      "id": "NP0773",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.209",
+      "lon": "80.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दार्चुला",
+      "en": "Darchula",
+      "slug": "darchula-np0775"
+    },
+    "code": {
+      "id": "NP0775",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.926",
+      "lon": "80.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डोटी",
+      "en": "Doti",
+      "slug": "doti-np0770"
+    },
+    "code": {
+      "id": "NP0770",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.188",
+      "lon": "80.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कैलाली",
+      "en": "Kailali",
+      "slug": "kailali-np0771"
+    },
+    "code": {
+      "id": "NP0771",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.731",
+      "lon": "80.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कञ्चनपुर",
+      "en": "Kanchanpur",
+      "slug": "kanchanpur-np0772"
+    },
+    "code": {
+      "id": "NP0772",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.845",
+      "lon": "80.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

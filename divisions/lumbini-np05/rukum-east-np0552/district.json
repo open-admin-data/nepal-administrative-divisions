@@ -1,0 +1,49 @@
+{
+  "id": "NP0552",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "पूर्वी रुकुम",
+    "en": "Rukum East",
+    "slug": "rukum-east-np0552"
+  },
+  "code": {
+    "id": "NP0552",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 4
+  },
+  "zip_codes": [
+    "22000"
+  ],
+  "geo": {
+    "lat": "28.672",
+    "lon": "82.859"
+  },
+  "metadata": {},
+  "source": {}
+}

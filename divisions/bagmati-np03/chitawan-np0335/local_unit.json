@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0335101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भरतपुर",
+      "en": "Bharatpur",
+      "slug": "bharatpur-np0335101"
+    },
+    "code": {
+      "id": "NP0335101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.688",
+      "lon": "84.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0335597"
+    },
+    "code": {
+      "id": "NP0335597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.542",
+      "lon": "84.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "इच्छाकामना",
+      "en": "Ichchha Kamana",
+      "slug": "ichchha-kamana-np0335401"
+    },
+    "code": {
+      "id": "NP0335401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.804",
+      "lon": "84.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिका",
+      "en": "Kalika",
+      "slug": "kalika-np0335301"
+    },
+    "code": {
+      "id": "NP0335301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.715",
+      "lon": "84.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खैरहनी",
+      "en": "Khairahani",
+      "slug": "khairahani-np0335303"
+    },
+    "code": {
+      "id": "NP0335303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.616",
+      "lon": "84.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मादी",
+      "en": "Madi",
+      "slug": "madi-np0335305"
+    },
+    "code": {
+      "id": "NP0335305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.434",
+      "lon": "84.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राप्ती",
+      "en": "Rapti",
+      "slug": "rapti-np0335304"
+    },
+    "code": {
+      "id": "NP0335304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.65",
+      "lon": "84.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रत्ननगर",
+      "en": "Ratnanagar",
+      "slug": "ratnanagar-np0335302"
+    },
+    "code": {
+      "id": "NP0335302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0335",
+      "level": 2,
+      "name": {
+        "local": "चितवन",
+        "en": "Chitawan",
+        "slug": "chitawan-np0335"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0335",
+        "level": 2,
+        "name": {
+          "local": "चितवन",
+          "en": "Chitawan",
+          "slug": "chitawan-np0335"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.615",
+      "lon": "84.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "NP0556",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "दाङ",
+    "en": "Dang",
+    "slug": "dang-np0556"
+  },
+  "code": {
+    "id": "NP0556",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "22400"
+  ],
+  "geo": {
+    "lat": "27.98",
+    "lon": "82.469"
+  },
+  "metadata": {},
+  "source": {}
+}

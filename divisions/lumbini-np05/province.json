@@ -1,0 +1,30 @@
+{
+  "id": "NP05",
+  "level": 1,
+  "level_name": {
+    "local": "प्रदेश",
+    "en": "Province"
+  },
+  "name": {
+    "local": "लुम्बिनी",
+    "en": "Lumbini",
+    "slug": "lumbini-np05"
+  },
+  "code": {
+    "id": "NP05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12,
+    "local_unit": 112
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.1",
+    "lon": "82.522"
+  },
+  "metadata": {},
+  "source": {}
+}

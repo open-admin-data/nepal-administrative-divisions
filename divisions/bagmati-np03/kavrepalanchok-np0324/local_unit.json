@@ -1,0 +1,730 @@
+[
+  {
+    "id": "NP0324302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बनेपा",
+      "en": "Banepa",
+      "slug": "banepa-np0324302"
+    },
+    "code": {
+      "id": "NP0324302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.648",
+      "lon": "85.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेथानचोक",
+      "en": "Bethanchowk",
+      "slug": "bethanchowk-np0324403"
+    },
+    "code": {
+      "id": "NP0324403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.505",
+      "lon": "85.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भुम्लु",
+      "en": "Bhumlu",
+      "slug": "bhumlu-np0324401"
+    },
+    "code": {
+      "id": "NP0324401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.627",
+      "lon": "85.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौरी देउराली",
+      "en": "Chauri Deurali",
+      "slug": "chauri-deurali-np0324402"
+    },
+    "code": {
+      "id": "NP0324402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.572",
+      "lon": "85.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धुलिखेल",
+      "en": "Dhulikhel",
+      "slug": "dhulikhel-np0324303"
+    },
+    "code": {
+      "id": "NP0324303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.618",
+      "lon": "85.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खानीखोला",
+      "en": "Khanikhola",
+      "slug": "khanikhola-np0324406"
+    },
+    "code": {
+      "id": "NP0324406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.428",
+      "lon": "85.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महाभारत",
+      "en": "Mahabharat",
+      "slug": "mahabharat-np0324407"
+    },
+    "code": {
+      "id": "NP0324407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.398",
+      "lon": "85.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मण्डन देउपुर",
+      "en": "Mandan Deupur",
+      "slug": "mandan-deupur-np0324301"
+    },
+    "code": {
+      "id": "NP0324301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.708",
+      "lon": "85.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नमोबुद्ध",
+      "en": "Namobuddha",
+      "slug": "namobuddha-np0324306"
+    },
+    "code": {
+      "id": "NP0324306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.556",
+      "lon": "85.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पनौती",
+      "en": "Panauti",
+      "slug": "panauti-np0324305"
+    },
+    "code": {
+      "id": "NP0324305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.583",
+      "lon": "85.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाँचखाल",
+      "en": "Panchkhal",
+      "slug": "panchkhal-np0324304"
+    },
+    "code": {
+      "id": "NP0324304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.642",
+      "lon": "85.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रोशी",
+      "en": "Roshi",
+      "slug": "roshi-np0324404"
+    },
+    "code": {
+      "id": "NP0324404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.468",
+      "lon": "85.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तेमाल",
+      "en": "Temal",
+      "slug": "temal-np0324405"
+    },
+    "code": {
+      "id": "NP0324405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0324",
+      "level": 2,
+      "name": {
+        "local": "काभ्रेपलाञ्चोक",
+        "en": "Kavrepalanchok",
+        "slug": "kavrepalanchok-np0324"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0324",
+        "level": 2,
+        "name": {
+          "local": "काभ्रेपलाञ्चोक",
+          "en": "Kavrepalanchok",
+          "slug": "kavrepalanchok-np0324"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.511",
+      "lon": "85.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

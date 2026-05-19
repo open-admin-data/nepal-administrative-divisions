@@ -1,0 +1,954 @@
+[
+  {
+    "id": "NP0216403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अर्नमा",
+      "en": "Arnama",
+      "slug": "arnama-np0216403"
+    },
+    "code": {
+      "id": "NP0216403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.691",
+      "lon": "86.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "औरही",
+      "en": "Aurahi",
+      "slug": "aurahi-np0216404"
+    },
+    "code": {
+      "id": "NP0216404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.649",
+      "lon": "86.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बरियारपट्टी",
+      "en": "Bariyarpatti",
+      "slug": "bariyarpatti-np0216405"
+    },
+    "code": {
+      "id": "NP0216405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.632",
+      "lon": "86.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भगवानपुर",
+      "en": "Bhagawanpur",
+      "slug": "bhagawanpur-np0216409"
+    },
+    "code": {
+      "id": "NP0216409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.586",
+      "lon": "86.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विष्णुपुर",
+      "en": "Bishnupur",
+      "slug": "bishnupur-np0216402"
+    },
+    "code": {
+      "id": "NP0216402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.726",
+      "lon": "86.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धनगढीमाई",
+      "en": "Dhangadhimai",
+      "slug": "dhangadhimai-np0216304"
+    },
+    "code": {
+      "id": "NP0216304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.81",
+      "lon": "86.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोलबजार",
+      "en": "Golbazar",
+      "slug": "golbazar-np0216303"
+    },
+    "code": {
+      "id": "NP0216303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.803",
+      "lon": "86.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कल्याणपुर",
+      "en": "Kalyanpur",
+      "slug": "kalyanpur-np0216306"
+    },
+    "code": {
+      "id": "NP0216306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.755",
+      "lon": "86.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कर्जन्हा",
+      "en": "Karjanha",
+      "slug": "karjanha-np0216301"
+    },
+    "code": {
+      "id": "NP0216301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.874",
+      "lon": "86.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लहान",
+      "en": "Lahan",
+      "slug": "lahan-np0216305"
+    },
+    "code": {
+      "id": "NP0216305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.757",
+      "lon": "86.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लक्ष्मीपुर पतारी",
+      "en": "Laxmipur Patari",
+      "slug": "laxmipur-patari-np0216406"
+    },
+    "code": {
+      "id": "NP0216406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.669",
+      "lon": "86.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मिर्चैया",
+      "en": "Mirchaiya",
+      "slug": "mirchaiya-np0216302"
+    },
+    "code": {
+      "id": "NP0216302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.832",
+      "lon": "86.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नरहा",
+      "en": "Naraha",
+      "slug": "naraha-np0216401"
+    },
+    "code": {
+      "id": "NP0216401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.779",
+      "lon": "86.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नवराजपुर",
+      "en": "Nawarajpur",
+      "slug": "nawarajpur-np0216407"
+    },
+    "code": {
+      "id": "NP0216407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.609",
+      "lon": "86.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सखुवानान्कारकट्टी",
+      "en": "Sakhuwa Nankarkatti",
+      "slug": "sakhuwa-nankarkatti-np0216408"
+    },
+    "code": {
+      "id": "NP0216408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.628",
+      "lon": "86.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिरहा",
+      "en": "Siraha",
+      "slug": "siraha-np0216308"
+    },
+    "code": {
+      "id": "NP0216308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.652",
+      "lon": "86.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुखीपुर",
+      "en": "Sukhipur",
+      "slug": "sukhipur-np0216307"
+    },
+    "code": {
+      "id": "NP0216307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0216",
+      "level": 2,
+      "name": {
+        "local": "सिराहा",
+        "en": "Siraha",
+        "slug": "siraha-np0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0216",
+        "level": 2,
+        "name": {
+          "local": "सिराहा",
+          "en": "Siraha",
+          "slug": "siraha-np0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.697",
+      "lon": "86.357"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

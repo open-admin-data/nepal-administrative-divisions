@@ -1,0 +1,842 @@
+[
+  {
+    "id": "NP0104304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अर्जुनधारा",
+      "en": "Arjundhara",
+      "slug": "arjundhara-np0104304"
+    },
+    "code": {
+      "id": "NP0104304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.715",
+      "lon": "87.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बाह्रदशी",
+      "en": "Barhadashi",
+      "slug": "barhadashi-np0104405"
+    },
+    "code": {
+      "id": "NP0104405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.528",
+      "lon": "87.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104308",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भद्रपुर",
+      "en": "Bhadrapur",
+      "slug": "bhadrapur-np0104308"
+    },
+    "code": {
+      "id": "NP0104308",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.526",
+      "lon": "88.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विर्तामोड",
+      "en": "Birtamod",
+      "slug": "birtamod-np0104307"
+    },
+    "code": {
+      "id": "NP0104307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.605",
+      "lon": "87.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुद्धशान्ति",
+      "en": "Buddhashanti",
+      "slug": "buddhashanti-np0104402"
+    },
+    "code": {
+      "id": "NP0104402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.74",
+      "lon": "88.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दमक",
+      "en": "Damak",
+      "slug": "damak-np0104301"
+    },
+    "code": {
+      "id": "NP0104301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.67",
+      "lon": "87.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौरादह",
+      "en": "Gauradaha",
+      "slug": "gauradaha-np0104306"
+    },
+    "code": {
+      "id": "NP0104306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.549",
+      "lon": "87.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौरिगञ्ज",
+      "en": "Gauriganj",
+      "slug": "gauriganj-np0104403"
+    },
+    "code": {
+      "id": "NP0104403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.469",
+      "lon": "87.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हल्दीवारी",
+      "en": "Haldibari",
+      "slug": "haldibari-np0104406"
+    },
+    "code": {
+      "id": "NP0104406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.516",
+      "lon": "87.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "झापा",
+      "en": "Jhapa",
+      "slug": "jhapa-np0104404"
+    },
+    "code": {
+      "id": "NP0104404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.513",
+      "lon": "87.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कचनकवल",
+      "en": "Kachanakawal",
+      "slug": "kachanakawal-np0104407"
+    },
+    "code": {
+      "id": "NP0104407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.415",
+      "lon": "88.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कमल",
+      "en": "Kamal",
+      "slug": "kamal-np0104401"
+    },
+    "code": {
+      "id": "NP0104401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.608",
+      "lon": "87.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कन्काई",
+      "en": "Kankai",
+      "slug": "kankai-np0104303"
+    },
+    "code": {
+      "id": "NP0104303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.637",
+      "lon": "87.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेची नगर",
+      "en": "Mechinagar",
+      "slug": "mechinagar-np0104305"
+    },
+    "code": {
+      "id": "NP0104305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.681",
+      "lon": "88.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवसताक्षि",
+      "en": "Shivasatakshi",
+      "slug": "shivasatakshi-np0104302"
+    },
+    "code": {
+      "id": "NP0104302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0104",
+      "level": 2,
+      "name": {
+        "local": "झापा",
+        "en": "Jhapa",
+        "slug": "jhapa-np0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0104",
+        "level": 2,
+        "name": {
+          "local": "झापा",
+          "en": "Jhapa",
+          "slug": "jhapa-np0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.609",
+      "lon": "87.812"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

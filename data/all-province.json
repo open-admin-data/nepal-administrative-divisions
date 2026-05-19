@@ -1,0 +1,212 @@
+[
+  {
+    "id": "NP03",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    },
+    "code": {
+      "id": "NP03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "local_unit": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.653",
+      "lon": "85.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP04",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    },
+    "code": {
+      "id": "NP04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "local_unit": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.384",
+      "lon": "84.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP06",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    },
+    "code": {
+      "id": "NP06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "local_unit": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.308",
+      "lon": "82.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP01",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    },
+    "code": {
+      "id": "NP01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "local_unit": 139
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.23",
+      "lon": "87.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP05",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    },
+    "code": {
+      "id": "NP05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "local_unit": 112
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.1",
+      "lon": "82.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP02",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    },
+    "code": {
+      "id": "NP02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "local_unit": 140
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.943",
+      "lon": "85.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP07",
+    "level": 1,
+    "level_name": {
+      "local": "प्रदेश",
+      "en": "Province"
+    },
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    },
+    "code": {
+      "id": "NP07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "local_unit": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.321",
+      "lon": "80.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

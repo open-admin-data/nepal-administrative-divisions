@@ -1,0 +1,49 @@
+{
+  "id": "NP0549",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "कपिलवस्तु",
+    "en": "Kapilbastu",
+    "slug": "kapilbastu-np0549"
+  },
+  "code": {
+    "id": "NP0549",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP05",
+    "level": 1,
+    "name": {
+      "local": "लुम्बिनी",
+      "en": "Lumbini",
+      "slug": "lumbini-np05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "32800"
+  ],
+  "geo": {
+    "lat": "27.619",
+    "lon": "82.982"
+  },
+  "metadata": {},
+  "source": {}
+}

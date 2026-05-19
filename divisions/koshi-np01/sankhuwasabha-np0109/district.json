@@ -1,0 +1,49 @@
+{
+  "id": "NP0109",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "सङ्खुवासभा",
+    "en": "Sankhuwasabha",
+    "slug": "sankhuwasabha-np0109"
+  },
+  "code": {
+    "id": "NP0109",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "56900"
+  ],
+  "geo": {
+    "lat": "27.548",
+    "lon": "87.227"
+  },
+  "metadata": {},
+  "source": {}
+}

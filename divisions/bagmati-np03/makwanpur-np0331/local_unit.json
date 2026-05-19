@@ -1,0 +1,674 @@
+[
+  {
+    "id": "NP0331408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np0331408"
+    },
+    "code": {
+      "id": "NP0331408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.295",
+      "lon": "85.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बकैया",
+      "en": "Bakaiya",
+      "slug": "bakaiya-np0331407"
+    },
+    "code": {
+      "id": "NP0331407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.341",
+      "lon": "85.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भीमफेदी",
+      "en": "Bhimphedi",
+      "slug": "bhimphedi-np0331404"
+    },
+    "code": {
+      "id": "NP0331404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.533",
+      "lon": "85.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0331597"
+    },
+    "code": {
+      "id": "NP0331597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.497",
+      "lon": "84.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हेटौंडा",
+      "en": "Hetauda",
+      "slug": "hetauda-np0331201"
+    },
+    "code": {
+      "id": "NP0331201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.421",
+      "lon": "85.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईन्द्र सरोवर",
+      "en": "Indrasarowar",
+      "slug": "indrasarowar-np0331405"
+    },
+    "code": {
+      "id": "NP0331405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.602",
+      "lon": "85.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कैलाश",
+      "en": "Kailash",
+      "slug": "kailash-np0331403"
+    },
+    "code": {
+      "id": "NP0331403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.609",
+      "lon": "84.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मकवानपुरगढी",
+      "en": "Makawanpurgadhi",
+      "slug": "makawanpurgadhi-np0331406"
+    },
+    "code": {
+      "id": "NP0331406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.437",
+      "lon": "85.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मनहरी",
+      "en": "Manahari",
+      "slug": "manahari-np0331401"
+    },
+    "code": {
+      "id": "NP0331401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.485",
+      "lon": "84.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0331595"
+    },
+    "code": {
+      "id": "NP0331595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.5",
+      "lon": "84.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "राक्सिराङ्ग",
+      "en": "Raksirang",
+      "slug": "raksirang-np0331402"
+    },
+    "code": {
+      "id": "NP0331402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.591",
+      "lon": "84.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "थाहा",
+      "en": "Thaha",
+      "slug": "thaha-np0331301"
+    },
+    "code": {
+      "id": "NP0331301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0331",
+      "level": 2,
+      "name": {
+        "local": "मकवानपुर",
+        "en": "Makwanpur",
+        "slug": "makwanpur-np0331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0331",
+        "level": 2,
+        "name": {
+          "local": "मकवानपुर",
+          "en": "Makwanpur",
+          "slug": "makwanpur-np0331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.645",
+      "lon": "85.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

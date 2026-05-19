@@ -1,0 +1,49 @@
+{
+  "id": "NP0661",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "दैलेख",
+    "en": "Dailekh",
+    "slug": "dailekh-np0661"
+  },
+  "code": {
+    "id": "NP0661",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP06",
+    "level": 1,
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 11
+  },
+  "zip_codes": [
+    "21600"
+  ],
+  "geo": {
+    "lat": "28.885",
+    "lon": "81.7"
+  },
+  "metadata": {},
+  "source": {}
+}

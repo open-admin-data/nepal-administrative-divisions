@@ -1,0 +1,282 @@
+[
+  {
+    "id": "NP0439401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अन्नपुर्ण",
+      "en": "Annapurna",
+      "slug": "annapurna-np0439401"
+    },
+    "code": {
+      "id": "NP0439401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0439",
+      "level": 2,
+      "name": {
+        "local": "कास्की",
+        "en": "Kaski",
+        "slug": "kaski-np0439"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0439",
+        "level": 2,
+        "name": {
+          "local": "कास्की",
+          "en": "Kaski",
+          "slug": "kaski-np0439"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.434",
+      "lon": "83.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माछापुच्छ्रे",
+      "en": "Machhapuchchhre",
+      "slug": "machhapuchchhre-np0439402"
+    },
+    "code": {
+      "id": "NP0439402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0439",
+      "level": 2,
+      "name": {
+        "local": "कास्की",
+        "en": "Kaski",
+        "slug": "kaski-np0439"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0439",
+        "level": 2,
+        "name": {
+          "local": "कास्की",
+          "en": "Kaski",
+          "slug": "kaski-np0439"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.445",
+      "lon": "83.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मादी",
+      "en": "Madi",
+      "slug": "madi-np0439403"
+    },
+    "code": {
+      "id": "NP0439403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0439",
+      "level": 2,
+      "name": {
+        "local": "कास्की",
+        "en": "Kaski",
+        "slug": "kaski-np0439"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0439",
+        "level": 2,
+        "name": {
+          "local": "कास्की",
+          "en": "Kaski",
+          "slug": "kaski-np0439"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.364",
+      "lon": "84.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पोखरा",
+      "en": "Pokhara",
+      "slug": "pokhara-np0439101"
+    },
+    "code": {
+      "id": "NP0439101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0439",
+      "level": 2,
+      "name": {
+        "local": "कास्की",
+        "en": "Kaski",
+        "slug": "kaski-np0439"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0439",
+        "level": 2,
+        "name": {
+          "local": "कास्की",
+          "en": "Kaski",
+          "slug": "kaski-np0439"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.209",
+      "lon": "83.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रूपा",
+      "en": "Rupa",
+      "slug": "rupa-np0439404"
+    },
+    "code": {
+      "id": "NP0439404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0439",
+      "level": 2,
+      "name": {
+        "local": "कास्की",
+        "en": "Kaski",
+        "slug": "kaski-np0439"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0439",
+        "level": 2,
+        "name": {
+          "local": "कास्की",
+          "en": "Kaski",
+          "slug": "kaski-np0439"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.145",
+      "lon": "84.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

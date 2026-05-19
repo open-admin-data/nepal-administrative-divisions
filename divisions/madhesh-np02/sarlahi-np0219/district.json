@@ -1,0 +1,49 @@
+{
+  "id": "NP0219",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "सर्लाही",
+    "en": "Sarlahi",
+    "slug": "sarlahi-np0219"
+  },
+  "code": {
+    "id": "NP0219",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP02",
+    "level": 1,
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 20
+  },
+  "zip_codes": [
+    "45800"
+  ],
+  "geo": {
+    "lat": "26.968",
+    "lon": "85.564"
+  },
+  "metadata": {},
+  "source": {}
+}

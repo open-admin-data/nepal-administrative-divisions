@@ -1,0 +1,954 @@
+[
+  {
+    "id": "NP0548201",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुटवल",
+      "en": "Butwal",
+      "slug": "butwal-np0548201"
+    },
+    "code": {
+      "id": "NP0548201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.682",
+      "lon": "83.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "देवदह",
+      "en": "Devdaha",
+      "slug": "devdaha-np0548302"
+    },
+    "code": {
+      "id": "NP0548302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.633",
+      "lon": "83.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गैडहवा",
+      "en": "Gaidahawa",
+      "slug": "gaidahawa-np0548403"
+    },
+    "code": {
+      "id": "NP0548403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.587",
+      "lon": "83.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कञ्चन",
+      "en": "Kanchan",
+      "slug": "kanchan-np0548401"
+    },
+    "code": {
+      "id": "NP0548401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.639",
+      "lon": "83.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोटहीमाई",
+      "en": "Kotahimai",
+      "slug": "kotahimai-np0548408"
+    },
+    "code": {
+      "id": "NP0548408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.446",
+      "lon": "83.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लुम्बिनी सांस्कृतिक",
+      "en": "Lumbini Sanskritik",
+      "slug": "lumbini-sanskritik-np0548304"
+    },
+    "code": {
+      "id": "NP0548304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.469",
+      "lon": "83.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548599",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लुम्बिनी सांस्कृतिक",
+      "en": "Lumbini Sanskritik",
+      "slug": "lumbini-sanskritik-np0548599"
+    },
+    "code": {
+      "id": "NP0548599",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.488",
+      "lon": "83.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मर्चवारी",
+      "en": "Marchawari",
+      "slug": "marchawari-np0548410"
+    },
+    "code": {
+      "id": "NP0548410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.376",
+      "lon": "83.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मायादेवी",
+      "en": "Mayadevi",
+      "slug": "mayadevi-np0548405"
+    },
+    "code": {
+      "id": "NP0548405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.515",
+      "lon": "83.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ओमसतीया",
+      "en": "Om Satiya",
+      "slug": "om-satiya-np0548406"
+    },
+    "code": {
+      "id": "NP0548406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.532",
+      "lon": "83.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रोहिणी",
+      "en": "Rohini",
+      "slug": "rohini-np0548407"
+    },
+    "code": {
+      "id": "NP0548407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.501",
+      "lon": "83.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सैनामैना",
+      "en": "Sainamaina",
+      "slug": "sainamaina-np0548301"
+    },
+    "code": {
+      "id": "NP0548301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.706",
+      "lon": "83.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सम्मरीमाई",
+      "en": "Sammarimai",
+      "slug": "sammarimai-np0548409"
+    },
+    "code": {
+      "id": "NP0548409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.384",
+      "lon": "83.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिद्धार्थनगर",
+      "en": "Siddharthanagar",
+      "slug": "siddharthanagar-np0548305"
+    },
+    "code": {
+      "id": "NP0548305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.507",
+      "lon": "83.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सियारी",
+      "en": "Siyari",
+      "slug": "siyari-np0548404"
+    },
+    "code": {
+      "id": "NP0548404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.57",
+      "lon": "83.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुद्धोधन",
+      "en": "Suddhodhan",
+      "slug": "suddhodhan-np0548402"
+    },
+    "code": {
+      "id": "NP0548402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.614",
+      "lon": "83.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिलोत्तमा",
+      "en": "Tilottama",
+      "slug": "tilottama-np0548303"
+    },
+    "code": {
+      "id": "NP0548303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0548",
+      "level": 2,
+      "name": {
+        "local": "रुपन्देही",
+        "en": "Rupandehi",
+        "slug": "rupandehi-np0548"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0548",
+        "level": 2,
+        "name": {
+          "local": "रुपन्देही",
+          "en": "Rupandehi",
+          "slug": "rupandehi-np0548"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.612",
+      "lon": "83.489"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0768302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बडीमालिका",
+      "en": "Badimalika",
+      "slug": "badimalika-np0768302"
+    },
+    "code": {
+      "id": "NP0768302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.44",
+      "lon": "81.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुढीगंगा",
+      "en": "Budhiganga",
+      "slug": "budhiganga-np0768303"
+    },
+    "code": {
+      "id": "NP0768303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.361",
+      "lon": "81.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुढीनन्दा",
+      "en": "Budhinanda",
+      "slug": "budhinanda-np0768301"
+    },
+    "code": {
+      "id": "NP0768301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.538",
+      "lon": "81.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौमुल",
+      "en": "Gaumul",
+      "slug": "gaumul-np0768402"
+    },
+    "code": {
+      "id": "NP0768402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.568",
+      "lon": "81.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हिमाली",
+      "en": "Himali",
+      "slug": "himali-np0768401"
+    },
+    "code": {
+      "id": "NP0768401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.712",
+      "lon": "81.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जगन्नाथ",
+      "en": "Jagannath",
+      "slug": "jagannath-np0768404"
+    },
+    "code": {
+      "id": "NP0768404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.399",
+      "lon": "81.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तड छेडेदह",
+      "en": "Khaptad",
+      "slug": "khaptad-np0768597"
+    },
+    "code": {
+      "id": "NP0768597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.392",
+      "lon": "81.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तड छेडेदह",
+      "en": "Khaptad Chhededaha",
+      "slug": "khaptad-chhededaha-np0768403"
+    },
+    "code": {
+      "id": "NP0768403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.398",
+      "lon": "81.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "स्वामीकार्तिक खापर",
+      "en": "Swamikartik Khapar",
+      "slug": "swamikartik-khapar-np0768405"
+    },
+    "code": {
+      "id": "NP0768405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.424",
+      "lon": "81.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिवेणी",
+      "en": "Tribeni",
+      "slug": "tribeni-np0768304"
+    },
+    "code": {
+      "id": "NP0768304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0768",
+      "level": 2,
+      "name": {
+        "local": "बाजुरा",
+        "en": "Bajura",
+        "slug": "bajura-np0768"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0768",
+        "level": 2,
+        "name": {
+          "local": "बाजुरा",
+          "en": "Bajura",
+          "slug": "bajura-np0768"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.335",
+      "lon": "81.429"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

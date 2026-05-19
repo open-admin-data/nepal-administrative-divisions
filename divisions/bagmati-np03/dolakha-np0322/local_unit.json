@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0322404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बैतेश्वर",
+      "en": "Baiteshwor",
+      "slug": "baiteshwor-np0322404"
+    },
+    "code": {
+      "id": "NP0322404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.635",
+      "lon": "86.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भिमेश्वर",
+      "en": "Bhimeshwor",
+      "slug": "bhimeshwor-np0322301"
+    },
+    "code": {
+      "id": "NP0322301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.679",
+      "lon": "86.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विगु",
+      "en": "Bigu",
+      "slug": "bigu-np0322401"
+    },
+    "code": {
+      "id": "NP0322401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.955",
+      "lon": "86.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गौरिशंकर",
+      "en": "Gaurishankar",
+      "slug": "gaurishankar-np0322402"
+    },
+    "code": {
+      "id": "NP0322402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.81",
+      "lon": "86.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जिरी",
+      "en": "Jiri",
+      "slug": "jiri-np0322302"
+    },
+    "code": {
+      "id": "NP0322302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.668",
+      "lon": "86.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिन्चोक",
+      "en": "Kalinchowk",
+      "slug": "kalinchowk-np0322403"
+    },
+    "code": {
+      "id": "NP0322403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.749",
+      "lon": "86.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेलुङ",
+      "en": "Melung",
+      "slug": "melung-np0322406"
+    },
+    "code": {
+      "id": "NP0322406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.553",
+      "lon": "86.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शैलुङ",
+      "en": "Shailung",
+      "slug": "shailung-np0322405"
+    },
+    "code": {
+      "id": "NP0322405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.615",
+      "lon": "85.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तामाकोशी",
+      "en": "Tamakoshi",
+      "slug": "tamakoshi-np0322407"
+    },
+    "code": {
+      "id": "NP0322407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0322",
+      "level": 2,
+      "name": {
+        "local": "दोलखा",
+        "en": "Dolakha",
+        "slug": "dolakha-np0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0322",
+        "level": 2,
+        "name": {
+          "local": "दोलखा",
+          "en": "Dolakha",
+          "slug": "dolakha-np0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.544",
+      "lon": "86.121"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

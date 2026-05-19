@@ -1,0 +1,49 @@
+{
+  "id": "NP0665",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "मुगु",
+    "en": "Mugu",
+    "slug": "mugu-np0665"
+  },
+  "code": {
+    "id": "NP0665",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP06",
+    "level": 1,
+    "name": {
+      "local": "कर्णाली",
+      "en": "Karnali",
+      "slug": "karnali-np06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 4
+  },
+  "zip_codes": [
+    "21100"
+  ],
+  "geo": {
+    "lat": "29.678",
+    "lon": "82.531"
+  },
+  "metadata": {},
+  "source": {}
+}

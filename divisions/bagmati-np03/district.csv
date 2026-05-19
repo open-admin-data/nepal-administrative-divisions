@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,children_count.local_unit,zip_codes,geo.lat,geo.lon
+NP0326,भक्तपुर,Bhaktapur,bhaktapur-np0326,NP0326,4,44800,27.674,85.426
+NP0335,चितवन,Chitawan,chitawan-np0335,NP0335,8,44200,27.618,84.453
+NP0330,धादिङ,Dhading,dhading-np0330,NP0330,13,45100,28.008,84.906
+NP0322,दोलखा,Dolakha,dolakha-np0322,NP0322,9,45500,27.824,86.222
+NP0327,काठमाडौँ,Kathmandu,kathmandu-np0327,NP0327,11,44600,27.694,85.285
+NP0324,काभ्रेपलाञ्चोक,Kavrepalanchok,kavrepalanchok-np0324,NP0324,13,45200,27.545,85.624
+NP0325,ललितपुर,Lalitpur,lalitpur-np0325,NP0325,6,44700,27.548,85.323
+NP0331,मकवानपुर,Makwanpur,makwanpur-np0331,NP0331,12,44100,27.437,85.053
+NP0328,नुवाकोट,Nuwakot,nuwakot-np0328,NP0328,14,44900,27.926,85.248
+NP0321,रामेछाप,Ramechhap,ramechhap-np0321,NP0321,8,45400,27.537,86.257
+NP0329,रसुवा,Rasuwa,rasuwa-np0329,NP0329,5,45000,28.176,85.479
+NP0320,सिन्धुली,Sindhuli,sindhuli-np0320,NP0320,9,45900,27.185,86.07
+NP0323,सिन्धुपाल्चोक,Sindhupalchok,sindhupalchok-np0323,NP0323,12,45300,27.907,85.756

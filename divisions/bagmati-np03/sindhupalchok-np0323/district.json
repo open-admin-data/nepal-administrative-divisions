@@ -1,0 +1,49 @@
+{
+  "id": "NP0323",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "सिन्धुपाल्चोक",
+    "en": "Sindhupalchok",
+    "slug": "sindhupalchok-np0323"
+  },
+  "code": {
+    "id": "NP0323",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 12
+  },
+  "zip_codes": [
+    "45300"
+  ],
+  "geo": {
+    "lat": "27.907",
+    "lon": "85.756"
+  },
+  "metadata": {},
+  "source": {}
+}

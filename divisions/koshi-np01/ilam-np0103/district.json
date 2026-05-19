@@ -1,0 +1,49 @@
+{
+  "id": "NP0103",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "इलाम",
+    "en": "Ilam",
+    "slug": "ilam-np0103"
+  },
+  "code": {
+    "id": "NP0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 10
+  },
+  "zip_codes": [
+    "57300"
+  ],
+  "geo": {
+    "lat": "26.885",
+    "lon": "87.92"
+  },
+  "metadata": {},
+  "source": {}
+}

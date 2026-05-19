@@ -1,0 +1,338 @@
+[
+  {
+    "id": "NP0652301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आठबिसकोट",
+      "en": "Aathabisakot",
+      "slug": "aathabisakot-np0652301"
+    },
+    "code": {
+      "id": "NP0652301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.846",
+      "lon": "82.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बाँफिकोट",
+      "en": "Banphikot",
+      "slug": "banphikot-np0652402"
+    },
+    "code": {
+      "id": "NP0652402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.711",
+      "lon": "82.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौरजहारी",
+      "en": "Chaurjahari",
+      "slug": "chaurjahari-np0652302"
+    },
+    "code": {
+      "id": "NP0652302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.636",
+      "lon": "82.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मुसिकोट",
+      "en": "Musikot",
+      "slug": "musikot-np0652303"
+    },
+    "code": {
+      "id": "NP0652303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.612",
+      "lon": "82.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सानीभेरी",
+      "en": "Sanibheri",
+      "slug": "sanibheri-np0652401"
+    },
+    "code": {
+      "id": "NP0652401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.67",
+      "lon": "82.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिवेणी",
+      "en": "Tribeni",
+      "slug": "tribeni-np0652403"
+    },
+    "code": {
+      "id": "NP0652403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0652",
+      "level": 2,
+      "name": {
+        "local": "पश्चिम रुकुम",
+        "en": "Rukum West",
+        "slug": "rukum-west-np0652"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0652",
+        "level": 2,
+        "name": {
+          "local": "पश्चिम रुकुम",
+          "en": "Rukum West",
+          "slug": "rukum-west-np0652"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.568",
+      "lon": "82.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "NP0441401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आँधीखोला",
+      "en": "Aandhikhola",
+      "slug": "aandhikhola-np0441401"
+    },
+    "code": {
+      "id": "NP0441401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.167",
+      "lon": "83.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अर्जुनचौपारी",
+      "en": "Arjun Choupari",
+      "slug": "arjun-choupari-np0441403"
+    },
+    "code": {
+      "id": "NP0441403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.104",
+      "lon": "83.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भिरकोट",
+      "en": "Bhirkot",
+      "slug": "bhirkot-np0441302"
+    },
+    "code": {
+      "id": "NP0441302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.042",
+      "lon": "83.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "विरुवा",
+      "en": "Biruwa",
+      "slug": "biruwa-np0441404"
+    },
+    "code": {
+      "id": "NP0441404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.993",
+      "lon": "83.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चापाकोट",
+      "en": "Chapakot",
+      "slug": "chapakot-np0441305"
+    },
+    "code": {
+      "id": "NP0441305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.924",
+      "lon": "83.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गल्याङ",
+      "en": "Galyang",
+      "slug": "galyang-np0441303"
+    },
+    "code": {
+      "id": "NP0441303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.958",
+      "lon": "83.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हरीनास",
+      "en": "Harinas",
+      "slug": "harinas-np0441405"
+    },
+    "code": {
+      "id": "NP0441405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.977",
+      "lon": "83.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालीगण्डकी",
+      "en": "Kaligandaki",
+      "slug": "kaligandaki-np0441406"
+    },
+    "code": {
+      "id": "NP0441406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.952",
+      "lon": "83.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "फेदीखोला",
+      "en": "Phedikhola",
+      "slug": "phedikhola-np0441402"
+    },
+    "code": {
+      "id": "NP0441402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.175",
+      "lon": "83.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पुतलीबजार",
+      "en": "Putalibazar",
+      "slug": "putalibazar-np0441301"
+    },
+    "code": {
+      "id": "NP0441301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.091",
+      "lon": "83.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वालिङ्ग",
+      "en": "Walling",
+      "slug": "walling-np0441304"
+    },
+    "code": {
+      "id": "NP0441304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0441",
+      "level": 2,
+      "name": {
+        "local": "स्याङ्जा",
+        "en": "Syangja",
+        "slug": "syangja-np0441"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0441",
+        "level": 2,
+        "name": {
+          "local": "स्याङ्जा",
+          "en": "Syangja",
+          "slug": "syangja-np0441"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "27.985",
+      "lon": "83.768"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

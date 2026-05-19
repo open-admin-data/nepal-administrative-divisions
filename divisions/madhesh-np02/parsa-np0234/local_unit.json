@@ -1,0 +1,898 @@
+[
+  {
+    "id": "NP0234302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बहुदरमाई",
+      "en": "Bahudarmai",
+      "slug": "bahudarmai-np0234302"
+    },
+    "code": {
+      "id": "NP0234302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.079",
+      "lon": "84.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बिन्दबासिनी",
+      "en": "Bindabasini",
+      "slug": "bindabasini-np0234410"
+    },
+    "code": {
+      "id": "NP0234410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.037",
+      "lon": "84.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वीरगञ्ज",
+      "en": "Birgunj",
+      "slug": "birgunj-np0234101"
+    },
+    "code": {
+      "id": "NP0234101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.108",
+      "lon": "84.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छिपहरमाई",
+      "en": "Chhipaharmai",
+      "slug": "chhipaharmai-np0234407"
+    },
+    "code": {
+      "id": "NP0234407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.064",
+      "lon": "84.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0234597"
+    },
+    "code": {
+      "id": "NP0234597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.403",
+      "lon": "84.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धोबीनी",
+      "en": "Dhobini",
+      "slug": "dhobini-np0234406"
+    },
+    "code": {
+      "id": "NP0234406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.097",
+      "lon": "84.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जगरनाथपुर",
+      "en": "Jagarnathpur",
+      "slug": "jagarnathpur-np0234405"
+    },
+    "code": {
+      "id": "NP0234405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.144",
+      "lon": "84.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जिराभवानी",
+      "en": "Jirabhawani",
+      "slug": "jirabhawani-np0234402"
+    },
+    "code": {
+      "id": "NP0234402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.201",
+      "lon": "84.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कालिकामाई",
+      "en": "Kalikamai",
+      "slug": "kalikamai-np0234408"
+    },
+    "code": {
+      "id": "NP0234408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.076",
+      "lon": "84.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पकाहा मैनपुर",
+      "en": "Pakaha Mainpur",
+      "slug": "pakaha-mainpur-np0234409"
+    },
+    "code": {
+      "id": "NP0234409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.026",
+      "lon": "84.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0234595"
+    },
+    "code": {
+      "id": "NP0234595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.338",
+      "lon": "84.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पर्सागढी",
+      "en": "Parsagadhi",
+      "slug": "parsagadhi-np0234303"
+    },
+    "code": {
+      "id": "NP0234303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.166",
+      "lon": "84.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पटेर्वा सुगौली",
+      "en": "Paterwa Sugauli",
+      "slug": "paterwa-sugauli-np0234403"
+    },
+    "code": {
+      "id": "NP0234403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.186",
+      "lon": "84.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पोखरिया",
+      "en": "Pokhariya",
+      "slug": "pokhariya-np0234301"
+    },
+    "code": {
+      "id": "NP0234301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.078",
+      "lon": "84.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सखुवा प्रसौनी",
+      "en": "Sakhuwa Prasauni",
+      "slug": "sakhuwa-prasauni-np0234404"
+    },
+    "code": {
+      "id": "NP0234404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.163",
+      "lon": "84.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ठोरी",
+      "en": "Thori",
+      "slug": "thori-np0234401"
+    },
+    "code": {
+      "id": "NP0234401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0234",
+      "level": 2,
+      "name": {
+        "local": "पर्सा",
+        "en": "Parsa",
+        "slug": "parsa-np0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      },
+      {
+        "id": "NP0234",
+        "level": 2,
+        "name": {
+          "local": "पर्सा",
+          "en": "Parsa",
+          "slug": "parsa-np0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.3",
+      "lon": "84.666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

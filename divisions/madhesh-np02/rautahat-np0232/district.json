@@ -1,0 +1,49 @@
+{
+  "id": "NP0232",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "रौतहट",
+    "en": "Rautahat",
+    "slug": "rautahat-np0232"
+  },
+  "code": {
+    "id": "NP0232",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP02",
+    "level": 1,
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 18
+  },
+  "zip_codes": [
+    "44500"
+  ],
+  "geo": {
+    "lat": "26.989",
+    "lon": "85.283"
+  },
+  "metadata": {},
+  "source": {}
+}

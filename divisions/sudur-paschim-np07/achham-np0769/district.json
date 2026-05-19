@@ -1,0 +1,49 @@
+{
+  "id": "NP0769",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "अछाम",
+    "en": "Achham",
+    "slug": "achham-np0769"
+  },
+  "code": {
+    "id": "NP0769",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 11
+  },
+  "zip_codes": [
+    "10700"
+  ],
+  "geo": {
+    "lat": "29.068",
+    "lon": "81.294"
+  },
+  "metadata": {},
+  "source": {}
+}

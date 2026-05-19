@@ -1,0 +1,49 @@
+{
+  "id": "NP0322",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "दोलखा",
+    "en": "Dolakha",
+    "slug": "dolakha-np0322"
+  },
+  "code": {
+    "id": "NP0322",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "45500"
+  ],
+  "geo": {
+    "lat": "27.824",
+    "lon": "86.222"
+  },
+  "metadata": {},
+  "source": {}
+}

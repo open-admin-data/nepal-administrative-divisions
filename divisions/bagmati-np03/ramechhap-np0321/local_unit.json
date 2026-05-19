@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0321402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दोरम्बा",
+      "en": "Doramba",
+      "slug": "doramba-np0321402"
+    },
+    "code": {
+      "id": "NP0321402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.546",
+      "lon": "85.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोकुलगङ्गा",
+      "en": "Gokulganga",
+      "slug": "gokulganga-np0321403"
+    },
+    "code": {
+      "id": "NP0321403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.584",
+      "lon": "86.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खाँडादेवी",
+      "en": "Khandadevi",
+      "slug": "khandadevi-np0321405"
+    },
+    "code": {
+      "id": "NP0321405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.427",
+      "lon": "85.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिखु तामाकोशी",
+      "en": "Likhu Tamakoshi",
+      "slug": "likhu-tamakoshi-np0321406"
+    },
+    "code": {
+      "id": "NP0321406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.449",
+      "lon": "86.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मन्थली",
+      "en": "Manthali",
+      "slug": "manthali-np0321301"
+    },
+    "code": {
+      "id": "NP0321301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.409",
+      "lon": "86.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामेछाप",
+      "en": "Ramechhap",
+      "slug": "ramechhap-np0321302"
+    },
+    "code": {
+      "id": "NP0321302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.322",
+      "lon": "86.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनापती",
+      "en": "Sunapati",
+      "slug": "sunapati-np0321401"
+    },
+    "code": {
+      "id": "NP0321401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.507",
+      "lon": "85.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "उमाकुण्ड",
+      "en": "Umakunda",
+      "slug": "umakunda-np0321404"
+    },
+    "code": {
+      "id": "NP0321404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0321",
+      "level": 2,
+      "name": {
+        "local": "रामेछाप",
+        "en": "Ramechhap",
+        "slug": "ramechhap-np0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0321",
+        "level": 2,
+        "name": {
+          "local": "रामेछाप",
+          "en": "Ramechhap",
+          "slug": "ramechhap-np0321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.644",
+      "lon": "86.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

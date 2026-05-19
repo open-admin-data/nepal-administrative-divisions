@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0772303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वेदकोट",
+      "en": "Bedkot",
+      "slug": "bedkot-np0772303"
+    },
+    "code": {
+      "id": "NP0772303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.984",
+      "lon": "80.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेलडाँडी",
+      "en": "Beldandi",
+      "slug": "beldandi-np0772401"
+    },
+    "code": {
+      "id": "NP0772401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.774",
+      "lon": "80.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772306",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेलौरी",
+      "en": "Belouri",
+      "slug": "belouri-np0772306"
+    },
+    "code": {
+      "id": "NP0772306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.701",
+      "lon": "80.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भीमदत्त",
+      "en": "Bhimdatta",
+      "slug": "bhimdatta-np0772302"
+    },
+    "code": {
+      "id": "NP0772302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "29.016",
+      "lon": "80.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दोधारा चाँदनी",
+      "en": "Dodhara Chandani",
+      "slug": "dodhara-chandani-np0772301"
+    },
+    "code": {
+      "id": "NP0772301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.905",
+      "lon": "80.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772305",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कृष्णपुर",
+      "en": "Krishnapur",
+      "slug": "krishnapur-np0772305"
+    },
+    "code": {
+      "id": "NP0772305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.874",
+      "lon": "80.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लालझाँडी",
+      "en": "Laljhadi",
+      "slug": "laljhadi-np0772402"
+    },
+    "code": {
+      "id": "NP0772402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.757",
+      "lon": "80.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772307",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पुनर्वास",
+      "en": "Punarbas",
+      "slug": "punarbas-np0772307"
+    },
+    "code": {
+      "id": "NP0772307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.639",
+      "lon": "80.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शुक्लाफाँटा",
+      "en": "Shuklaphanta",
+      "slug": "shuklaphanta-np0772304"
+    },
+    "code": {
+      "id": "NP0772304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.926",
+      "lon": "80.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शुक्लाफाँटा",
+      "en": "Shuklaphanta",
+      "slug": "shuklaphanta-np0772597"
+    },
+    "code": {
+      "id": "NP0772597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0772",
+      "level": 2,
+      "name": {
+        "local": "कञ्चनपुर",
+        "en": "Kanchanpur",
+        "slug": "kanchanpur-np0772"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0772",
+        "level": 2,
+        "name": {
+          "local": "कञ्चनपुर",
+          "en": "Kanchanpur",
+          "slug": "kanchanpur-np0772"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.893",
+      "lon": "80.21"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "NP0775",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "दार्चुला",
+    "en": "Darchula",
+    "slug": "darchula-np0775"
+  },
+  "code": {
+    "id": "NP0775",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP07",
+    "level": 1,
+    "name": {
+      "local": "सुदूरपश्चिम",
+      "en": "Sudur Paschim",
+      "slug": "sudur-paschim-np07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "10100"
+  ],
+  "geo": {
+    "lat": "29.926",
+    "lon": "80.789"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0662406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छार्का ताङसोङ",
+      "en": "Chharka Tangsong",
+      "slug": "chharka-tangsong-np0662406"
+    },
+    "code": {
+      "id": "NP0662406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "28.98",
+      "lon": "83.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "डोल्पो बुद्ध",
+      "en": "Dolpo Buddha",
+      "slug": "dolpo-buddha-np0662403"
+    },
+    "code": {
+      "id": "NP0662403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.287",
+      "lon": "83.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जगदुल्ला",
+      "en": "Jagadulla",
+      "slug": "jagadulla-np0662402"
+    },
+    "code": {
+      "id": "NP0662402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.241",
+      "lon": "82.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "काईके",
+      "en": "Kaike",
+      "slug": "kaike-np0662405"
+    },
+    "code": {
+      "id": "NP0662405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "28.922",
+      "lon": "82.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मुड्केचुला",
+      "en": "Mudkechula",
+      "slug": "mudkechula-np0662404"
+    },
+    "code": {
+      "id": "NP0662404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.057",
+      "lon": "82.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शे फोक्सुण्डो",
+      "en": "Shey Phoksundo",
+      "slug": "shey-phoksundo-np0662401"
+    },
+    "code": {
+      "id": "NP0662401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.373",
+      "lon": "83.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ठूलीभेरी",
+      "en": "Thulibheri",
+      "slug": "thulibheri-np0662302"
+    },
+    "code": {
+      "id": "NP0662302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "28.956",
+      "lon": "82.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिपुरासुन्दरी",
+      "en": "Tripurasundari",
+      "slug": "tripurasundari-np0662301"
+    },
+    "code": {
+      "id": "NP0662301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0662",
+      "level": 2,
+      "name": {
+        "local": "डोल्पा",
+        "en": "Dolpa",
+        "slug": "dolpa-np0662"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0662",
+        "level": 2,
+        "name": {
+          "local": "डोल्पा",
+          "en": "Dolpa",
+          "slug": "dolpa-np0662"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.017",
+      "lon": "82.762"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

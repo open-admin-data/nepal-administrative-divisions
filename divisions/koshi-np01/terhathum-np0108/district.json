@@ -1,0 +1,49 @@
+{
+  "id": "NP0108",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "तेह्रथुम",
+    "en": "Terhathum",
+    "slug": "terhathum-np0108"
+  },
+  "code": {
+    "id": "NP0108",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP01",
+    "level": 1,
+    "name": {
+      "local": "कोशी",
+      "en": "Koshi",
+      "slug": "koshi-np01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 6
+  },
+  "zip_codes": [
+    "57100"
+  ],
+  "geo": {
+    "lat": "27.132",
+    "lon": "87.524"
+  },
+  "metadata": {},
+  "source": {}
+}

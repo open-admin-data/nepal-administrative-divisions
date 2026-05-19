@@ -1,0 +1,49 @@
+{
+  "id": "NP0445",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "मुस्ताङ",
+    "en": "Mustang",
+    "slug": "mustang-np0445"
+  },
+  "code": {
+    "id": "NP0445",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 5
+  },
+  "zip_codes": [
+    "33100"
+  ],
+  "geo": {
+    "lat": "28.948",
+    "lon": "83.901"
+  },
+  "metadata": {},
+  "source": {}
+}

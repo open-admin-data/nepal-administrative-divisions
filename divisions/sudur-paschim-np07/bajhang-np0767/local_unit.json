@@ -1,0 +1,730 @@
+[
+  {
+    "id": "NP0767404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बित्थडचिर",
+      "en": "Bitthadchir",
+      "slug": "bitthadchir-np0767404"
+    },
+    "code": {
+      "id": "NP0767404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.504",
+      "lon": "80.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बुंगल",
+      "en": "Bungal",
+      "slug": "bungal-np0767301"
+    },
+    "code": {
+      "id": "NP0767301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.689",
+      "lon": "80.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "छबिस पाथिभरा",
+      "en": "Chhabis Pathibhara",
+      "slug": "chhabis-pathibhara-np0767407"
+    },
+    "code": {
+      "id": "NP0767407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.56",
+      "lon": "81.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुर्गाथली",
+      "en": "Durgathali",
+      "slug": "durgathali-np0767406"
+    },
+    "code": {
+      "id": "NP0767406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.536",
+      "lon": "81.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जयपृथ्वी",
+      "en": "Jayaprithbi",
+      "slug": "jayaprithbi-np0767302"
+    },
+    "code": {
+      "id": "NP0767302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.552",
+      "lon": "81.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "केदारस्युँ",
+      "en": "Kedarsyun",
+      "slug": "kedarsyun-np0767405"
+    },
+    "code": {
+      "id": "NP0767405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.512",
+      "lon": "80.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767597",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तड छेडेदह",
+      "en": "Khaptad",
+      "slug": "khaptad-np0767597"
+    },
+    "code": {
+      "id": "NP0767597",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.428",
+      "lon": "81.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767410",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "खप्तडछान्ना",
+      "en": "Khaptad Chhanna",
+      "slug": "khaptad-chhanna-np0767410"
+    },
+    "code": {
+      "id": "NP0767410",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.458",
+      "lon": "81.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मष्टा",
+      "en": "Masta",
+      "slug": "masta-np0767408"
+    },
+    "code": {
+      "id": "NP0767408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.543",
+      "lon": "81.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सइपाल",
+      "en": "Saipal",
+      "slug": "saipal-np0767401"
+    },
+    "code": {
+      "id": "NP0767401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.857",
+      "lon": "81.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुर्मा",
+      "en": "Surma",
+      "slug": "surma-np0767402"
+    },
+    "code": {
+      "id": "NP0767402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.694",
+      "lon": "81.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तलकोट",
+      "en": "Talkot",
+      "slug": "talkot-np0767403"
+    },
+    "code": {
+      "id": "NP0767403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.685",
+      "lon": "81.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "थलारा",
+      "en": "Thalara",
+      "slug": "thalara-np0767409"
+    },
+    "code": {
+      "id": "NP0767409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0767",
+      "level": 2,
+      "name": {
+        "local": "बझाङ",
+        "en": "Bajhang",
+        "slug": "bajhang-np0767"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0767",
+        "level": 2,
+        "name": {
+          "local": "बझाङ",
+          "en": "Bajhang",
+          "slug": "bajhang-np0767"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.451",
+      "lon": "80.997"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

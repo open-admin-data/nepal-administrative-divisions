@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0444403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अन्नपुर्ण",
+      "en": "Annapurna",
+      "slug": "annapurna-np0444403"
+    },
+    "code": {
+      "id": "NP0444403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.521",
+      "lon": "83.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बेनी",
+      "en": "Beni",
+      "slug": "beni-np0444301"
+    },
+    "code": {
+      "id": "NP0444301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.356",
+      "lon": "83.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "धवलागिरी",
+      "en": "Dhawalagiri",
+      "slug": "dhawalagiri-np0444401"
+    },
+    "code": {
+      "id": "NP0444401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.613",
+      "lon": "83.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444598",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ढोरपाटन",
+      "en": "Dhorpatan",
+      "slug": "dhorpatan-np0444598"
+    },
+    "code": {
+      "id": "NP0444598",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.62",
+      "lon": "83.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मालिका",
+      "en": "Malika",
+      "slug": "malika-np0444404"
+    },
+    "code": {
+      "id": "NP0444404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.421",
+      "lon": "83.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मंगला",
+      "en": "Mangala",
+      "slug": "mangala-np0444405"
+    },
+    "code": {
+      "id": "NP0444405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.38",
+      "lon": "83.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रघुगंगा",
+      "en": "Raghuganga",
+      "slug": "raghuganga-np0444402"
+    },
+    "code": {
+      "id": "NP0444402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0444",
+      "level": 2,
+      "name": {
+        "local": "म्याग्दी",
+        "en": "Myagdi",
+        "slug": "myagdi-np0444"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      },
+      {
+        "id": "NP0444",
+        "level": 2,
+        "name": {
+          "local": "म्याग्दी",
+          "en": "Myagdi",
+          "slug": "myagdi-np0444"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.536",
+      "lon": "83.508"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

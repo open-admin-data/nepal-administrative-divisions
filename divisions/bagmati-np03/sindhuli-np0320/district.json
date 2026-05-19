@@ -1,0 +1,49 @@
+{
+  "id": "NP0320",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "सिन्धुली",
+    "en": "Sindhuli",
+    "slug": "sindhuli-np0320"
+  },
+  "code": {
+    "id": "NP0320",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 9
+  },
+  "zip_codes": [
+    "45900"
+  ],
+  "geo": {
+    "lat": "27.185",
+    "lon": "86.07"
+  },
+  "metadata": {},
+  "source": {}
+}

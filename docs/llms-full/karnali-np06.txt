@@ -1,0 +1,375 @@
+# Karnali — Nepal Administrative Divisions
+
+> 10 districts, 79 local units
+> Code: NP06
+> Coordinates: 29.308, 82.472
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### दैलेख (Dailekh)
+
+Code: NP0661, Coordinates: 28.885, 81.7
+Local Units: 11
+
+#### आठबीस (Aathbis)
+
+Code: NP0661301, Postal: 21600, Coordinates: 29.024, 81.479
+
+#### भगवतीमाई (Bhagawatimai)
+
+Code: NP0661407, Postal: 21600, Coordinates: 28.801, 81.815
+
+#### भैरवी (Bhairabi)
+
+Code: NP0661402, Postal: 21600, Coordinates: 28.945, 81.635
+
+#### चामुण्डा विन्द्रासैनी (Chamunda Bindrasaini)
+
+Code: NP0661302, Postal: 21600, Coordinates: 28.935, 81.562
+
+#### दुल्लु (Dullu)
+
+Code: NP0661303, Postal: 21600, Coordinates: 28.833, 81.608
+
+#### डुंगेश्वर (Dungeshwor)
+
+Code: NP0661406, Postal: 21600, Coordinates: 28.754, 81.716
+
+#### गुराँस (Gurans)
+
+Code: NP0661405, Postal: 21600, Coordinates: 28.71, 81.645
+
+#### महावु (Mahabu)
+
+Code: NP0661403, Postal: 21600, Coordinates: 28.942, 81.698
+
+#### नारायण (Narayan)
+
+Code: NP0661304, Postal: 21600, Coordinates: 28.877, 81.739
+
+#### नौमुले (Naumule)
+
+Code: NP0661404, Postal: 21600, Coordinates: 28.926, 81.843
+
+#### ठाँटीकाँध (Thantikandh)
+
+Code: NP0661401, Postal: 21600, Coordinates: 28.993, 81.539
+
+### डोल्पा (Dolpa)
+
+Code: NP0662, Coordinates: 29.214, 83.037
+Local Units: 8
+
+#### छार्का ताङसोङ (Chharka Tangsong)
+
+Code: NP0662406, Postal: 21400, Coordinates: 28.98, 83.339
+
+#### डोल्पो बुद्ध (Dolpo Buddha)
+
+Code: NP0662403, Postal: 21400, Coordinates: 29.287, 83.316
+
+#### जगदुल्ला (Jagadulla)
+
+Code: NP0662402, Postal: 21400, Coordinates: 29.241, 82.662
+
+#### काईके (Kaike)
+
+Code: NP0662405, Postal: 21400, Coordinates: 28.922, 82.99
+
+#### मुड्केचुला (Mudkechula)
+
+Code: NP0662404, Postal: 21400, Coordinates: 29.057, 82.531
+
+#### शे फोक्सुण्डो (Shey Phoksundo)
+
+Code: NP0662401, Postal: 21400, Coordinates: 29.373, 83.013
+
+#### ठूलीभेरी (Thulibheri)
+
+Code: NP0662302, Postal: 21400, Coordinates: 28.956, 82.854
+
+#### त्रिपुरासुन्दरी (Tripurasundari)
+
+Code: NP0662301, Postal: 21400, Coordinates: 29.017, 82.762
+
+### हुम्ला (Humla)
+
+Code: NP0666, Coordinates: 30.026, 81.833
+Local Units: 7
+
+#### अदानचुली (Adanchuli)
+
+Code: NP0666407, Postal: 21000, Coordinates: 29.701, 81.861
+
+#### चंखेली (Chankheli)
+
+Code: NP0666405, Postal: 21000, Coordinates: 29.855, 82.235
+
+#### खार्पुनाथ (Kharpunath)
+
+Code: NP0666403, Postal: 21000, Coordinates: 30.08, 82.099
+
+#### नाम्खा (Namkha)
+
+Code: NP0666401, Postal: 21000, Coordinates: 30.167, 81.618
+
+#### सर्केगाड (Sarkegad)
+
+Code: NP0666404, Postal: 21000, Coordinates: 29.79, 81.892
+
+#### सिमकोट (Simkot)
+
+Code: NP0666402, Postal: 21000, Coordinates: 30.136, 81.971
+
+#### ताँजाकोट (Tanjakot)
+
+Code: NP0666406, Postal: 21000, Coordinates: 29.703, 81.749
+
+### जाजरकोट (Jajarkot)
+
+Code: NP0660, Coordinates: 28.869, 82.168
+Local Units: 7
+
+#### बारेकोट (Barekot)
+
+Code: NP0660403, Postal: 21500, Coordinates: 28.986, 82.27
+
+#### भेरीमालिका (Bheri Malika)
+
+Code: NP0660302, Postal: 21500, Coordinates: 28.709, 82.161
+
+#### छेडागाड (Chhedagad)
+
+Code: NP0660301, Postal: 21500, Coordinates: 28.752, 82.017
+
+#### जुनीचाँदे (Junichande)
+
+Code: NP0660401, Postal: 21500, Coordinates: 28.902, 81.987
+
+#### कुसे (Kuse)
+
+Code: NP0660402, Postal: 21500, Coordinates: 28.881, 82.148
+
+#### नलगाड (Nalgad)
+
+Code: NP0660303, Postal: 21500, Coordinates: 28.866, 82.391
+
+#### शिवालय (Shivalaya)
+
+Code: NP0660404, Postal: 21500, Coordinates: 28.691, 81.931
+
+### जुम्ला (Jumla)
+
+Code: NP0663, Coordinates: 29.239, 82.199
+Local Units: 8
+
+#### चन्दननाथ (Chandannath)
+
+Code: NP0663301, Postal: 21200, Coordinates: 29.303, 82.15
+
+#### गुठिचौर (Guthichaur)
+
+Code: NP0663407, Postal: 21200, Coordinates: 29.197, 82.397
+
+#### हिमा (Hima)
+
+Code: NP0663404, Postal: 21200, Coordinates: 29.271, 81.93
+
+#### कनकासुन्दरी (Kanaka Sundari)
+
+Code: NP0663401, Postal: 21200, Coordinates: 29.412, 82.05
+
+#### पातारासी (Patarasi)
+
+Code: NP0663403, Postal: 21200, Coordinates: 29.368, 82.368
+
+#### सिंजा (Sinja)
+
+Code: NP0663402, Postal: 21200, Coordinates: 29.342, 82.029
+
+#### तातोपानी (Tatopani)
+
+Code: NP0663406, Postal: 21200, Coordinates: 29.133, 82.15
+
+#### तिला (Tila)
+
+Code: NP0663405, Postal: 21200, Coordinates: 29.186, 81.984
+
+### कालिकोट (Kalikot)
+
+Code: NP0664, Coordinates: 29.216, 81.689
+Local Units: 9
+
+#### खाँडाचक्र (Khandachakra)
+
+Code: NP0664302, Postal: 21300, Coordinates: 29.158, 81.666
+
+#### महावै (Mahawai)
+
+Code: NP0664406, Postal: 21300, Coordinates: 29.041, 81.856
+
+#### नरहरिनाथ (Naraharinath)
+
+Code: NP0664401, Postal: 21300, Coordinates: 29.221, 81.531
+
+#### पचाल झरना (Pachal Jharana)
+
+Code: NP0664403, Postal: 21300, Coordinates: 29.26, 81.721
+
+#### पलाता (Palata)
+
+Code: NP0664404, Postal: 21300, Coordinates: 29.34, 81.84
+
+#### रास्कोट (Raskot)
+
+Code: NP0664301, Postal: 21300, Coordinates: 29.275, 81.644
+
+#### सान्नी त्रिवेणी (Sanni Tribeni)
+
+Code: NP0664402, Postal: 21300, Coordinates: 29.264, 81.584
+
+#### कालिका (Shuva Kalika)
+
+Code: NP0664405, Postal: 21300, Coordinates: 29.08, 81.629
+
+#### तिलागुफा (Tilagupha)
+
+Code: NP0664303, Postal: 21300, Coordinates: 29.147, 81.852
+
+### मुगु (Mugu)
+
+Code: NP0665, Coordinates: 29.678, 82.531
+Local Units: 4
+
+#### छायाँनाथ रारा (Chhayanath Rara)
+
+Code: NP0665301, Postal: 21100, Coordinates: 29.535, 82.152
+
+#### खत्याड (Khatyad)
+
+Code: NP0665401, Postal: 21100, Coordinates: 29.53, 81.9
+
+#### मुगुमकार्मारोग (Mugumakarmarog)
+
+Code: NP0665403, Postal: 21100, Coordinates: 29.678, 82.531
+
+#### सोरु (Soru)
+
+Code: NP0665402, Postal: 21100, Coordinates: 29.637, 81.969
+
+### पश्चिम रुकुम (Rukum West)
+
+Code: NP0652, Coordinates: 28.756, 82.428
+Local Units: 6
+
+#### आठबिसकोट (Aathabisakot)
+
+Code: NP0652301, Postal: 22000, Coordinates: 28.846, 82.519
+
+#### बाँफिकोट (Banphikot)
+
+Code: NP0652402, Postal: 22000, Coordinates: 28.711, 82.509
+
+#### चौरजहारी (Chaurjahari)
+
+Code: NP0652302, Postal: 22000, Coordinates: 28.636, 82.251
+
+#### मुसिकोट (Musikot)
+
+Code: NP0652303, Postal: 22000, Coordinates: 28.612, 82.47
+
+#### सानीभेरी (Sanibheri)
+
+Code: NP0652401, Postal: 22000, Coordinates: 28.67, 82.343
+
+#### त्रिवेणी (Tribeni)
+
+Code: NP0652403, Postal: 22000, Coordinates: 28.568, 82.427
+
+### सल्यान (Salyan)
+
+Code: NP0653, Coordinates: 28.407, 82.168
+Local Units: 10
+
+#### बागचौर (Bagachour)
+
+Code: NP0653302, Postal: 22200, Coordinates: 28.472, 82.318
+
+#### बनगाड कुपिण्डे (Banagad Kupinde)
+
+Code: NP0653301, Postal: 22200, Coordinates: 28.493, 82.067
+
+#### छत्रेश्वरी (Chhatreshwori)
+
+Code: NP0653405, Postal: 22200, Coordinates: 28.358, 82.305
+
+#### दार्मा (Darma)
+
+Code: NP0653402, Postal: 22200, Coordinates: 28.55, 82.318
+
+#### कालीमाटी (Kalimati)
+
+Code: NP0653404, Postal: 22200, Coordinates: 28.297, 81.962
+
+#### कपुरकोट (Kapurkot)
+
+Code: NP0653407, Postal: 22200, Coordinates: 28.249, 82.358
+
+#### कुमाख (Kumakh)
+
+Code: NP0653401, Postal: 22200, Coordinates: 28.554, 82.192
+
+#### शारदा (Sharada)
+
+Code: NP0653303, Postal: 22200, Coordinates: 28.388, 82.167
+
+#### सिद्ध कुमाख (Siddha Kumakh)
+
+Code: NP0653403, Postal: 22200, Coordinates: 28.473, 82.174
+
+#### त्रिवेणी (Tribeni)
+
+Code: NP0653406, Postal: 22200, Coordinates: 28.286, 82.192
+
+### सुर्खेत (Surkhet)
+
+Code: NP0659, Coordinates: 28.658, 81.514
+Local Units: 9
+
+#### बराहताल (Barahatal)
+
+Code: NP0659402, Postal: 21700, Coordinates: 28.654, 81.449
+
+#### भेरीगंगा (Bheriganga)
+
+Code: NP0659302, Postal: 21700, Coordinates: 28.47, 81.681
+
+#### बीरेन्द्रनगर (Birendranagar)
+
+Code: NP0659303, Postal: 21700, Coordinates: 28.599, 81.606
+
+#### चौकुने (Chaukune)
+
+Code: NP0659401, Postal: 21700, Coordinates: 28.859, 81.277
+
+#### चिङ्गाड (Chingad)
+
+Code: NP0659403, Postal: 21700, Coordinates: 28.627, 81.839
+
+#### गुर्भाकोट (Gurbhakot)
+
+Code: NP0659305, Postal: 21700, Coordinates: 28.437, 81.9
+
+#### लेकबेशी (Lekabeshi)
+
+Code: NP0659304, Postal: 21700, Coordinates: 28.536, 81.762
+
+#### पञ्चपुरी (Panchapuri)
+
+Code: NP0659301, Postal: 21700, Coordinates: 28.789, 81.402
+
+#### सिम्ता (Simta)
+
+Code: NP0659404, Postal: 21700, Coordinates: 28.545, 81.943
+

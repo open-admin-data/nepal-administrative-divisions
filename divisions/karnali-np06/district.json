@@ -1,0 +1,492 @@
+[
+  {
+    "id": "NP0661",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दैलेख",
+      "en": "Dailekh",
+      "slug": "dailekh-np0661"
+    },
+    "code": {
+      "id": "NP0661",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.885",
+      "lon": "81.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डोल्पा",
+      "en": "Dolpa",
+      "slug": "dolpa-np0662"
+    },
+    "code": {
+      "id": "NP0662",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.214",
+      "lon": "83.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "हुम्ला",
+      "en": "Humla",
+      "slug": "humla-np0666"
+    },
+    "code": {
+      "id": "NP0666",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "30.026",
+      "lon": "81.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "जाजरकोट",
+      "en": "Jajarkot",
+      "slug": "jajarkot-np0660"
+    },
+    "code": {
+      "id": "NP0660",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.869",
+      "lon": "82.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "जुम्ला",
+      "en": "Jumla",
+      "slug": "jumla-np0663"
+    },
+    "code": {
+      "id": "NP0663",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.239",
+      "lon": "82.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कालिकोट",
+      "en": "Kalikot",
+      "slug": "kalikot-np0664"
+    },
+    "code": {
+      "id": "NP0664",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.216",
+      "lon": "81.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0665",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मुगु",
+      "en": "Mugu",
+      "slug": "mugu-np0665"
+    },
+    "code": {
+      "id": "NP0665",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.678",
+      "lon": "82.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पश्चिम रुकुम",
+      "en": "Rukum West",
+      "slug": "rukum-west-np0652"
+    },
+    "code": {
+      "id": "NP0652",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.756",
+      "lon": "82.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सल्यान",
+      "en": "Salyan",
+      "slug": "salyan-np0653"
+    },
+    "code": {
+      "id": "NP0653",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.407",
+      "lon": "82.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सुर्खेत",
+      "en": "Surkhet",
+      "slug": "surkhet-np0659"
+    },
+    "code": {
+      "id": "NP0659",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.658",
+      "lon": "81.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

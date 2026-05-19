@@ -1,0 +1,674 @@
+[
+  {
+    "id": "NP0323303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बाह्रबिसे",
+      "en": "Bahrabise",
+      "slug": "bahrabise-np0323303"
+    },
+    "code": {
+      "id": "NP0323303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.84",
+      "lon": "85.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बलेफी",
+      "en": "Balephi",
+      "slug": "balephi-np0323406"
+    },
+    "code": {
+      "id": "NP0323406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.787",
+      "lon": "85.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भोटेकोशी",
+      "en": "Bhotekoshi",
+      "slug": "bhotekoshi-np0323404"
+    },
+    "code": {
+      "id": "NP0323404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.933",
+      "lon": "85.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौतारा साँगाचोकगढी",
+      "en": "Choutara Sangachowkgadhi",
+      "slug": "choutara-sangachowkgadhi-np0323302"
+    },
+    "code": {
+      "id": "NP0323302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.751",
+      "lon": "85.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हेलम्बु",
+      "en": "Helambu",
+      "slug": "helambu-np0323401"
+    },
+    "code": {
+      "id": "NP0323401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "28.006",
+      "lon": "85.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ईन्द्रावती",
+      "en": "Indrawoti",
+      "slug": "indrawoti-np0323405"
+    },
+    "code": {
+      "id": "NP0323405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.786",
+      "lon": "85.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "जुगल",
+      "en": "Jugal",
+      "slug": "jugal-np0323403"
+    },
+    "code": {
+      "id": "NP0323403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "28.003",
+      "lon": "85.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323409",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिसंखु पाखर",
+      "en": "Lisankhu Pakhar",
+      "slug": "lisankhu-pakhar-np0323409"
+    },
+    "code": {
+      "id": "NP0323409",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.677",
+      "lon": "85.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेलम्ची",
+      "en": "Melamchi",
+      "slug": "melamchi-np0323301"
+    },
+    "code": {
+      "id": "NP0323301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.82",
+      "lon": "85.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाँचपोखरी थाङपाल",
+      "en": "Panchpokhari Thangpal",
+      "slug": "panchpokhari-thangpal-np0323402"
+    },
+    "code": {
+      "id": "NP0323402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "28.008",
+      "lon": "85.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुनकोशी",
+      "en": "Sunkoshi",
+      "slug": "sunkoshi-np0323407"
+    },
+    "code": {
+      "id": "NP0323407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.711",
+      "lon": "85.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रिपुरासुन्दरी",
+      "en": "Tripurasundari",
+      "slug": "tripurasundari-np0323408"
+    },
+    "code": {
+      "id": "NP0323408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0323",
+      "level": 2,
+      "name": {
+        "local": "सिन्धुपाल्चोक",
+        "en": "Sindhupalchok",
+        "slug": "sindhupalchok-np0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0323",
+        "level": 2,
+        "name": {
+          "local": "सिन्धुपाल्चोक",
+          "en": "Sindhupalchok",
+          "slug": "sindhupalchok-np0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.748",
+      "lon": "85.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

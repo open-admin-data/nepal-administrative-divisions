@@ -1,0 +1,49 @@
+{
+  "id": "NP0442",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "पर्वत",
+    "en": "Parbat",
+    "slug": "parbat-np0442"
+  },
+  "code": {
+    "id": "NP0442",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP04",
+    "level": 1,
+    "name": {
+      "local": "गण्डकी",
+      "en": "Gandaki",
+      "slug": "gandaki-np04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 7
+  },
+  "zip_codes": [
+    "33400"
+  ],
+  "geo": {
+    "lat": "28.203",
+    "lon": "83.728"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0775403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अपिहिमाल",
+      "en": "Apihimal",
+      "slug": "apihimal-np0775403"
+    },
+    "code": {
+      "id": "NP0775403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.867",
+      "lon": "80.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "व्याँस",
+      "en": "Byas",
+      "slug": "byas-np0775401"
+    },
+    "code": {
+      "id": "NP0775401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "30.058",
+      "lon": "80.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दुहुँ",
+      "en": "Duhun",
+      "slug": "duhun-np0775402"
+    },
+    "code": {
+      "id": "NP0775402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.891",
+      "lon": "80.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लेकम",
+      "en": "Lekam",
+      "slug": "lekam-np0775406"
+    },
+    "code": {
+      "id": "NP0775406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.657",
+      "lon": "80.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महाकाली",
+      "en": "Mahakali",
+      "slug": "mahakali-np0775301"
+    },
+    "code": {
+      "id": "NP0775301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.808",
+      "lon": "80.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मालिकार्जुन",
+      "en": "Malikarjun",
+      "slug": "malikarjun-np0775404"
+    },
+    "code": {
+      "id": "NP0775404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.73",
+      "lon": "80.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मार्मा",
+      "en": "Marma",
+      "slug": "marma-np0775407"
+    },
+    "code": {
+      "id": "NP0775407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.741",
+      "lon": "80.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नौगाड",
+      "en": "Naugad",
+      "slug": "naugad-np0775405"
+    },
+    "code": {
+      "id": "NP0775405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.798",
+      "lon": "80.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शैल्यशिखर",
+      "en": "Shailyashikhar",
+      "slug": "shailyashikhar-np0775302"
+    },
+    "code": {
+      "id": "NP0775302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0775",
+      "level": 2,
+      "name": {
+        "local": "दार्चुला",
+        "en": "Darchula",
+        "slug": "darchula-np0775"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0775",
+        "level": 2,
+        "name": {
+          "local": "दार्चुला",
+          "en": "Darchula",
+          "slug": "darchula-np0775"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.706",
+      "lon": "80.574"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

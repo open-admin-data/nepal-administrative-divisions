@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0774301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दशरथचन्द",
+      "en": "Dasharathchand",
+      "slug": "dasharathchand-np0774301"
+    },
+    "code": {
+      "id": "NP0774301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.544",
+      "lon": "80.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "डिलासैनी",
+      "en": "Dilasaini",
+      "slug": "dilasaini-np0774401"
+    },
+    "code": {
+      "id": "NP0774401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.66",
+      "lon": "80.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "दोगडाकेदार",
+      "en": "Dogada Kedar",
+      "slug": "dogada-kedar-np0774402"
+    },
+    "code": {
+      "id": "NP0774402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.592",
+      "lon": "80.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "मेलौली",
+      "en": "Melauli",
+      "slug": "melauli-np0774303"
+    },
+    "code": {
+      "id": "NP0774303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.42",
+      "lon": "80.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पञ्चेश्वर",
+      "en": "Pancheshwor",
+      "slug": "pancheshwor-np0774404"
+    },
+    "code": {
+      "id": "NP0774404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.446",
+      "lon": "80.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पाटन",
+      "en": "Patan",
+      "slug": "patan-np0774304"
+    },
+    "code": {
+      "id": "NP0774304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.45",
+      "lon": "80.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पुचौंडी",
+      "en": "Puchaundi",
+      "slug": "puchaundi-np0774302"
+    },
+    "code": {
+      "id": "NP0774302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.605",
+      "lon": "80.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "शिवनाथ",
+      "en": "Shivanath",
+      "slug": "shivanath-np0774405"
+    },
+    "code": {
+      "id": "NP0774405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.384",
+      "lon": "80.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिगास",
+      "en": "Sigas",
+      "slug": "sigas-np0774406"
+    },
+    "code": {
+      "id": "NP0774406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.45",
+      "lon": "80.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सुर्नया",
+      "en": "Surnaya",
+      "slug": "surnaya-np0774403"
+    },
+    "code": {
+      "id": "NP0774403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0774",
+      "level": 2,
+      "name": {
+        "local": "बैतडी",
+        "en": "Baitadi",
+        "slug": "baitadi-np0774"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0774",
+        "level": 2,
+        "name": {
+          "local": "बैतडी",
+          "en": "Baitadi",
+          "slug": "baitadi-np0774"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.529",
+      "lon": "80.614"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

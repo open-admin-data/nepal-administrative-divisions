@@ -1,0 +1,338 @@
+[
+  {
+    "id": "NP0325401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np0325401"
+    },
+    "code": {
+      "id": "NP0325401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.485",
+      "lon": "85.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गोदावरी",
+      "en": "Godawari",
+      "slug": "godawari-np0325301"
+    },
+    "code": {
+      "id": "NP0325301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.581",
+      "lon": "85.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोन्ज्योसोम",
+      "en": "Konjyosom",
+      "slug": "konjyosom-np0325402"
+    },
+    "code": {
+      "id": "NP0325402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.52",
+      "lon": "85.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325101",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ललितपुर",
+      "en": "Lalitpur",
+      "slug": "lalitpur-np0325101"
+    },
+    "code": {
+      "id": "NP0325101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.65",
+      "lon": "85.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महालक्ष्मी",
+      "en": "Mahalaxmi",
+      "slug": "mahalaxmi-np0325302"
+    },
+    "code": {
+      "id": "NP0325302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.632",
+      "lon": "85.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "महाङ्काल",
+      "en": "Mahankal",
+      "slug": "mahankal-np0325403"
+    },
+    "code": {
+      "id": "NP0325403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0325",
+      "level": 2,
+      "name": {
+        "local": "ललितपुर",
+        "en": "Lalitpur",
+        "slug": "lalitpur-np0325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      },
+      {
+        "id": "NP0325",
+        "level": 2,
+        "name": {
+          "local": "ललितपुर",
+          "en": "Lalitpur",
+          "slug": "lalitpur-np0325"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.476",
+      "lon": "85.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

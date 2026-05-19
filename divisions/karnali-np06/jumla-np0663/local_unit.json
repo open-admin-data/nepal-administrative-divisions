@@ -1,0 +1,450 @@
+[
+  {
+    "id": "NP0663301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चन्दननाथ",
+      "en": "Chandannath",
+      "slug": "chandannath-np0663301"
+    },
+    "code": {
+      "id": "NP0663301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.303",
+      "lon": "82.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गुठिचौर",
+      "en": "Guthichaur",
+      "slug": "guthichaur-np0663407"
+    },
+    "code": {
+      "id": "NP0663407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.197",
+      "lon": "82.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "हिमा",
+      "en": "Hima",
+      "slug": "hima-np0663404"
+    },
+    "code": {
+      "id": "NP0663404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.271",
+      "lon": "81.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कनकासुन्दरी",
+      "en": "Kanaka Sundari",
+      "slug": "kanaka-sundari-np0663401"
+    },
+    "code": {
+      "id": "NP0663401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.412",
+      "lon": "82.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पातारासी",
+      "en": "Patarasi",
+      "slug": "patarasi-np0663403"
+    },
+    "code": {
+      "id": "NP0663403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.368",
+      "lon": "82.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "सिंजा",
+      "en": "Sinja",
+      "slug": "sinja-np0663402"
+    },
+    "code": {
+      "id": "NP0663402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.342",
+      "lon": "82.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तातोपानी",
+      "en": "Tatopani",
+      "slug": "tatopani-np0663406"
+    },
+    "code": {
+      "id": "NP0663406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.133",
+      "lon": "82.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिला",
+      "en": "Tila",
+      "slug": "tila-np0663405"
+    },
+    "code": {
+      "id": "NP0663405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0663",
+      "level": 2,
+      "name": {
+        "local": "जुम्ला",
+        "en": "Jumla",
+        "slug": "jumla-np0663"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      },
+      {
+        "id": "NP0663",
+        "level": 2,
+        "name": {
+          "local": "जुम्ला",
+          "en": "Jumla",
+          "slug": "jumla-np0663"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.186",
+      "lon": "81.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "NP0324",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "काभ्रेपलाञ्चोक",
+    "en": "Kavrepalanchok",
+    "slug": "kavrepalanchok-np0324"
+  },
+  "code": {
+    "id": "NP0324",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 13
+  },
+  "zip_codes": [
+    "45200"
+  ],
+  "geo": {
+    "lat": "27.545",
+    "lon": "85.624"
+  },
+  "metadata": {},
+  "source": {}
+}

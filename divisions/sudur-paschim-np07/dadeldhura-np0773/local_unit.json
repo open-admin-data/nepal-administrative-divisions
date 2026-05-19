@@ -1,0 +1,394 @@
+[
+  {
+    "id": "NP0773404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "आलिताल",
+      "en": "Aalital",
+      "slug": "aalital-np0773404"
+    },
+    "code": {
+      "id": "NP0773404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.115",
+      "lon": "80.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अजयमेरु",
+      "en": "Ajayameru",
+      "slug": "ajayameru-np0773402"
+    },
+    "code": {
+      "id": "NP0773402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.364",
+      "lon": "80.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "अमरगढी",
+      "en": "Amargadhi",
+      "slug": "amargadhi-np0773302"
+    },
+    "code": {
+      "id": "NP0773302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.306",
+      "lon": "80.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "भागेश्वर",
+      "en": "Bhageshwor",
+      "slug": "bhageshwor-np0773401"
+    },
+    "code": {
+      "id": "NP0773401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.282",
+      "lon": "80.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "गन्यापधुरा",
+      "en": "Ganyapdhura",
+      "slug": "ganyapdhura-np0773405"
+    },
+    "code": {
+      "id": "NP0773405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.248",
+      "lon": "80.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "नवदुर्गा",
+      "en": "Nawadurga",
+      "slug": "nawadurga-np0773403"
+    },
+    "code": {
+      "id": "NP0773403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.363",
+      "lon": "80.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "परशुराम",
+      "en": "Parashuram",
+      "slug": "parashuram-np0773301"
+    },
+    "code": {
+      "id": "NP0773301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0773",
+      "level": 2,
+      "name": {
+        "local": "डडेलधुरा",
+        "en": "Dadeldhura",
+        "slug": "dadeldhura-np0773"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      },
+      {
+        "id": "NP0773",
+        "level": 2,
+        "name": {
+          "local": "डडेलधुरा",
+          "en": "Dadeldhura",
+          "slug": "dadeldhura-np0773"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.13",
+      "lon": "80.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

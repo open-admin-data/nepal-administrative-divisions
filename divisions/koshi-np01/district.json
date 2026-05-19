@@ -1,0 +1,688 @@
+[
+  {
+    "id": "NP0110",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "भोजपुर",
+      "en": "Bhojpur",
+      "slug": "bhojpur-np0110"
+    },
+    "code": {
+      "id": "NP0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.175",
+      "lon": "87.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धनकुटा",
+      "en": "Dhankuta",
+      "slug": "dhankuta-np0107"
+    },
+    "code": {
+      "id": "NP0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "27.018",
+      "lon": "87.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "इलाम",
+      "en": "Ilam",
+      "slug": "ilam-np0103"
+    },
+    "code": {
+      "id": "NP0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.885",
+      "lon": "87.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "झापा",
+      "en": "Jhapa",
+      "slug": "jhapa-np0104"
+    },
+    "code": {
+      "id": "NP0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 15
+    },
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.584",
+      "lon": "87.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "खोटाङ",
+      "en": "Khotang",
+      "slug": "khotang-np0112"
+    },
+    "code": {
+      "id": "NP0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.156",
+      "lon": "86.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मोरङ",
+      "en": "Morang",
+      "slug": "morang-np0105"
+    },
+    "code": {
+      "id": "NP0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.611",
+      "lon": "87.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ओखलढुङ्गा",
+      "en": "Okhaldhunga",
+      "slug": "okhaldhunga-np0113"
+    },
+    "code": {
+      "id": "NP0113",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.336",
+      "lon": "86.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पाँचथर",
+      "en": "Panchthar",
+      "slug": "panchthar-np0102"
+    },
+    "code": {
+      "id": "NP0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.149",
+      "lon": "87.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सङ्खुवासभा",
+      "en": "Sankhuwasabha",
+      "slug": "sankhuwasabha-np0109"
+    },
+    "code": {
+      "id": "NP0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.548",
+      "lon": "87.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सोलुखुम्बु",
+      "en": "Solukhumbu",
+      "slug": "solukhumbu-np0111"
+    },
+    "code": {
+      "id": "NP0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.726",
+      "lon": "86.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सुनसरी",
+      "en": "Sunsari",
+      "slug": "sunsari-np0106"
+    },
+    "code": {
+      "id": "NP0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.641",
+      "lon": "87.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0101",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ताप्लेजुङ",
+      "en": "Taplejung",
+      "slug": "taplejung-np0101"
+    },
+    "code": {
+      "id": "NP0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.61",
+      "lon": "87.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "तेह्रथुम",
+      "en": "Terhathum",
+      "slug": "terhathum-np0108"
+    },
+    "code": {
+      "id": "NP0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.132",
+      "lon": "87.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "उदयपुर",
+      "en": "Udayapur",
+      "slug": "udayapur-np0114"
+    },
+    "code": {
+      "id": "NP0114",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.933",
+      "lon": "86.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

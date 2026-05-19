@@ -1,0 +1,49 @@
+{
+  "id": "NP0218",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "महोत्तरी",
+    "en": "Mahottari",
+    "slug": "mahottari-np0218"
+  },
+  "code": {
+    "id": "NP0218",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP02",
+    "level": 1,
+    "name": {
+      "local": "मधेश",
+      "en": "Madhesh",
+      "slug": "madhesh-np02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 15
+  },
+  "zip_codes": [
+    "45700"
+  ],
+  "geo": {
+    "lat": "26.885",
+    "lon": "85.797"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "NP0114304",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "वेलका",
+      "en": "Belaka",
+      "slug": "belaka-np0114304"
+    },
+    "code": {
+      "id": "NP0114304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.818",
+      "lon": "87.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114303",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "चौदण्डीगढी",
+      "en": "Chaudandigadhi",
+      "slug": "chaudandigadhi-np0114303"
+    },
+    "code": {
+      "id": "NP0114303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.799",
+      "lon": "86.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कटारी",
+      "en": "Katari",
+      "slug": "katari-np0114301"
+    },
+    "code": {
+      "id": "NP0114301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "27.022",
+      "lon": "86.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114595",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "कोशी टप्पु",
+      "en": "Koshi Tappu",
+      "slug": "koshi-tappu-np0114595"
+    },
+    "code": {
+      "id": "NP0114595",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.714",
+      "lon": "87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "लिम्चुङबुङ",
+      "en": "Limchunbung",
+      "slug": "limchunbung-np0114402"
+    },
+    "code": {
+      "id": "NP0114402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "27.089",
+      "lon": "86.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रौतामाई",
+      "en": "Rautamai",
+      "slug": "rautamai-np0114404"
+    },
+    "code": {
+      "id": "NP0114404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.975",
+      "lon": "86.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "ताप्ली",
+      "en": "Tapli",
+      "slug": "tapli-np0114401"
+    },
+    "code": {
+      "id": "NP0114401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "27.085",
+      "lon": "86.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "त्रियुगा",
+      "en": "Triyuga",
+      "slug": "triyuga-np0114302"
+    },
+    "code": {
+      "id": "NP0114302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.816",
+      "lon": "86.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "उदयपुरगढी",
+      "en": "Udayapurgadhi",
+      "slug": "udayapurgadhi-np0114403"
+    },
+    "code": {
+      "id": "NP0114403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0114",
+      "level": 2,
+      "name": {
+        "local": "उदयपुर",
+        "en": "Udayapur",
+        "slug": "udayapur-np0114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      },
+      {
+        "id": "NP0114",
+        "level": 2,
+        "name": {
+          "local": "उदयपुर",
+          "en": "Udayapur",
+          "slug": "udayapur-np0114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.915",
+      "lon": "86.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

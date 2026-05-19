@@ -1,0 +1,562 @@
+[
+  {
+    "id": "NP0546405",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "बगनासकाली",
+      "en": "Baganaskali",
+      "slug": "baganaskali-np0546405"
+    },
+    "code": {
+      "id": "NP0546405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.882",
+      "lon": "83.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546404",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "माथागढी",
+      "en": "Mathagadhi",
+      "slug": "mathagadhi-np0546404"
+    },
+    "code": {
+      "id": "NP0546404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.767",
+      "lon": "83.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546408",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "निस्दी",
+      "en": "Nisdi",
+      "slug": "nisdi-np0546408"
+    },
+    "code": {
+      "id": "NP0546408",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.786",
+      "lon": "83.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546406",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "पूर्वखोला",
+      "en": "Purbakhola",
+      "slug": "purbakhola-np0546406"
+    },
+    "code": {
+      "id": "NP0546406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.824",
+      "lon": "83.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546401",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रैनादेवी छहरा",
+      "en": "Rainadevi Chhahara",
+      "slug": "rainadevi-chhahara-np0546401"
+    },
+    "code": {
+      "id": "NP0546401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.857",
+      "lon": "83.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546407",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रम्भा",
+      "en": "Rambha",
+      "slug": "rambha-np0546407"
+    },
+    "code": {
+      "id": "NP0546407",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.868",
+      "lon": "83.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546302",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रामपुर",
+      "en": "Rampur",
+      "slug": "rampur-np0546302"
+    },
+    "code": {
+      "id": "NP0546302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.856",
+      "lon": "83.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546403",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "रिब्दीकोट",
+      "en": "Ribdikot",
+      "slug": "ribdikot-np0546403"
+    },
+    "code": {
+      "id": "NP0546403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.867",
+      "lon": "83.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546301",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तानसेन",
+      "en": "Tansen",
+      "slug": "tansen-np0546301"
+    },
+    "code": {
+      "id": "NP0546301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.867",
+      "lon": "83.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546402",
+    "level": 3,
+    "level_name": {
+      "local": "स्थानीय तह",
+      "en": "Local Unit"
+    },
+    "name": {
+      "local": "तिनाउ",
+      "en": "Tinau",
+      "slug": "tinau-np0546402"
+    },
+    "code": {
+      "id": "NP0546402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP0546",
+      "level": 2,
+      "name": {
+        "local": "पाल्पा",
+        "en": "Palpa",
+        "slug": "palpa-np0546"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      },
+      {
+        "id": "NP0546",
+        "level": 2,
+        "name": {
+          "local": "पाल्पा",
+          "en": "Palpa",
+          "slug": "palpa-np0546"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.767",
+      "lon": "83.468"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "NP0325",
+  "level": 2,
+  "level_name": {
+    "local": "जिल्ला",
+    "en": "District"
+  },
+  "name": {
+    "local": "ललितपुर",
+    "en": "Lalitpur",
+    "slug": "lalitpur-np0325"
+  },
+  "code": {
+    "id": "NP0325",
+    "iso": null
+  },
+  "parent": {
+    "id": "NP03",
+    "level": 1,
+    "name": {
+      "local": "बागमती",
+      "en": "Bagmati",
+      "slug": "bagmati-np03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    }
+  ],
+  "children_count": {
+    "local_unit": 6
+  },
+  "zip_codes": [
+    "44700"
+  ],
+  "geo": {
+    "lat": "27.548",
+    "lon": "85.323"
+  },
+  "metadata": {},
+  "source": {}
+}
