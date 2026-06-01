@@ -26,5 +26,9 @@
     "lon": "87.177"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/np/provinces/koshi-np01/",
+    "api": "https://openadmindata.org/api/np/"
+  }
 }

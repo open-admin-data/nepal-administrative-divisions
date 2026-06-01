@@ -26,5 +26,9 @@
     "lon": "85.393"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/np/provinces/bagmati-np03/",
+    "api": "https://openadmindata.org/api/np/"
+  }
 }

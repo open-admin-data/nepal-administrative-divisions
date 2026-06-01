@@ -27,7 +27,11 @@
       "lon": "85.393"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/bagmati-np03/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP04",
@@ -57,7 +61,11 @@
       "lon": "84.036"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/gandaki-np04/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP06",
@@ -87,7 +95,11 @@
       "lon": "82.472"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/karnali-np06/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP01",
@@ -117,7 +129,11 @@
       "lon": "87.177"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/koshi-np01/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP05",
@@ -147,7 +163,11 @@
       "lon": "82.522"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/lumbini-np05/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP02",
@@ -177,7 +197,11 @@
       "lon": "85.608"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/madhesh-np02/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   },
   {
     "id": "NP07",
@@ -207,6 +231,10 @@
       "lon": "80.919"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/np/provinces/sudur-paschim-np07/",
+      "api": "https://openadmindata.org/api/np/"
+    }
   }
 ]

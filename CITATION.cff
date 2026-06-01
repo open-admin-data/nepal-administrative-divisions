@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Nepal Administrative Divisions Dataset"
-version: "2026.05"
-date-released: "2026-05-27"
+version: "2026.06"
+date-released: "2026-06-01"
 url: "https://github.com/open-admin-data/nepal-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/nepal-administrative-divisions"
 license: CC-BY-4.0

@@ -26,5 +26,9 @@
     "lon": "85.608"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/np/provinces/madhesh-np02/",
+    "api": "https://openadmindata.org/api/np/"
+  }
 }

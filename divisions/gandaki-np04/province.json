@@ -26,5 +26,9 @@
     "lon": "84.036"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/np/provinces/gandaki-np04/",
+    "api": "https://openadmindata.org/api/np/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "80.919"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/np/provinces/sudur-paschim-np07/",
+    "api": "https://openadmindata.org/api/np/"
+  }
 }
