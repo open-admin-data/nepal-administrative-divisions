@@ -15,9 +15,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (local unit level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/np](https://openadmindata.org/np/) |
 | API | [openadmindata.org/api/np](https://openadmindata.org/api/np/) |
+| National Anthem | [🎵 Listen & Download Nepal National Anthem MP3](https://onlygames.me/national-anthems/np/) |
 
 ## Browse by Province
 

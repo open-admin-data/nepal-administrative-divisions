@@ -3,7 +3,7 @@
 > 11 districts, 88 local units
 > Code: NP04
 > Coordinates: 28.384, 84.036
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
