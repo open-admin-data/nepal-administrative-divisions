@@ -3,7 +3,7 @@
 > 9 districts, 93 local units
 > Code: NP07
 > Coordinates: 29.321, 80.919
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 13 districts, 124 local units
 > Code: NP03
 > Coordinates: 27.653, 85.393
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
